@@ -14,6 +14,9 @@
         <li class="nav-item">
           <a class='nav-link {% if page.url contains "verein" %} active {% endif %}' href="{% link de/verein/index.md %}">Verein</a>
         </li>
+        <li class="nav-item">
+          <a class='nav-link {% if page.url contains "news" %} active {% endif %}' href="{% link de/news/index.md %}">News</a>
+        </li>
         <li class="nav-item dropdown">
           <a class='nav-link {% if page.url contains "generalversammlung" %}active{% endif %} dropdown-toggle' href="{% link de/generalversammlungen/index.md %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Generalversammlungen
