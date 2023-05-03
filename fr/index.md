@@ -1,6 +1,6 @@
 ---
 
-layout: threecol-de
+layout: threecol-fr
 
 ---
 
