@@ -87,3 +87,4 @@ D: Romedi Filli (Kanton Schaffhausen) und David Signer (OPENGIS.ch) |
 15:30 - 15:45 | Kaffeepause |
               |                         | 
 15:45 - 16:50 | Workshops Teil 2 (siehe oben) | siehe oben
+{: table table-striped :}
