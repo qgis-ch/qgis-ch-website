@@ -15,7 +15,7 @@ Schanzeneckstrasse 1
 
 # Anwendertreffen 2022 Bern
 
-Das Anwendertreffen 2022 in Bern ist das 14. Treffen der Schweizer QGIS-Anwender.
+Das Anwendertreffen 2022 war das 14. Treffen der QGIS Anwendergruppe Schweiz und fand am 15. Juni 2022 in Bern statt.
 {: .alert .alert-secondary :}
 
 ## Ziele
