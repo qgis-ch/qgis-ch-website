@@ -1,0 +1,24 @@
+"time","presentation","url","presenter"
+"08:30 - 09:00","Eintreffen, Anmeldung",,
+"09:00 - 09:05","Begrüssung",,"Isabel Kiefer (OPENGIS.ch)"
+"09:05 - 09:30","Was gibt es Neues in QGIS?",https://drive.google.com/file/d/1u6jbSoQHacwOyi9aPB1Mv0ObpgHhWEFx/view?usp=sharing,"Marco Bernasocchi (OPENGIS.ch)"
+"09:30 - 09:50","INTERLIS Validierung in QGIS",https://signedav.github.io/interlis-validierung-in-qgis/interlis-validierung-in-qgis.html#/,"Oliver Grimm (Geowerkstatt)<br/>David Signer (OPENGIS.ch)"
+"09:50 - 10:10","Migration von Abwasser- und GEP-Daten nach TEKSI Abwasser (ehemals QGEP)",https://drive.google.com/file/d/1_3ICwghHkXoIjkGIeaWdyCcdVTaqe572/view?usp=sharing,"Urs Kaufmann (Holinger AG)"
+"10:10 - 10:30","Gestion du cimetière de Vevey",https://drive.google.com/file/d/1urZBezWF-6jD9R3AJJLxaGTYqW5Lvq9B/view?usp=sharing,"Rémi Bovard<br/>(Ville de Vevey)"
+"10:30 - 11:00","Kaffeepause",,
+"11:00 - 11:20","Erhebung Strassenzustand in der Stadt Biel Workflow aus Fachschale => FME => QGIS und QField und zurück",https://drive.google.com/file/d/1vnfFyYxoES9hZyka86nHpvD74klmaW38/view?usp=sharing,"Christoph Lauber (GeoplanTeam AG)"
+"11:20 - 11:35","Signalo - Fachschale zur Erfassung von Verkehrsschildern und Signalisation",https://drive.google.com/file/d/1dw-XwMf6SJuLZZMlc0inokxSdQxaoR4U/view?usp=sharing,"Isabel Kiefer (OPENGIS.ch)"
+"11:35 - 11:50","Risikokataster QRcat Kanton Solothurn",https://drive.google.com/file/d/1q3KULLbbVuvEEuFuLktoEYSMRXkFEwS6/view?usp=sharing,"Andreas Neumann<br/>(ehemals Kt. Solothurn)"
+"11:50 - 12:10","Gewässerinformationssystem Solothurn: INTERLIS, PostGIS und QGIS Hand-in-Hand",https://drive.google.com/file/d/1LKGtt7wgu7CT-j0fLJjkBWOObhZgpq8E/view?usp=sharing,"Oliver Grimm (Geowerkstatt)"
+"12:10 - 12:30","Ferngesteuertes Seilbahngefährt für die Vermessung von Luftfahrt-Hindernissen. Und PostGIS als zentrale Datenspeicherung und -analyse.",https://drive.google.com/file/d/1tjhyKam1uScslVX8HNssZfdy1aWkR1FW/view?usp=sharing,"Yvo Weidmann (GEOIDEE GmbH)"
+"12:30 - 13:30",Mittagspause,,
+"13:30 - 15:30","Workshops Teil 1<br/>
+A: 3D Visualisierung, LiDAR Punktwolken und das Profilwerkzeug<br/>
+Hörsaal OVR A111 (1. Stock)<br/>
+Einführung in die 3D-Darstellung von QGIS, inkl. Navigation und Symbolisierung. Punktwolkendarstellung und Filterung. Handhabung des Profilwerkzeuges.
+<br/><br/>
+B: QField und Formulare<br/>
+Hörsaal OVR B187 (1. Stock)<br/>
+Workshop zur Gestaltung von interaktiven Formularen in QGIS mit Anwendung in QField, verschiedene Funktionalitäten für Datendarstellung und -validierung.",,"A: Andreas Neumann (ETH Zürich)<br/>B: OPENGIS.ch"
+"15:30 - 15:45",Kaffeepause,,
+"15:45 - 16:50","Workshops Teil 2 (siehe oben)",,"siehe oben"
