@@ -1,11 +1,20 @@
 ---
 
-layout: threecol-de
+layout: plain-de
 lang: de
 
 ---
 
+<div class="container text-start">
+  <div class="row">
+    <div class="col-md-12" markdown="1">
+
 # Verein
+
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <div markdown="block">
 
 ## Organisation
 
@@ -26,9 +35,12 @@ Die formalen Einheiten der QGIS Usergruppe sind:
 Aktueller Vorstand
 
 * Präsidentin: Isabel Kiefer
-* Sekretär: Adrian Weber (DÜTSCHLER+PARTNER)
+* Sekretär: Adrian Weber (DÜTSCHLER+PARTNER AG)
 * Kassier: Andreas Vonlaufen (Stadt Uster, Leiter GIS-Kompetenzzentrum)
 * Andreas Neumann (Amt für Geoinformation Kanton Solothurn, Projektleiter)
+
+    <div class="col-md-6">
+      <div markdown="1">
 
 ## Ziele und Aktivitäten
 
@@ -54,5 +66,7 @@ Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliedsbeitrag
 
 * Grössere Kollektivmitglieder (Kanton / Provinz, Unternehmen mit > 10 Angestellten, Städte > 100.000 Einwohner): CHF 750. -
 * Kleinere kollektive Mitglieder (Unternehmen mit <= 10 Mitarbeitern, Städte <= 100000 Einwohner, Universitäten): CHF 500. -
-* Individuelle (private Mitglieder): CHF 100. -
-* Studentische Mitglieder: CHF 50. -
+* Individuelle (private Mitglieder): CHF 100.-
+* Studentische Mitglieder: CHF 50.-
+
+</div>
