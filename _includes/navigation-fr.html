@@ -11,37 +11,36 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="{% link fr/index.md %}">Home</a>
         </li>
-        <li class="nav-item">
-          <a class='nav-link {% if page.url contains "association" %} active {% endif %}' href="{% link fr/association/index.md %}">Association</a>
-        </li>
-        <li class="nav-item">
-          <a class='nav-link {% if page.url contains "news" %} active {% endif %}' href="{% link fr/news/index.md %}">Nouvelles</a>
-        </li>
         <li class="nav-item dropdown">
-          <a class='nav-link {% if page.url contains "assemblees-generales" %}active{% endif %} dropdown-toggle' href="{% link fr/assemblees-generales/index.md %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Assemblees Generales
+          <a class='nav-link {% if page.url contains "verein" %}active{% endif %} dropdown-toggle' href="{% link fr/association/index.md %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Association
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li><a class="dropdown-item" href="{% link fr/association/index.md %}">À propos de l'association</a></li>
+<li><a class="dropdown-item" href="{% link fr/association/assemblees-generales.md %}">Assemblées Générales</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class='nav-link {% if page.url contains "news" %} active {% endif %}' href="{% link fr/news/index.md %}">News</a>
+        </li>
+ <li class="nav-item dropdown">
+          <a class='nav-link {% if page.url contains "veranstaltungen" %}active{% endif %} dropdown-toggle' href="{% link fr/reunions/index.md %}" id="navbarDropdownVeranstaltungen" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Réunions
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             {% assign sorted_pages = site.pages | sort:"year" | reverse %}
             {% for p in sorted_pages %}
-  {% if p.path contains "assemblees-generales" and p.name != "index.md" %}
+  {% if p.path contains "reunions" and p.name != "index.md" %}
 <li><a class="dropdown-item" href="{{ p.url }}">{{ p.title }}</a></li>
   {% endif %}
 {% endfor %}
           </ul>
         </li>
-        <li class="nav-item dropdown">
-          <a class='nav-link {% if page.url contains "reunion-utilisateurs" %}active{% endif %} dropdown-toggle' href="{% link fr/reunion-utilisateurs/index.md %}" id="navbarDropdownVeranstaltungen" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Reunion Utilisateurs
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            {% assign sorted_pages = site.pages | sort:"year" | reverse %}
-            {% for p in sorted_pages %}
-  {% if p.path contains "reunion-utilisateurs" and p.name != "index.md" %}
-<li><a class="dropdown-item" href="{{ p.url }}">{{ p.title }}</a></li>
-  {% endif %}
-{% endfor %}
-          </ul>
+        <li class="nav-item">
+          <a class='nav-link {% if page.url contains "projets-de-soutien" %}active{% endif %}' href="{% link fr/projets-de-soutien/index.md %}">Projets de soutien</a>
+        </li>
+        <li class="nav-item">
+          <a class='nav-link {% if page.url contains "sujets" %}active{% endif %}' href="{% link fr/sujets/index.md %}">Sujets</a>
         </li>
     </ul>
     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -53,12 +52,3 @@
     </div>
   </div>
 </nav>
-
-<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
-  <ol class="breadcrumb">
-Sie sind hier:&nbsp; 
-    <li class="breadcrumb-item"><a href="#">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Library</li>
-  </ol>
-</nav>
-

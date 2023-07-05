@@ -1,7 +1,7 @@
 ---
 
-layout: plain-de
-lang: de
+layout: plain-fr
+lang: fr
 title: "Generalversammlung 2023"
 year: 2023
 date: "27. Januar 2023
@@ -12,11 +12,11 @@ Hochschulstrasse 4, 3012 Bern"
 
 ---
 
-# Generalversammlungen
+# Assemblées générales
 
-Gemäss den Statuten des Vereins findet die Generalversammlung mindestens einmal pro Jahr möglichst im ersten Quartal statt. Die Generalversammlung bildet das oberste Organ des Vereins.
+Conformément aux statuts de l'association, l'assemblée générale a lieu au moins une fois par an, si possible au cours du premier trimestre. L'assemblée générale est l'organe suprême de l'association.
 
-An der Generalversammlung werden unter Anderem den Jahresbericht des Präsidenten sowie die Jahresrechnung abgenommen, die Höhe der Mitgliederbeiträge bestimmt und das Budget fürs laufende Jahr genehmigt. Ausserdem werden an der Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
+L'assemblée générale approuve entre autres le rapport annuel du président ainsi que les comptes annuels, fixe le montant des cotisations des membres et approuve le budget pour l'année en cours. En outre, les projets de promotion pour l'année en cours sont votés lors de l'assemblée générale.
 
 ## Generalversammlung 2023
 

@@ -44,11 +44,11 @@ Die Ziele der QGIS Anwendergruppe Schweiz sind:
 
 ## Statuten der QGIS Anwendergruppe Schweiz
 
-[Statuten der QGIS Anwendergruppe Schweiz]({% link assets/verein/StatutenderQGISAnwendergruppeSchweiz.pdf %})
+[Statuten der QGIS Anwendergruppe Schweiz]({% link assets/pdf/StatutenderQGISAnwendergruppeSchweiz.pdf %})
 
 ## Antrag auf Mitgliedschaft
 
-Wenn Sie Interesse an einem Beitritt zur QGIS Usergruppe Schweiz haben, laden Sie bitte das [Antragsformular]({% link assets/verein/QGIS Usergruppe Beitrittserklaerung.pdf %}) herunter und füllen es entsprechend Ihrer Angaben aus. Sie sollten sich auch die "Statuten der QGIS Usergruppe Schweiz" herunterladen und lesen. Bitte senden Sie den unterschriebenen Antrag per Fax, Email oder per Post an die Adresse, die im Antrag angegeben ist.
+Wenn Sie Interesse an einem Beitritt zur QGIS Usergruppe Schweiz haben, laden Sie bitte das [Antragsformular]({% link assets/pdf/QGIS Usergruppe Beitrittserklaerung.pdf %}) herunter und füllen es entsprechend Ihrer Angaben aus. Sie sollten sich auch die "Statuten der QGIS Usergruppe Schweiz" herunterladen und lesen. Bitte senden Sie den unterschriebenen Antrag per Fax, Email oder per Post an die Adresse, die im Antrag angegeben ist.
 
 Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliedsbeitrag pro Jahr):
 
