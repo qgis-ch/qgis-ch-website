@@ -5,20 +5,11 @@ lang: de
 
 ---
 
-<div class="container text-start">
-  <div class="row">
-    <div class="col-md-12" markdown="1">
-
 # Verein
-
-  </div>
-  <div class="row">
-    <div class="col-md-6">
-      <div markdown="block">
 
 ## Organisation
 
-Die QGIS Usergruppe Schweiz ist ein Zusammenschluss von QGIS Anwendern in der Schweiz. Die QGIS Usergruppe ist ein Verein im Sinne des [Schweizerischen Zivilgesetzbuches (ZGB Art. 60-79)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_2/chap_2).
+Die QGIS Usergruppe Schweiz ist ein Zusammenschluss von QGIS Anwendern in der Schweiz. Die QGIS Usergruppe ist ein Verein im Sinne des [Schweizerischen Zivilgesetzbuches (ZGB Art. 60-79)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_2/chap_2){: .external-link target="BLANK" }.
 
 Die QGIS Usergruppe besteht aus:
 
@@ -39,9 +30,6 @@ Aktueller Vorstand
 * Kassier: Andreas Vonlaufen (Stadt Uster, Leiter GIS-Kompetenzzentrum)
 * Andreas Neumann (Amt für Geoinformation Kanton Solothurn, Projektleiter)
 
-    <div class="col-md-6">
-      <div markdown="1">
-
 ## Ziele und Aktivitäten
 
 Die Ziele der QGIS Anwendergruppe Schweiz sind:
@@ -56,11 +44,11 @@ Die Ziele der QGIS Anwendergruppe Schweiz sind:
 
 ## Statuten der QGIS Anwendergruppe Schweiz
 
-[Statuten der QGIS Anwendergruppe Schweiz]({% link assets/pdf/StatutenderQGISAnwendergruppeSchweiz.pdf %})
+[Statuten der QGIS Anwendergruppe Schweiz]({% link assets/verein/StatutenderQGISAnwendergruppeSchweiz.pdf %}){: .pdf-link }
 
 ## Antrag auf Mitgliedschaft
 
-Wenn Sie Interesse an einem Beitritt zur QGIS Usergruppe Schweiz haben, laden Sie bitte das [Antragsformular]({% link assets/pdf/QGIS Usergruppe Beitrittserklaerung.pdf %}) herunter und füllen es entsprechend Ihrer Angaben aus. Sie sollten sich auch die "Statuten der QGIS Usergruppe Schweiz" herunterladen und lesen. Bitte senden Sie den unterschriebenen Antrag per Fax, Email oder per Post an die Adresse, die im Antrag angegeben ist.
+Wenn Sie Interesse an einem Beitritt zur QGIS Usergruppe Schweiz haben, laden Sie bitte das [Antragsformular]({% link assets/verein/QGIS Usergruppe Beitrittserklaerung.pdf %}){: .pdf-link } herunter und füllen es entsprechend Ihrer Angaben aus. Sie sollten sich auch die "Statuten der QGIS Usergruppe Schweiz" herunterladen und lesen. Bitte senden Sie den unterschriebenen Antrag per Fax, Email oder per Post an die Adresse, die im Antrag angegeben ist.
 
 Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliedsbeitrag pro Jahr):
 
@@ -69,4 +57,3 @@ Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliedsbeitrag
 * Individuelle (private Mitglieder): CHF 100.-
 * Studentische Mitglieder: CHF 50.-
 
-</div>
