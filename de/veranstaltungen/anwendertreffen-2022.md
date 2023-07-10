@@ -1,6 +1,6 @@
 ---
 
-layout: threecol-de
+layout: plain-de
 lang: de
 title: "Anwendertreffen 2022 Bern"
 year: 2022
@@ -29,62 +29,53 @@ Das Anwendertreffen 2022 war das 14. Treffen der QGIS Anwendergruppe Schweiz und
 
 ## Organisation
 
+**Veranstalter:** QGIS-Anwendergruppe Schweiz
+
+**Kontakt:** info (at) qgis (dot) ch
+
+**Datum:** Mittwoch, 15. Juni 2022, 9:00 bis 17:00
+
+**Ort:** [Universität Bern, Gebäude UniS, Schanzeneckstrasse 1, 3012 Bern](https://www.unibe.ch/universitaet/campus__und__infrastruktur/lageplaene__und__hoerraeume/lageplaene/4__unis/index_ger.html){: .external-link target="BLANK" :}
+
+**Sprache:** gemischt (deutsch, französisch, englisch), je nach Herkunft des Referenten
+
+**Anreise:** Der Veranstaltungsort ist unmittelbar oberhalb des Hauptbahnhofs in Bern. Wir empfehlen die Anreise mit öffentlichen Verkehrsmitteln. Wenn Sie mit dem Auto anreisen können Sie das Parkhaus des Bahnhofs Bern benutzen.
+
+Vom Hauptbahnhof den Ausgang West "Die Welle" benutzen und Richtung Schanzenstrasse/Länggasse gehen. Links in die Schanzeneckstrasse einbiegen. Das Gebäude ist im Quartierplan mit der Nr. 1 bezeichnet.
+
+**Kosten:**  Die Teilnahme an den Vorträgen/Präsentationen am Vormittag ist kostenfrei, für die Workshops wird eine kleine Workshopgebühr erhoben. MitgliederInnen der QGIS Anwendergruppe Schweiz: CHF 100.-, Nicht-Mitglieder: CHF 200.-, Studierende: gratis. Die Workshop-Preise beinhalten einen kleinen Lunch (Sandwiches).
+
+**Verpflegung:** Kaffeepausen am Vormittag und Nachmittag. Mittagessen (kleiner Lunch) für Workshopteilnehmer inbegriffen.
+
+**Anmeldung:** [Anmeldeformular (Google forms)](https://forms.gle/G7dNzNKM5W7q8dAu6){: .external-link target="BLANK" :}
+
 ## Programm
 
-Zeit          | Vortrag                 | Referent(en)
-------------- | ----------------------- | --------
-              |                         |
-08:30 -<br/>09:00 | Eintreffen, Anmeldung   |
-              |                         | 
-09:00 -<br/>09:05 | Begrüssung              | Isabel Kiefer<br/>(OPENGIS.ch)
-              |                         | 
-09:05 -<br/>09:45 | QGIS Update (letzte Versionen) | Marco Bernasocchi (OPENGIS.ch)
-              |                         | 
-09:45 -<br/>10:05 | QGIS Animation Workbench (Video on Youtube) | Tim Sutton (Kartoza)
-              |                         | 
-10:05 - 10:30 | QGIS Model Baker Update - mit Fallbeispiel (ÖREB) | Romedi Filli (GIS-Fachstelle, Kt. Schaffhausen), Adrian Weber (Dütschler + Partner)
-              |                         | 
-10:30 - 11:00 | Kaffeepause | 
-              |                         | 
-11:00 - 11:10 | Dynamische Formulare und Widgets mit QGIS Expressions | Andreas Neumann (Amt für Geoinformation, Kanton Solothurn)
-              |                         | 
-11:10 - 11:30 | Analyse von Anflugtrajektorien des Flughafens Zürich basierend auf Open Source Flugtrajektorien und swisstopo-Daten 	Yvo Weidmann (Geoidee)
-              |                         | 
-11:30 - 12:00 | Teksi Infrastrukturfachschale, sowie GEP und hydraulische Analyse mit SWMM 	Alex Bosshard (Ville de Pully) und Timothée Produit (Alpnetsystem SA (IG-Group))
-              |                         | 
-12:00 - 12:20 | Das neue Profil-Werkzeug im QGIS Kern (ab Version 3.26) - Youtube Video Link | Nyall Dawson (North Road)
-              |                         | 
-12:20 - 12:30 | Cool Maps | Marco Bernasocchi (OPENGIS.ch)
-              |                         | 
-12:30 - 13:30 | Mittagspause |
-              |                         | 
-13:30 - 15:30 | Workshops Teil 1
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Zeit</th>
+      <th scope="col">Vortrag</th>
+      <th scope="col">Referent(en)</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for p in site.data.anwendertreffen-2022 %}
+    <tr>
+      <td>{{ p.time }}</td>
+      {% if p.url %}
+      <td>
+        <a href="{{ p.url }}" target="_BLANK">{{ p.presentation }}</a>
+      </td>
+      {% else %}
+      <td>{{ p.presentation }}</td>
+      {% endif %}
+      <td>{{ p.presenter }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
 
-A: Grafische Modellierung mit dem QGIS Modellierer und dem Processing Analyse-Framework (Verarbeitung)
+## Workshops
 
-Einführung in die grafische Modellierung mit dem QGIS Modellierer und dem Verarbeitungs Analyse-Framework - Vergleich mit Spatial SQL (Diskussion der Vor- und Nachteile beider Ansätze)
-
-B: QField mit QFieldCloud
-
-Workshop zu "QField 2.0" - Felddatenerfassung mit mobilen Geräten im Feld. Datensynchronisation über QFieldCloud-Dienst.
-
-C: DataPlotly (Plugin für interaktive Diagramme)
-
-DataPlotly ist ein QGIS Plugin das auf einfache Weise erlaubt interaktive, dynamische Diagramme basierend auf Layern und Tabellen in QGIS zu erzeugen. DataPlotly basiert auf der d3.js Bibliothek und SVG. DataPlotly-Diagramme lassen sich auch im Drucklayout als statische Diagramme einbinden.
-
-D: Einführung in QGIS Model Baker und Datenvalidierung
-
-Einführung in das Erstellen von QGIS-Projekten zum Erfassen von Geodaten basierend auf Interlis-Datenmodellen. Im Workshop wird gezeigt wie man QGIS-Projekte aus Interlis-Datenmodellen erstellt, wie man Zusatzinformationen aus dem "UsabILIty-Hub" nutzt, wie man Interlis-Daten importiert und exportiert und wie man die editierten Daten gegen das Datenmodell validiert und Fehler behebt.
-	
-
-A: Claas Leiner (GKG) 
-
-B: tbd (OPENGIS.ch)
-
-C: Matteo Ghetta (Faunalia)
- 
-D: Romedi Filli (Kanton Schaffhausen) und David Signer (OPENGIS.ch) | 
-15:30 - 15:45 | Kaffeepause |
-              |                         | 
-15:45 - 16:50 | Workshops Teil 2 (siehe oben) | siehe oben
-{: table table-striped :}
+Bitte bringen Sie zu den Workshops eigene Laptops mit vorinstalliertem QGIS Version 3.22 LTR mit. Für den QField Workshop bitte die neueste 2.x Version installieren. Die Workshops am Nachmittag sind kostenpflichtig ( Mitglieder: 100 CHF; Nicht-Mitglieder: 200 CHF; Studierende: gratis).
