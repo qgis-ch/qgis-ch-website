@@ -65,13 +65,18 @@ Vom Hauptbahnhof den Ausgang West "Die Welle" benutzen und Richtung Schanzenstra
       <td>{{ p.time }}</td>
       {% if p.url %}
       <td>
-        <a href="{{ p.url }}" target="_BLANK">{{ p.presentation }}</a>
+        {% assign prefix = p.url | slice: 0,5 %}
+        {% if prefix != "https" %}
+        <a href="{% link {{ p.url }} %}">{{ p.presentation }}</a>
+        {% else %}
+        <a href="{{ p.url }}" class="external-link">{{ p.presentation }}</a>
+        {% endif %}
       </td>
       {% else %}
       <td>{{ p.presentation }}</td>
       {% endif %}
       <td>{{ p.presenter }}</td>
-    </tr>
+    </tr> 
 {% endfor %}
   </tbody>
 </table>

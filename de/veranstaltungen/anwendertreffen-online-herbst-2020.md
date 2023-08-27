@@ -1,6 +1,6 @@
 ---
 
-layout: threecol-de
+layout: plain-de
 lang: de
 title: "Anwendertreffen Online Herbst 2020"
 year: 2020
@@ -12,7 +12,7 @@ location: "Online (Eduip)"
 
 # Anwendertreffen Online Herbst 2020
 
-Das Online Anwendertreffen 2020 ist das 12. Treffen der Schweizer QGIS-Anwender.
+Das Online Anwendertreffen Herbst 2020 war das 12. Treffen der Schweizer QGIS-Anwender und fand am 24. November 2020 online statt.
 {: .alert .alert-secondary :}
 
 Schwerpunkte: QGIS Server, Web Clients, Mobile Anwendungen und Synchronisation
@@ -25,11 +25,11 @@ Schwerpunkte: QGIS Server, Web Clients, Mobile Anwendungen und Synchronisation
 
 **Datum:** Dienstag, 24. November 2020, 8:55 bis 12:30
 
-**Ort:** Online - Link (inkl. Registrierung) für das Webinar.
+**Ort:** [Online - Link (inkl. Registrierung) für das Webinar](https://www.edudip.com/de/webinar/qgis-user-meeting-online-2020-anwendertreffen-reunion-des-utilisateurs/331482){: .external-link :}
 
 **Softwareanforderungen:** Moderner Webbrowser mit Video/Audio/WebRTC Support (prinzipiell alle modernen Browser). Internet Explorer ist nicht unterstützt. MS Edge sollte funktionieren. Es ist keine Zusatzsoftware notwendig. Mikrofon und Kamera sind notwendig für Referenten oder Teilnehmer die Fragen stellen wollen. Es ist kein Login erforderlich.
 
-Testlink für Browser- und Firewall
+[Testlink für Browser- und Firewall](https://webinartrainer.edudip.com/selftestwebrtc){: .external-link :}
 
 **Sprache:** englisch (internationale Referenten)
 
@@ -50,26 +50,23 @@ Die Video-Aufzeichnungen werden später im Programm verlinkt.
     </tr>
   </thead>
   <tbody>
+{% for p in site.data.anwendertreffen-online-herbst-2020 %}
     <tr>
-      <th scope="row">09:00 - 09:05</th>
-      <td>Begrüssung und Organisatorisches</td>
-      <td>Hans-Jörg Stark, Präsident QGIS Anwendergruppe Schweiz</td>
-    </tr>
-    <tr>
-      <th scope="row">09:05 - 09:20</th>
+      <td>{{ p.time }}</td>
+      {% if p.url %}
       <td>
-        <a href="https://www.youtube.com/watch?v=N0jztB1UKSM&t=7m44s">What's new in QGIS Server</a>
+        {% assign prefix = p.url | slice: 0,5 %}
+        {% if prefix != "https" %}
+        <a href="{% link {{ p.url }} %}">{{ p.presentation }}</a>
+        {% else %}
+        <a href="{{ p.url }}" class="external-link">{{ p.presentation }}</a>
+        {% endif %}
       </td>
-      <td>
-        Alessandro Pasotti, itOpen and QCooperative; QGIS PSC Member
-      </td>
+      {% else %}
+      <td>{{ p.presentation }}</td>
+      {% endif %}
+      <td>{{ p.presenter }}</td>
     </tr>
-    <tr>
-      <th scope="row">09:20 - 09:35</th>
-      <td>
-        QGIS Server Enhancement Proposals: achievements and perspectives
-      </td>
-      <td>Paul Blottiere, HyTech Imaging and QCooperative</td>
-    </tr>
+{% endfor %}
   </tbody>
 </table>
