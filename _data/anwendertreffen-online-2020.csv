@@ -1,11 +1,13 @@
-time,presentation,url,presenter
-09:00 - 09:05,Begrüssung und Organisatorisches,https://www.youtube.com/watch?v=hSf6OjaRJBw&t=12s,"Hans Jörg Stark, Präsident QGIS Anwendergruppe Schweiz / SBB"
-09:05 - 09:55,"Keynote: QGIS Animation Framework with live demos and tips and tricks",,"Nyall Dawson, North Road"
-10:10 - 10:30,"Multilingual QGIS projects and layout exports (leider gab es Screen-sharing-Probleme) - daher beachten Sie bitte auch diesen Twitter-Thread mit Erklärungen zum Thema",,Mathieu Pellerin
-10:30 - 10:50,"QGIS Modeler News",,"Lucie Nicolier, OPENGIS.ch"
-10:50 - 11:05,Pause,,
-11:05 - 11:25,"Mesh & 3D News",https://www.youtube.com/watch?v=hSf6OjaRJBw&t=2h7m8s,"Saber Razmjooei, Lutra Consulting"
-11:25 - 11:45,"QGIS geological suite",,"Vincent Mora, Oslandia"
-11:45 - 12:10,"Styling Outside the Box - Cartography Tips & Tricks",,"Klas Karlsson"
-12:10 - 12:25,"Native support for Vector Tiles in QGIS",,"Martin Dobias, Lutra Consulting"
-12:25 - 12:40,"QGIS Plugin for OpenMapTiles",https://www.youtube.com/watch?v=hSf6OjaRJBw&t=3h27m58s,"Petr Pridal, MapTiler"
+"time","presentation","url","presenter"
+"09:00 - 09:05","Begrüssung und Organisatorisches","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=12s","Hans Jörg Stark, Präsident QGIS Anwendergruppe Schweiz / SBB"
+"09:05 - 09:55","Keynote: QGIS Animation Framework with live demos and tips and tricks","https://www.youtube.com/watch?v=8R0TQlhdc1U&feature=youtu.be","Nyall Dawson, North Road"
+"09:55 – 10:10","News from QGIS.ORG. Tour of available web resources.","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=54m43s","Marco Bernasocchi, Chair QGIS.ORG and OPENGIS.ch"
+"10:10 - 10:30","Multilingual QGIS projects and layout exports (leider gab es Screen-sharing-Probleme) ","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=1h13m","Mathieu Pellerin"
+,"daher beachten Sie bitte auch diesen Twitter-Thread mit Erklärungen zum Thema","https://twitter.com/imhere_asia/status/1275427816461332481",
+"10:30 - 10:50","QGIS Modeler News","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=1h34m40s","Lucie Nicolier, OPENGIS.ch"
+"10:50 - 11:05","Pause",,
+"11:05 - 11:25","Mesh & 3D News","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=2h7m8s","Saber Razmjooei, Lutra Consulting"
+"11:25 - 11:45","QGIS geological suite","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=2h24m10s","Vincent Mora, Oslandia"
+"11:45 - 12:10","Styling Outside the Box - Cartography Tips & Tricks","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=2h45m50s","Klas Karlsson"
+"12:10 - 12:25","Native support for Vector Tiles in QGIS","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=3h5m25s","Martin Dobias, Lutra Consulting"
+"12:25 - 12:40","QGIS Plugin for OpenMapTiles","https://www.youtube.com/watch?v=hSf6OjaRJBw&t=3h27m58s","Petr Pridal, MapTiler"

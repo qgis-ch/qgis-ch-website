@@ -1,16 +1,17 @@
 "time","presentation","url","presenter"
 "08:30 - 09:00","Eintreffen, Anmeldung",,
 "09:00 - 09:05","Begrüssung",,"Isabel Kiefer (OPENGIS.ch)"
-"09:05 - 09:45","QGIS Update (letzte Versionen)","https://www.qgis.ch/de/ressourcen/anwendertreffen/2022/qgis-update-2022","Marco Bernasocchi (OPENGIS.ch)"
-"09:45- 10:05","QGIS Animation Workbench(Video on Youtube)","https://www.youtube.com/watch?v=DkS6yvnuypc","Tim Sutton (Kartoza)"
-"10:05 - 10:30","QGIS Model Baker Update - ","/assets/pdf/2022/02a_QGIS_Model_Baker_News_20220615.pdf","Romedi Filli (GIS-Fachstelle, Kt. Schaffhausen),"
-,"mit Fallbeispiel (ÖREB)","/assets/pdf/2022/02b_QGIS_ModelBaker_FallbeispielOREBK.pdf"," Adrian Weber (Dütschler + Partner)"
+"09:05 - 09:45","QGIS Update (letzte Versionen)","assets/pdf/2022/01_QGIS Update Anwendertag 2022.pdf","Marco Bernasocchi (OPENGIS.ch)"
+"09:45- 10:05","QGIS Animation Workbench<br/>(Video on Youtube)","https://www.youtube.com/watch?v=DkS6yvnuypc","Tim Sutton (Kartoza)"
+"10:05 - 10:30","QGIS Model Baker Update - ","assets/pdf/2022/02a_QGIS_Model_Baker_News_20220615.pdf","Romedi Filli (GIS-Fachstelle, Kt. Schaffhausen),"
+,"mit Fallbeispiel (ÖREB)","assets/pdf/2022/02b_QGIS_ModelBaker_FallbeispielOREBK.pdf"," Adrian Weber (Dütschler + Partner)"
 "10:30 - 11:00","Kaffeepause",,
-"11:00 - 11:10","Dynamische Formulare und Widgets mit QGIS Expressions","/assets/pdf/2022/03_Dynamic Forms and Widgets with QGIS Expressions - Beispiel MJPNL.pdf","Andreas Neumann (Amt für Geoinformation, Kanton Solothurn)"
-"11:10 - 11:30","Analyse von Anflugtrajektorien des Flughafens Zürich basierend auf Open Source Flugtrajektorien und swisstopo-Daten",,"Yvo Weidmann (Geoidee)"
-"11:30 - 12:00","Teksi Infrastrukturfachschale, sowie GEP und hydraulische Analyse mit SWMM",,"Alex Bosshard (Ville de Pully) und Timothée Produit (Alpnetsystem SA (IG-Group))"
-"12:00 - 12:20","Das neue Profil-Werkzeug im QGIS Kern (ab Version 3.26) - Youtube Video Link","https://www.youtube.com/watch?v=GuL-Zst1Xcw","Nyall Dawson (North Road)"
-"12:20 - 12:30","Cool Maps",,"Marco Bernasocchi (OPENGIS.ch)"
+"11:00 - 11:10","Dynamische Formulare und Widgets mit QGIS Expressions","assets/pdf/2022/03_Dynamic Forms and Widgets with QGIS Expressions - Beispiel MJPNL.pdf","Andreas Neumann (Amt für Geoinformation, Kanton Solothurn)"
+"11:10 - 11:30","Analyse von Anflugtrajektorien des Flughafens Zürich basierend auf Open Source Flugtrajektorien und swisstopo-Daten","assets/pdf/2022/04_20220615_QGISSchweiz_Anwendertreffen.pdf","Yvo Weidmann (Geoidee)"
+"11:30 - 12:00","Teksi Infrastrukturfachschale, sowie GEP und hydraulische Analyse mit SWMM","assets/pdf/2022/05a_Teksi AG QGIS COPIL 2022-06-15.pdf","Alex Bosshard<br/>(Ville de Pully)"
+,"sowie GEP und hydraulische Analyse mit SWMM","assets/pdf/2022/05b_qgep_swmm.pdf","Timothée Produit (Alpnetsystem SA (IG-Group))"
+"12:00 - 12:20","Das neue Profil-Werkzeug im QGIS Kern (ab Version 3.26)<br/>(Video on Youtube)","https://www.youtube.com/watch?v=GuL-Zst1Xcw","Nyall Dawson<br/>(North Road)"
+"12:20 - 12:30","Cool Maps","assets/pdf/2022/07_cool_maps.pdf","Marco Bernasocchi (OPENGIS.ch)"
 "12:30 - 13:30","Mittagspause",,
 "13:30 - 15:30","Workshops Teil 1",,
 ,"A: <b>Grafische Modellierung mit dem QGIS Modellierer und dem Processing Analyse-Framework (Verarbeitung)</b><br/>
