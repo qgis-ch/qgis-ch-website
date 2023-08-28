@@ -64,7 +64,7 @@ Das Anwendertreffen 2019 war das 10. Treffen der QGIS Anwendergruppe Schweiz und
       <td>
         {% assign prefix = p.url | slice: 0,5 %}
         {% if prefix != "https" %}
-        <a href="{% link {{ p.url }} %}">{{ p.presentation }}</a>
+        <a href="{% link {{ p.url }} %}" class="pdf-link">{{ p.presentation }}</a>
         {% else %}
         <a href="{{ p.url }}" class="external-link">{{ p.presentation }}</a>
         {% endif %}
