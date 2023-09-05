@@ -2,18 +2,17 @@
 "ab 08:45","Begrüssungskaffee (gesponsert von der Firma Sourcepole)",,
 "09:20 – 09:30","Begrüssung",,"Horst Düster, Kanton Solothurn"
 "09:30 – 10:00","Vorstellen des QGIS-Projekts: Community, Open-Source Entwicklung, Support (kommerziell und community)",,"Otto Dassau (GBD-consult, Hannover; QGIS Community Advisor)"
-"10:00 – 10:30","Datenformatunterstützung  (inkl. Interlis und Spatialite)",,"Horst Düster (Kanton Solothurn), Pirmin Kalberer (Sourcepole Bad Ragaz)"
+"10:00 – 10:30","Datenformatunterstützung  (inkl. Interlis und Spatialite)",,"Horst Düster (Kanton Solothurn)<br/>Pirmin Kalberer (Sourcepole Bad Ragaz)"
 "10:30 – 11:00","Kaffeepause (gesponsert von der Firma Dütschler & Nägeli)",,
 "11:00 – 11:30","Editieren und Konstruieren",,"Stefan Ziegler (Kanton Solothurn)"
 "11:30 – 12:00","Symbolisierung, Labelling und Kartenlayout",," Marco Hugentobler (HUGIS GmbH, Adliswil; QGIS Technical Advisor)"
 "12:00 – 13:40","Mittagspause ",,
 ,"QGIS in der Praxis",,
-"13:40 – 14:00","Parkplatzinventar und Grünflächenverwaltung im GIS-Thun - Mathias Bigler (Dütschler & Naegeli, Thun)",,
-"14:00 – 14:30","QGIS in der Lehre- Claas Leiner (Universität Kassel)",,
-"14:30 – 14:50","Viewer für Abwasser-Werkplan und Formularerstellung im GIS-Uster - Andreas Neumann (Stadt Uster)",,
-"14:50 – 15:10","Google Maps über das Openlayers-Plugin einbinden - Pirmin Kalberer (Sourcepole, Bad Ragaz)",,
+"13:40 – 14:00","Parkplatzinventar und Grünflächenverwaltung im GIS-Thun",,"Mathias Bigler (Dütschler & Naegeli, Thun)"
+"14:00 – 14:30","QGIS in der Lehre",,"Claas Leiner (Universität Kassel)"
+"14:30 – 14:50","Viewer für Abwasser-Werkplan und Formularerstellung im GIS-Uster",,"Andreas Neumann (Stadt Uster)"
+"14:50 – 15:10","Google Maps über das Openlayers-Plugin einbinden",,"Pirmin Kalberer (Sourcepole, Bad Ragaz)"
 "15:10 – 15:20","Erfahrungen beim QGis-Einsatz im Lebensministerium in Österreich",,"Philipp Gmeiner und Wolfgang Fahrner<br/>(Lebensministerium, Wien)"
-" "," ",,
-,"Kaffeepause (gesponsert vom Kanton Solothurn SO!GIS)",,
+"15:20 – 15:50","Kaffeepause (gesponsert vom Kanton Solothurn SO!GIS)",,
 "15:50 – 16:10","GRASS Integration: Fortgeschrittene Analysefunktionen mit dem GRASS-Plugin",,"Otto Dassau (GBD-consult, Hannover)"
 "16:10 – 16:40","Diskussion, Fragerunde, Koordination künftige Arbeiten - alle",,"alle"
