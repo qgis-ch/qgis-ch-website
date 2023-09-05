@@ -1,22 +1,16 @@
-"time","presentation","url","presenter"
-"ab 08:30","Begrüssungskaffee, Anmeldung",,
-" ",,,
-"09:00 – 09:05","Begrüssung, Organisatorisches",,
-"09:05 - 09:10: Infos zur QGIS Anwendergruppe Schweiz; Andreas Neumann (Stadt Uster)",,,
-"09:10 - 09:50: Neue Features in QGIS 1.8/QGIS Trunk; Otto Dassau (Geoinformatik Büro Dassau) und Marco Hugentobler (Sourcepole)",,,
-"09:50 - 10:10: SEXTANTE meets QGIS - ein neues Analyseframework für QGIS; Werner Macho (Wien)",,,
-"10:10 - 10:30: Projekt QGIS auf Android; Marco Bernasocchi (BernaWebdesign)",,,
-" ",,,
-"10:30 - 11:00: Kaffeepause (gesponsert von der Firma Sourcepole)",,,
-" ",,,
-"11:00 - 12:30: Vortragsblock 2",,,
-"11:00 - 11:30: QGIS Migration in der Vorarlberger Landesverwaltung - Gründe, Erfahrungen und mehr; Johannes Kanonier u. NIkolaus Batlogg (Land Vorarlberg)",,,
-"11:30 - 11:50: Einsatz von QGIS in der Stadtverwaltung Jena: QGIS Desktop, QGIS Web und Reporting; Bernhard Ströbl (Stadt Jena)",,,
-"11:50 - 12:10: Personnalisation de l'interface de QGIS - exemple du projet EDUGeo; Yves Jacolin (Camptocamp)",,,
-"12:10 - 12:30: Management of a water network in QGIS - Challenges & opportunities; Denis Rouzaud (SIGE, Vevey)",,,
-" ",,,
-"12:30 - 14:00: Mittagspause (kleiner Mittagslunch für Workshopteilnehmer in der Workshopgebühr inbegriffen)",,,
-" ",,,
-"14:00 - 15:30: Workshops Teil 1, Themen siehe unten",,,
-"15:30 - 15:45: Kaffeepause (gesponsert von der Firma Camptocamp)",,,
-"15:45 - 17:00: Workshops Teil 2, Themen siehe unten",,,
+time,presentation,url,presenter
+ab 08:30,"Begrüssungskaffee, Anmeldung",,
+09:00 – 09:05,"Begrüssung, Organisatorisches",,
+09:05 - 09:10,Infos zur QGIS Anwendergruppe Schweiz,,Andreas Neumann (Stadt Uster)
+09:10 - 09:50,Neue Features in QGIS 1.8/QGIS Trunk,,Otto Dassau (Geoinformatik Büro Dassau) und Marco Hugentobler (Sourcepole)
+09:50 - 10:10,SEXTANTE meets QGIS - ein neues Analyseframework für QGIS,,Werner Macho (Wien)
+10:10 - 10:30,Projekt QGIS auf Android,,Marco Bernasocchi (BernaWebdesign)
+10:30 - 11:00,Kaffeepause (gesponsert von der Firma Sourcepole),,
+11:00 - 11:30,"QGIS Migration in der Vorarlberger Landesverwaltung - Gründe, Erfahrungen und mehr",,Johannes Kanonier u. NIkolaus Batlogg (Land Vorarlberg)
+11:30 - 11:50,"Einsatz von QGIS in der Stadtverwaltung Jena: QGIS Desktop, QGIS Web und Reporting",,Bernhard Ströbl (Stadt Jena)
+11:50 - 12:10,Personnalisation de l'interface de QGIS - exemple du projet EDUGeo,,Yves Jacolin (Camptocamp)
+12:10 - 12:30,Management of a water network in QGIS - Challenges & opportunities,,"Denis Rouzaud (SIGE, Vevey)"
+12:30 - 14:00,Mittagspause (kleiner Mittagslunch für Workshopteilnehmer in der Workshopgebühr inbegriffen),,
+14:00 - 15:30,"Workshops Teil 1, Themen siehe unten",,
+15:30 - 15:45,Kaffeepause (gesponsert von der Firma Camptocamp),,
+15:45 - 17:00,"Workshops Teil 2, Themen siehe unten",,
