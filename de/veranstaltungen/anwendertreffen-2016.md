@@ -2,17 +2,17 @@
 
 layout: plain-de
 lang: de
-title: "Anwendertreffen 2017 Bern"
-year: 2017
-date: "21.06.2017
+title: "Anwendertreffen 2016 Bern"
+year: 2016
+date: "15.06.2017
 von 08:30- 17:00"
 location: "Bern"
 
 ---
 
-# Anwendertreffen 2017 Bern
+# Anwendertreffen 2016 Bern
 
-Das Anwendertreffen 2017 war das 8. Treffen der QGIS Anwendergruppe Schweiz und fand am 21. Juni 2017 in Bern statt.
+Das Anwendertreffen 2016 das 7. Treffen der QGIS Anwendergruppe Schweiz und fand am 15. Juni 2016 in Bern statt.
 {: .alert .alert-secondary :}
 
 ## Ziele
@@ -30,7 +30,7 @@ Das Anwendertreffen 2017 war das 8. Treffen der QGIS Anwendergruppe Schweiz und 
 
 **Kontakt:** info (at) qgis (dot) ch
 
-**Datum:** Mittwoch, 21. Juni 2017, 9:00 bis 17:00
+**Datum:** Mittwoch, 15. Juni 2016, 9:00 bis 17:00
 
 **Ort:** [Universität Bern, Gebäude UniS, Schanzeneckstrasse 1](http://www.bau.unibe.ch/plaene/hgexwiunis.htm){: .external-link :}
 
@@ -44,7 +44,7 @@ Vom Hauptbahnhof den Ausgang West "Die Welle" benutzen und Richtung Schanzenstra
 
 **Verpflegung:** Kaffeepausen am Vormittag und Nachmittag. Mittagessen (kleiner Lunch) für Workshopteilnehmer inbegriffen.
 
-**Anmeldung:**  [Anmeldeformular mit Zahlungsinformationen](https://docs.google.com/forms/d/e/1FAIpQLSeaywil8HXvpJrP7EEMKjeK0rU9Ya_pLEzvxL7NMO8DdmPI8A/viewform){: .external-link :} (Google Forms)
+**Anmeldung:**  [Anmeldeformular](https://docs.google.com/forms/d/1dTnfQrI2xFbZwptgy3qXwDN0HFJZtbYZNVPgsgP1XK8/viewform?usp=send_form){: .external-link :} (Google Docs) mit Zahlungsinformationen (Zahlung nur für Workshops)
 
 ## Programm
 
@@ -57,7 +57,7 @@ Vom Hauptbahnhof den Ausgang West "Die Welle" benutzen und Richtung Schanzenstra
     </tr>
   </thead>
   <tbody>
-{% for p in site.data.anwendertreffen-2017 %}
+{% for p in site.data.anwendertreffen-2016 %}
     <tr>
       <td>{{ p.time }}</td>
       {% if p.url %}
@@ -80,8 +80,8 @@ Vom Hauptbahnhof den Ausgang West "Die Welle" benutzen und Richtung Schanzenstra
 
 ## Workshops
 
-Bitte bringen Sie zu den Workshops eigene Laptops mit vorinstalliertem QGIS mit.
+Bitte bringen Sie zu den Workshops eigene Laptops mit vorinstalliertem QGIS 2.14 mit.
 
-Workshop A: benötigt QGIS 2.18 und 1 Android-Tablet (oder Telefon mit grösserem Bildschirm)
+Workshop A: benötigt neben QGIS (2.14 oder Master Nightly oder Weekly Build) auch eine PostGIS Installation, Java und ili2pg. [Die Unterlagen für diesen Workshop finden Sie hier](https://sogeo.services/slides/qgis_anwendertreffen/2016-qgis-ili2pg-workshop_v02_11pt.pdf){: .external-link :}.
 
-Workshop B: benötigt QGIS 2.18
+Workshop B: bitte bringen Sie falls möglich parallel zu QGIS 2.14 eine Snapshot-Version von QGIS 2.15 an den Workshop mit (Entwicklerversion, Preview von Version 2.16). Einige Beispiele im Workshop werden auf diese Version abzielen. [Bitte installieren Sie die neueste Weekly Version](http://qgis.org/downloads/weekly/?C=M;O=D){: .external-link :} möglichst kurz vor dem Workshop.

@@ -1,24 +1,17 @@
-"time","presentation","url","presenter"
-"09:00 – 09:05","Begrüssung",,
-"09:05 – 09:30","Vorschau neue Funktionen in QGIS 2.0, ",,"Marco Hugentobler (Sourcepole)<br/>Otto Dassau (Geoinformatik Büro Dassau)"
-"09:30 - 10:00: Formulare und Relationen, Matthias Kuhn (Geographie, Univ. Zürich)","09:30 - 10:00: Formulare und Relationen, Matthias Kuhn (Geographie, Univ. Zürich)",,
-"10:00 - 10:30: Das SEXTANTE Analyse Framework und Model Builder, Victor Olaya (OpenGeo) - Vortrag auf englisch","10:00 - 10:30: Das SEXTANTE Analyse Framework und Model Builder, Victor Olaya (OpenGeo) - Vortrag auf englisch",,
-" ",,,
-"10:30 - 11:00: Kaffeepause","10:30 - 11:00: Kaffeepause",,
-" ",,,
-"11:00 - 12:30: Vortragsblock 2",,,
-"11:00 - 11:40: Atlas Serial Printing und 3D Preview, Vincent Picavet (Oslandia) - Vortrag auf englisch oder französisch",,,
-"11:40 - 12:10: Neues von QGIS Cloud und QGIS Server, Horst Düster (Sourcepole AG)",,,
-"12:10 – 12:30","Verifikation von Interlis-Daten mit QGIS und dem VeriSO-Plugin",,"Stefan Ziegler (Kanton Solothurn)"
-" ",,,
-"12:30 – 14:00","Mittagspause<br/>(kleiner Mittagslunch für Workshopteilnehmer in der Workshopgebühr inbegriffen)",,
-" ",,,
-"14:00 – 15:30","Workshops Teil 1",,
-,"Workshop 1: SEXTANTE Analyseframework und Model Builder, Victor Olaya (OpenGeo), Otto Dassau (Geoinformatik Büro Dassau) - Workshop auf englisch",,
-,"Workshop 2: Neue Funktionen für Symbolisierung, Beschriftung und Layout - Marco Hugentobler (Sourcepole), Andreas Neumann (Stadt Uster)",,
-,"Workshop 3: Einführung in die QGIS Plugin-Programmierung mit Python - Horst Düster (Sourcepole)",,
-" ",,,
-"15:30 - 15:45: Kaffeepause","Kaffeepause",,
-" ",,,
-"15:45 - 17:00: Workshops Teil 2, Themen siehe unten",,,
-"Fortsetzung Workshop 1-3",,,
+time,presentation,url,presenter
+09:00 – 09:05,Begrüssung,,
+09:05 – 09:30,"Vorschau neue Funktionen in QGIS 2.0, ",,Marco Hugentobler (Sourcepole)<br/>Otto Dassau (Geoinformatik Büro Dassau)
+09:30 - 10:00,Formulare und Relationen,,"Matthias Kuhn (Geographie, Uni Zürich)"
+10:00 - 10:30,Das SEXTANTE Analyse Framework und Model Builder (Vortrag auf Englisch),,Victor Olaya (OpenGeo)
+10:30 - 11:00,Kaffeepause,,
+11:00 - 11:40,Atlas Serial Printing und 3D Preview,,Vincent Picavet (Oslandia)
+11:40 - 12:10,Neues von QGIS Cloud und QGIS Server,,Horst Düster (Sourcepole AG)
+12:10 – 12:30,Verifikation von Interlis-Daten mit QGIS und dem VeriSO-Plugin,,Stefan Ziegler (Kanton Solothurn)
+12:30 – 14:00,Mittagspause<br/>(kleiner Mittagslunch für Workshopteilnehmer in der Workshopgebühr inbegriffen),,
+14:00 – 15:30,Workshops Teil 1,,
+,Workshop 1:<br/>SEXTANTE Analyseframework und Model Builder (Workshop auf Englisch),,Victor Olaya (OpenGeo)<br/>Otto Dassau (Geoinformatik Büro Dassau)
+,"Workshop 2:<br/>Neue Funktionen für Symbolisierung, Beschriftung und Layout",,Marco Hugentobler (Sourcepole)<br/>Andreas Neumann (Stadt Uster)
+,Workshop 3: Einführung in die QGIS Plugin-Programmierung mit Python,,Horst Düster (Sourcepole)
+ ,,,
+15:30 – 15:45,Kaffeepause,,
+15:45 – 17:00,"Workshops Teil 2, Themen siehe unten",,
