@@ -1,5 +1,5 @@
 name: Build and deploy website
-run-name: ${{ github.repositoy }} is built and deployed
+run-name: ${{ github.repository }} is built and deployed
 on: [push]
 jobs:
   Jekyll:
