@@ -1,5 +1,5 @@
 name: Build and deploy website
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.repositoy }} is built and deployed
 on: [push]
 jobs:
   Jekyll:
@@ -20,6 +20,6 @@ jobs:
 
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          ls ${{ github.workspace }}/_site/
       
       - run: echo "This job's status is ${{ job.status }}."
