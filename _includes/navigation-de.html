@@ -1,54 +1,57 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">
-      <img src="/assets/img/logo.png" alt="Q" width="30" height="24">
-   </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="{% link de/index.md %}">Home</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class='nav-link {% if page.url contains "verein" %}active{% endif %} dropdown-toggle' href="{% link de/verein/index.md %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Verein
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-<li><a class="dropdown-item" href="{% link de/verein/index.md %}">Über den Verein</a></li>
-<li><a class="dropdown-item" href="{% link de/verein/generalversammlungen.md %}">Generalversammlungen</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class='nav-link {% if page.url contains "news" %} active {% endif %}' href="{% link de/news/index.md %}">News</a>
-        </li>
- <li class="nav-item dropdown">
-          <a class='nav-link {% if page.url contains "veranstaltungen" %}active{% endif %} dropdown-toggle' href="{% link de/veranstaltungen/index.md %}" id="navbarDropdownVeranstaltungen" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Veranstaltungen
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            {% assign sorted_pages = site.pages | sort:"year" | reverse %}
-            {% for p in sorted_pages %}
-  {% if p.path contains "veranstaltungen" and p.name != "index.md" %}
-<li><a class="dropdown-item" href="{{ p.url }}">{{ p.title }}</a></li>
-  {% endif %}
-{% endfor %}
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class='nav-link {% if page.url contains "foerderprojekte" %}active{% endif %}' href="{% link de/foerderprojekte/index.md %}">Förderprojekte</a>
-        </li>
-        <li class="nav-item">
-          <a class='nav-link {% if page.url contains "themen" %}active{% endif %}' href="{% link de/themen/index.md %}">Themen</a>
-        </li>
-    </ul>
-    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-       <li class="nav-item ms-auto">
-          <a class="nav-link" href="/fr/">français</a>
-       </li>
-     </ul>
-      </ul>
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="/assets/img/logo.png" alt="Q" width="30" height="24">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="{% link de/index.md %}">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class='nav-link {% if page.url contains "verein" %}active{% endif %} dropdown-toggle' href="{% link de/verein/index.md %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Verein
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="{% link de/verein/index.md %}">Über den Verein</a></li>
+                        <li><a class="dropdown-item" href="{% link de/verein/generalversammlungen.md %}">Generalversammlungen</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link {% if page.url contains "news" %} active {% endif %}' href="{% link de/news/index.md %}">News</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class='nav-link {% if page.url contains "veranstaltungen" %}active{% endif %} dropdown-toggle' href="{% link de/veranstaltungen/index.md %}" id="navbarDropdownVeranstaltungen" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Veranstaltungen
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        {% assign sorted_pages = site.pages | sort:"year" | reverse %}
+                        {% for p in sorted_pages %}
+                        {% if p.path contains "veranstaltungen" and p.name != "index.md" %}
+                        <li><a class="dropdown-item" href="{{ p.url }}">{{ p.title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link {% if page.url contains "kurse" %}active{% endif %}' href="{% link de/kurse/index.md %}">Kurse</a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link {% if page.url contains "foerderprojekte" %}active{% endif %}' href="{% link de/foerderprojekte/index.md %}">Förderprojekte</a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link {% if page.url contains "themen" %}active{% endif %}' href="{% link de/themen/index.md %}">Themen</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item ms-auto">
+                    <a class="nav-link" href="/fr/">français</a>
+                </li>
+            </ul>
+            </ul>
+        </div>
     </div>
-  </div>
 </nav>
