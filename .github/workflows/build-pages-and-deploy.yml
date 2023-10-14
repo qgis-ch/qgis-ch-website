@@ -17,10 +17,6 @@ jobs:
       - name: Build website with Jekyll
         uses: jerryjvl/jekyll-build-action@v1
 
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}/_site/
-
       - name: Copy the files to the server using rsync
         uses: burnett01/rsync-deployments@6.0.0
         with:
