@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 22 * * 5"
+
 jobs:
   Jekyll:
     name: Build Jekyll site and deploy it to the web server
