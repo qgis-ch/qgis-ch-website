@@ -7,4 +7,5 @@ lang: de
 
 # Aktuelle Kurse
 
-# Vergangene Kurse
+
+{% include courstable-de.html %}
