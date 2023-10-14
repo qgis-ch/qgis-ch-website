@@ -26,7 +26,7 @@ jobs:
 
       - name: Write courses pages
         run: |
-          cd ./scripts./; ./write-courses.py
+          cd ./scripts/; ./write-courses.py
 
       - name: Build website with Jekyll
         uses: jerryjvl/jekyll-build-action@v1
