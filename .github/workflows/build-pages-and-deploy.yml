@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 22 * * 5"
+    - cron: "0 22 * * 1,3,5"
 
 jobs:
   Jekyll:
