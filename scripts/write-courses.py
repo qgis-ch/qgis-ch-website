@@ -20,7 +20,7 @@ def run():
         filename = f"../_includes/courstable-%s.html" % (lang)
 
         with open(f"../_data/kurse-cours.csv", newline='') as csvfile:
-            reader = csv.reader(csvfile, delimiter=";")
+            reader = csv.reader(csvfile, delimiter=",")
             
             # Skip header row
             next(reader, None)
