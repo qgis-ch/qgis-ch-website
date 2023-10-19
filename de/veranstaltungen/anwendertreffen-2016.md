@@ -12,7 +12,7 @@ location: "Bern"
 
 # Anwendertreffen 2016 Bern
 
-Das Anwendertreffen 2016 das 7. Treffen der QGIS Anwendergruppe Schweiz und fand am 15. Juni 2016 in Bern statt.
+Das Anwendertreffen 2016 war das 7. Treffen der QGIS Anwendergruppe Schweiz und fand am 15. Juni 2016 in Bern statt.
 {: .alert .alert-secondary :}
 
 ## Ziele
