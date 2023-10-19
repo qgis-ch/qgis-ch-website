@@ -1,6 +1,6 @@
 time,presentation,url,presenter
 08:30 - 09:00,"Eintreffen, Anmeldung",,
-09:00 - 09:05,"Begrüssung, Neuigkeiten QGIS Anwendergruppe",assets/pdf/2016/01_QGIS_Anwendertreffen-2016-News-QGIS-CH.pdf,"Andreas Neumann (GIS-Fachstelle, Kt. Zug)"
+09:00 - 09:05,"Begrüssung, Neuigkeiten QGIS Anwendergruppe",assets/pdf/2016/01_QGIS_Anwendertreffen-2016-News-QGIS-CH.pdf,"Andreas Neumann<br/>(GIS-Fachstelle, Kanton Zug)"
 09:05 - 09:40,"Neue Funktionen in QGIS 2.12, 2.14 und 2.16",assets/pdf/2016/QGIS_improvements_from_2_10-to-2_16 -2.pdf,"Andreas Neumann (GIS-Fachstelle, Kt. Zug) und Matthias Kuhn (OpenGIS)"
 09:40 - 09:55,Arbeiten mit Geopackage und QGIS,assets/pdf/2016/03_geopackages-qgis-usertag-2016.pdf,Pirmin Kalberer (Sourcepole)
 09:55 - 10:05,QField Status update (QField videos),https://vimeo.com/search?q=qfield,Matthias Kuhn (OpenGIS)
@@ -14,8 +14,8 @@ time,presentation,url,presenter
 12:20 - 12:40,Ausgewählte neue QGIS Plugins,assets/pdf/2016/10_QGIS-Anwendertreffen_2016_Neue_QGIS_Plugins_Keller.pdf,Stefan Keller (Hochschule Rapperswil)
 12:40 - 14:00,Mittagspause,,
 14:00 - 15:30,Workshops Teil 1,,
-,"A: Vom Datenmodell zur QGIS Fachschale:<br/>Datenmodellierung mit ili2pg, Datenimport in PostGIS, Konfektionierung von Relationen und Formularen in QGIS",,"A: Stefan Ziegler (Amt für Geoinformation, Kanton Solothurn) und Oliver Jeker (AGIS Service Center, Kanton Aargau)"
-,"B: Neue Möglichkeiten in Symbologie und Beschriftung:<br/>Geometriegeneratoren, 2.5d Renderer, Pfeildarstellungen, Beschriftungsverbesserungen, etc.",,"B: Andreas Neumann (GIS Fachstelle, Kanton Zug)"
+,"A: Vom Datenmodell zur QGIS Fachschale:<br/>Datenmodellierung mit ili2pg, Datenimport in PostGIS, Konfektionierung von Relationen und Formularen in QGIS",,"A: Stefan Ziegler (Amt für Geoinformation, Kanton Solothurn)<br/>Oliver Jeker (AGIS Service Center, Kanton Aargau)"
+,"B: Neue Möglichkeiten in Symbologie und Beschriftung:<br/>Geometriegeneratoren, 2.5d Renderer, Pfeildarstellungen, Beschriftungsverbesserungen, etc.",,"B: Andreas Neumann<br/>(GIS Fachstelle, Kanton Zug)"
 ,C: Karten publizieren mit QGIS Cloud,,C: Pirmin Kalberer und Sandro Mani (Sourcepole)
 15:30 - 15:45,Kaffeepause,,
 15:45 - 17:00,Workshops Teil 2 (siehe oben),,siehe oben
