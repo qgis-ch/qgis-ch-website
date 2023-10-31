@@ -37,7 +37,7 @@ jobs:
       - name: Copy the files to the server using rsync
         uses: burnett01/rsync-deployments@6.0.0
         with:
-          switches: -auvxP --delete --exclude="/invoice" --exclude="/invoice-usermeeting" --exclude="/qgisuser"
+          switches: -avxP --delete --exclude="/invoice" --exclude="/invoice-usermeeting" --exclude="/qgisuser"
           path: _site/*
           remote_path: /var/www/sites/qgisch
           remote_host: ${{ secrets.HOST }}
