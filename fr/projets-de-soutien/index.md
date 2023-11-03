@@ -1,8 +1,5 @@
 ---
 
-layout: plain-fr
-lang: fr
-
 ---
 
 # Aktuelle Förderprojekte 2023

@@ -1,7 +1,5 @@
 ---
 
-layout: threecol-de
-lang: de
 title: "Online Mini-Workshops"
 ### always on top
 year: 9999

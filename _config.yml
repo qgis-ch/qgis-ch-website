@@ -39,6 +39,16 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "de"
+    values:
+      lang: "de"
+      layout: "plain-de"
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
+      layout: "plain-fr"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
