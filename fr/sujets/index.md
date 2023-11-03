@@ -1,7 +1,5 @@
 ---
 
-layout: plain-fr
-lang: fr
 
 ---
 

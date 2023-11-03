@@ -1,8 +1,6 @@
 ---
 
-layout: plain-de
-lang: de
-title: "Generalversammlung 2023"
+title: "Generalversammlungen"
 year: 2023
 date: "27. Januar 2023
 13:30 - 16:30"

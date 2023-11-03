@@ -1,8 +1,5 @@
 ---
 
-layout: plain-de
-lang: de
-
 ---
 
 # Aktuelle Kurse
