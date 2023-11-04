@@ -1,40 +1,62 @@
 ---
 
+title: Sujets
 
 ---
 
-# QGIS Model Baker
+# Sujets
 
-Model Baker ist ein [QGIS plugin](https://plugins.qgis.org/plugins/QgisModelBaker/){: .external-link target="BLANK"}, welches das schnelle Erstellen von QGIS Projekten aus physischen Datenmodellen erlaubt. Ausserdem lässt es mittels graphischen Ansteuerung der [ili2db](https://github.com/claeis/ili2db/blob/master/docs/ili2db.rst){: .external-link target="BLANK"} Tools [INTERLIS](https://www.interlis.ch/){: .external-link target="BLANK"} Modelle und Daten bequem in QGIS importieren, exportieren und validieren.
+Les thèmes et projets suivants présentent un intérêt particulier pour
+l'association et sont soutenus en conséquence.
 
-Model Baker verwendet ili2db, um ein INTERLIS-Modell in eine physische Datenbank zu importieren und die vorhandene Datenstruktur sowie Metainformationen für die Konfiguration des QGIS Projekts mit Legende, Formularlayouts, Relationen und vielem mehr. Diese Automatisierung reduziert den Konfigurationsaufwand massiv.
+## QGIS Model Baker
 
-* [QGIS Model Baker Dokumentation](https://opengisch.github.io/QgisModelBaker/de/){: .external-link target="BLANK"}
+Model Baker est un
+[QGIS plugin](https://plugins.qgis.org/plugins/QgisModelBaker/){: .external-link :}
+qui permet de créer rapidement des projets QGIS à partir de modèles de données
+physiques.
+En outre, il permet d'importer, d'exporter et de valider facilement des
+[modèles et des données INTERLIS](https://www.interlis.ch/){: .external-link :}
+dans QGIS par le biais d'une commande graphique des programmes
+[ili2db](https://github.com/claeis/ili2db/blob/master/docs/ili2db.rst){: .external-link :}.
 
-* [QGIS Model Baker Code Repository](https://github.com/opengisch/QgisModelBaker){: .external-link target="BLANK"}
+Model Baker utilise ili2db pour importer un modèle INTERLIS dans une base de
+données physique et la structure de données existante ainsi que les
+méta-informations pour la configuration du projet QGIS avec les légendes, les
+mises en page de formulaires, les relations et bien plus encore. Cette
+automatisation réduit massivement les efforts de configuration.
 
-* [Kurzpräsentation QGIS Model Baker]({% link /assets/themen/2019-06-13_QGIS-Model-Baker.pdf %}){: .pdf-link target="BLANK"} vom Anwendertreffen 2019
+* [QGIS Model Baker Dokumentation](https://opengisch.github.io/QgisModelBaker/de/){: .external-link :}
+
+* [QGIS Model Baker Code Repository](https://github.com/opengisch/QgisModelBaker){: .external-link :}
+
+* [Brève présentation de QGIS Model Baker]({% link /assets/themen/2019-06-13_QGIS-Model-Baker.pdf %}){: .pdf-link :}
+  lors de la réunions des utilisateurs 2019
 
 # TEKSI
 
-[www.teksi.ch](https://www.teksi.ch/){: .external-link target="BLANK"}
+[www.teksi.ch](https://www.teksi.ch/){: .external-link :}
 
 # Swiss Locator
 
-Swiss Locator ist ein Plugin für QGIS zur Suche von Geodaten und Orte vom Online Geoportal [https://map.geo.admin.ch](https://map.geo.admin.ch){: .external-link target="BLANK"}:
+Swiss Locator est un plugin pour QGIS pour la recherche de géodonnées et de
+lieux sur le géoportail [https://map.geo.admin.ch](https://map.geo.admin.ch){: .external-link :}:
 
-* Orte
-  * Kantone, Städte und Gemeinden
-  * alle Lokalisationen, wie sie auf der Landeskarte gedruckt sind (SwissNames)
-  * Adressen und Postleitzahlen
-  * Katasterparzellen
-* WMS-Ebenen aus dem Geoportal des Bundes oder von [opendata.swiss](https://opendata.swiss){: .external-link target="BLANK"}, welche als neue Layer in das Kartenfenster hinzugefügt werden können
+* des lieux
+  * des cantons, villes et communes
+  * toutes les localisations telles qu'elles sont imprimées sur la carte
+    nationale (SwissNames)
+  * des adresses et codes postaux
+  * les parcelles cadastrales
+* Couches WMS provenant du géoportail de la Confédération ou d'
+[opendata.swiss](https://opendata.swiss){: .external-link :}, qui peuvent être
+ajoutées comme nouvelles couches dans la fenêtre de carte.
 
-* [Swiss Locator Code Repository](https://github.com/opengisch/qgis-swiss-locator){: .external-link target="BLANK"}
+* [Swiss Locator Code Repository](https://github.com/opengisch/qgis-swiss-locator){: .external-link :}
 
 # DXF Export
 
-Das [DXF bzw. DWG Format](https://de.wikipedia.org/wiki/Drawing_Interchange_Format){: .external-link target="BLANK"} ist für Ingenieurbüros, Kommunen und Kantone zentral für den Austausch von Geodaten mit Architekten und Planern. Gemeinden und Werkleitungsbetreiber in der Schweiz unterstützten daher gemeinsam die Entwicklung einer guten DXF Exportfunktion direkt aus QGIS, welche einfach zu bedienen ist. Das vorrangige Ziel ist der Export von Leitungs- und Vermessungsdaten.
+Das [DXF bzw. DWG Format](https://de.wikipedia.org/wiki/Drawing_Interchange_Format){: .external-link :} ist für Ingenieurbüros, Kommunen und Kantone zentral für den Austausch von Geodaten mit Architekten und Planern. Gemeinden und Werkleitungsbetreiber in der Schweiz unterstützten daher gemeinsam die Entwicklung einer guten DXF Exportfunktion direkt aus QGIS, welche einfach zu bedienen ist. Das vorrangige Ziel ist der Export von Leitungs- und Vermessungsdaten.
 
 Die Exportfunktion kann über das Menü _Projekt_ => _Import/Export_ => _Projekt als DXF speichern_ aufgerufen werden.
 

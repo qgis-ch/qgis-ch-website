@@ -1,6 +1,6 @@
 ---
 
-title: "Réunion 2010 Berne"
+title: "Réunion des utilisateurs 2010 Berne"
 year: 2010
 date: "21.04.2010
 von 09:00- 17:00"
@@ -8,7 +8,7 @@ location: "Berne"
 
 ---
 
-# Réunion 2010 Berne
+# Réunion des utilisateurs 2010 à Berne
 
 La rencontre des utilisateurs 2010 était la 1ère rencontre du groupe d'utilisateurs QGIS Suisse et a eu lieu le 21 avril 2010 à Berne.
 {: .alert .alert-secondary :}

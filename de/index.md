@@ -53,8 +53,10 @@ title: "Herzlich Willkommen"
 </div>
 <div class="row">
   <div class="col-md-12">
-Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist ein Verein zur Förderung
-von QGIS und Vernetzung von QGIS Anwender in der Schweiz. Die Anwendergruppe ist
+Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist eine unabhängige, nicht
+profitorientierte Vereinigung von QGIS Benutzer zur Förderung und Koordination
+von Weiterentwicklungen von QGIS sowie zum Erfahrungsaustausch und
+Vernetzung unter Vereinsmitglieder. Die Anwendergruppe ist
 ein Verein im Sinne des schweizerischen Zivilgesetzbuches Artikel 60 bis 79.
 Derzeit gibt es über 100 Mitglieder aus Behörden, Firmen, Universitäten und
 Einzelpersonen.

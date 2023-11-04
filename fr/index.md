@@ -51,14 +51,19 @@ title: "Bienvenue"
 </div>
 <div class="row">
   <div class="col-md-12">
-    <h1>QGIS Anwendergruppe Schweiz</h1>
+    <h1>Groupe d'utilisateur QGIS Suisse</h1>
   </div>
 </div>
 <div class="row">
   <div class="col-md-12">
-Le Groupe d'utilisateurs QGIS est une association des utilisateurs QGIS en
-Suisse. Le Groupe d'utilisateurs QGIS est une association selon les art. 60-79
-du Code Civil (CC) suisse.
+Le Groupe d'utilisateurs QGIS Suisse (en abrégé QGIS-CH) est une association
+indépendante et sans but lucratif des utilisateurs de QGIS pour la promotion et
+la coordination des développements de QGIS ainsi que pour l'échange d'expériences
+et de mise en réseau des membres de l'association.
+Le groupe d'utilisateurs est une association au sens des articles 60 à 79 du Code
+civil suisse.
+Actuellement, il y a plus de 100 membres provenant d'autorités, d'entreprises,
+d'universités et d'individus. des personnes individuelles.
   </div>
 </div>
 <div class="row">
