@@ -1,5 +1,7 @@
 ---
 
+title: "À propos de l'association"
+
 ---
 
 # Association

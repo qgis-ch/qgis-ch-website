@@ -12,9 +12,14 @@ Hochschulstrasse 4, 3012 Bern"
 
 # Generalversammlungen
 
-Gemäss den Statuten des Vereins findet die Generalversammlung mindestens einmal pro Jahr möglichst im ersten Quartal statt. Die Generalversammlung bildet das oberste Organ des Vereins.
+Gemäss den Statuten des Vereins findet die Generalversammlung mindestens einmal
+pro Jahr möglichst im ersten Quartal statt. Die Generalversammlung bildet das
+oberste Organ des Vereins.
 
-An der Generalversammlung werden unter Anderem den Jahresbericht des Präsidenten sowie die Jahresrechnung abgenommen, die Höhe der Mitgliederbeiträge bestimmt und das Budget fürs laufende Jahr genehmigt. Ausserdem werden an der Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
+An der Generalversammlung werden unter Anderem den Jahresbericht des Präsidenten
+sowie die Jahresrechnung abgenommen, die Höhe der Mitgliederbeiträge bestimmt
+und das Budget fürs laufende Jahr genehmigt. Ausserdem werden an der
+Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
 
 ## Generalversammlung 2023
 

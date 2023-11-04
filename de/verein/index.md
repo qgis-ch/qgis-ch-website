@@ -1,5 +1,7 @@
 ---
 
+title: "Über den Verein"
+
 ---
 
 # Verein
