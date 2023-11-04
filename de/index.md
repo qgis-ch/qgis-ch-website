@@ -1,5 +1,7 @@
 ---
 
+title: "Herzlich Willkommen"
+
 ---
 
 <div class="row">
@@ -51,13 +53,21 @@
 </div>
 <div class="row">
   <div class="col-md-12">
-    Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist ein Verein zur Förderung von QGIS und Vernetzung von QGIS Anwender in der Schweiz. Die Anwendergruppe ist ein Verein im Sinne des schweizerischen Zivilgesetzbuches Artikel 60 bis 79. Derzeit gibt es über 100 Mitglieder aus Behörden, Firmen, Universitäten und Einzelpersonen.
+Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist ein Verein zur Förderung
+von QGIS und Vernetzung von QGIS Anwender in der Schweiz. Die Anwendergruppe ist
+ein Verein im Sinne des schweizerischen Zivilgesetzbuches Artikel 60 bis 79.
+Derzeit gibt es über 100 Mitglieder aus Behörden, Firmen, Universitäten und
+Einzelpersonen.
   </div>
 </div>
-
-QGIS ist eine GIS Plattform bestehend aus den Komponenten Desktop-GIS, Server-GIS, Web-GIS Client und Mobile-GIS. QGIS Desktop ist eine benutzerfreundliche GIS Anwendung für das Erstellen von Karten und Layouts, das Bearbeiten und Analysieren von Geodaten. Bisher ist es beschränkt auf 2d und 2.5d Daten und Darstellungen. Es bestehen erste 3D-Komponenten, diese sind jedoch noch als experimentell zu bezeichnen. QGIS ist erweiterbar mit Hilfe der Sprachen Python und C++ und basiert auf der qt-Bibliothek von Digia.
-
+<div class="row">
+  <div class="col-md-12">
+QGIS ist eine GIS Plattform bestehend aus den Komponenten Desktop-GIS, Server-GIS,
+Web-GIS Client und Mobile-GIS. QGIS Desktop ist eine benutzerfreundliche GIS
+Anwendung für das Erstellen von Karten und Layouts, das Bearbeiten und Analysieren
+von Geodaten. Bisher ist es beschränkt auf 2d und 2.5d Daten und Darstellungen.
+Es bestehen erste 3D-Komponenten, diese sind jedoch noch als experimentell zu
+bezeichnen. QGIS ist erweiterbar mit Hilfe der Sprachen Python und C++ und basiert
+auf der qt-Bibliothek von Digia.
+  </div>
 </div>
-</div>
-
-
