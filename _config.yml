@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: QGIS Anwendergruppe Schweiz / Groupe d'utilisateurs QGIS Suisse
+title: QGIS Anwendergruppe Schweiz - Groupe d'utilisateurs QGIS Suisse - Gruppo di Utenti QGIS Svizzera
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -46,14 +46,10 @@ defaults:
       lang: "de"
       layout: "plain-de"
       description: >-
-        QGIS ist eine GIS Plattform bestehend aus den Komponenten Desktop-GIS,
-        Server-GIS, Web-GIS Client und Mobile-GIS. QGIS Desktop ist eine
-        benutzerfreundliche GIS Anwendung für das Erstellen von Karten und Layouts,
-        das Bearbeiten und Analysieren von Geodaten. 
-        Die QGIS Anwendergruppe Schweiz ist ein Verein der QGIS Anwender in der
-        Schweiz. Es ist ein Verein im Sinne des schweizerischen Zivilgesetzbuches
-        gemäss Artikel 60-79. Derzeit gibt es circa 120 Mitglieder aus Behörden,
-        Firmen, Universitäten und Einzelpersonen.
+        Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist eine unabhängige, nicht
+        profitorientierte Vereinigung von QGIS Benutzer zur Förderung und Koordination
+        von Weiterentwicklungen von QGIS sowie zum Erfahrungsaustausch und
+        Vernetzung unter Vereinsmitglieder. 
 
   - scope:
       path: "fr"
@@ -61,14 +57,10 @@ defaults:
       lang: "fr"
       layout: "plain-fr"
       description: >-
-        QGIS est une plate-forme SIG constitué de composants bureautique, serveur,
-        web et mobile. QGIS Desktop est une application SIG conviviale pour créer
-        des cartes et des mises en page, l'édition et l'analyse des données spatiales.
-        Le Groupe d'utilisateurs QGIS est une association des utilisateurs QGIS
-        en Suisse. Le Groupe d'utilisateurs QGIS est une association selon les
-        art. 60-79 du Code Civil (CC) suisse. Il compte actuellement environ 120
-        membres issus des pouvoirs publics, des entreprises, des universités et
-        des individus.
+        Le Groupe d'utilisateurs QGIS Suisse (en abrégé QGIS-CH) est une association
+        indépendante et sans but lucratif des utilisateurs de QGIS pour la promotion et
+        la coordination des développements de QGIS ainsi que pour l'échange d'expériences
+        et de mise en réseau des membres de l'association.
         
 
 # Exclude from processing.

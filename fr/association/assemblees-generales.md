@@ -1,12 +1,12 @@
 ---
 
 title: "Assemblées générales"
-year: 2023
-date: "27. Januar 2023
-13:30 - 16:30"
-location: "Universität Bern,
-Hauptgebäude H4, Raum 105, 1. Stock,
-Hochschulstrasse 4, 3012 Bern"
+description: >-
+  Le Groupe d'utilisateurs QGIS Suisse (en abrégé QGIS-CH) est une association
+  indépendante et sans but lucratif des utilisateurs de QGIS pour la promotion et
+  la coordination des développements de QGIS ainsi que pour l'échange d'expériences
+  et de mise en réseau des membres de l'association. L'assemblée générale de
+  l'association a lieu chaque année au printemps.
 
 ---
 
@@ -41,7 +41,9 @@ La 10e assemblée générale a eu lieu le 25 janvier 2022 en ligne.
 
 ## Assemblée générale 2021
 
-Die GV 2021 fand wegen der COVID-Pandemie schriftlich statt per Online-Abstimmung zwischen 20.3.2021 und 9.4. Im Nachgang wurde noch über die Finanzrevisoren abgestimmt (15.-21.4.)
+En raison de la pandémie de COVID, l'AG 2021 a eu lieu par écrit en ligne, entre
+le 20 mars 2021 et le 9 avril 2021. Dans la foulée, entre le 15 et le 21 avril,
+les réviseurs financiers ont également été élus.
 {: .alert .alert-secondary :}
 
 [Invitation à l'assemblée générale 2021]({% link /assets/pdf/Traktanden_GV_OrdreDuJour_AG_QGIS-CH_2021.pdf %}){: .pdf-link :}

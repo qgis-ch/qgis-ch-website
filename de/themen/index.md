@@ -1,27 +1,46 @@
 ---
 
+title: Themen
 
 ---
 
-# QGIS Model Baker
+# Themen
 
-Model Baker ist ein [QGIS plugin](https://plugins.qgis.org/plugins/QgisModelBaker/){: .external-link target="BLANK"}, welches das schnelle Erstellen von QGIS Projekten aus physischen Datenmodellen erlaubt. Ausserdem lässt es mittels graphischen Ansteuerung der [ili2db](https://github.com/claeis/ili2db/blob/master/docs/ili2db.rst){: .external-link target="BLANK"} Tools [INTERLIS](https://www.interlis.ch/){: .external-link target="BLANK"} Modelle und Daten bequem in QGIS importieren, exportieren und validieren.
+Die folgenden Themen und Projekte sind für den Verein von besonderem
+Interesse und werden dementsprechend gefördert.
 
-Model Baker verwendet ili2db, um ein INTERLIS-Modell in eine physische Datenbank zu importieren und die vorhandene Datenstruktur sowie Metainformationen für die Konfiguration des QGIS Projekts mit Legende, Formularlayouts, Relationen und vielem mehr. Diese Automatisierung reduziert den Konfigurationsaufwand massiv.
+## QGIS Model Baker
+
+Model Baker ist ein
+[QGIS plugin](https://plugins.qgis.org/plugins/QgisModelBaker/){: .external-link target="BLANK"},
+welches das schnelle Erstellen von QGIS Projekten aus physischen Datenmodellen
+erlaubt. Ausserdem lässt es mittels graphischen Ansteuerung der
+[ili2db](https://github.com/claeis/ili2db/blob/master/docs/ili2db.rst){: .external-link target="BLANK"}
+Programme
+[INTERLIS Modelle](https://www.interlis.ch/){: .external-link target="BLANK"}
+und Daten bequem in QGIS importieren, exportieren und validieren.
+
+Model Baker verwendet ili2db, um ein INTERLIS-Modell in eine physische Datenbank
+zu importieren und die vorhandene Datenstruktur sowie Metainformationen für die
+Konfiguration des QGIS Projekts mit Legende, Formularlayouts, Relationen und
+vielem mehr. Diese Automatisierung reduziert den Konfigurationsaufwand massiv.
+
 
 * [QGIS Model Baker Dokumentation](https://opengisch.github.io/QgisModelBaker/de/){: .external-link target="BLANK"}
 
 * [QGIS Model Baker Code Repository](https://github.com/opengisch/QgisModelBaker){: .external-link target="BLANK"}
 
-* [Kurzpräsentation QGIS Model Baker]({% link /assets/themen/2019-06-13_QGIS-Model-Baker.pdf %}){: .pdf-link target="BLANK"} vom Anwendertreffen 2019
+* [Kurzpräsentation QGIS Model Baker]({% link /assets/themen/2019-06-13_QGIS-Model-Baker.pdf %}){: .pdf-link target="BLANK"}
+  vom Anwendertreffen 2019
 
 # TEKSI
 
-[www.teksi.ch](https://www.teksi.ch/){: .external-link target="BLANK"}
+[www.teksi.ch](https://www.teksi.ch/){: .external-link :}
 
 # Swiss Locator
 
-Swiss Locator ist ein Plugin für QGIS zur Suche von Geodaten und Orte vom Online Geoportal [https://map.geo.admin.ch](https://map.geo.admin.ch){: .external-link target="BLANK"}:
+Swiss Locator ist ein Plugin für QGIS zur Suche von Geodaten und Orte vom
+Geoportal [https://map.geo.admin.ch](https://map.geo.admin.ch){: .external-link :}:
 
 * Orte
   * Kantone, Städte und Gemeinden

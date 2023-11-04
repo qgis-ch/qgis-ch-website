@@ -1,12 +1,12 @@
 ---
 
 title: "Generalversammlungen"
-year: 2023
-date: "27. Januar 2023
-13:30 - 16:30"
-location: "Universität Bern,
-Hauptgebäude H4, Raum 105, 1. Stock,
-Hochschulstrasse 4, 3012 Bern"
+description: >-
+  Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist eine unabhängige, nicht
+  profitorientierte Vereinigung von QGIS Benutzer zur Förderung und Koordination
+  von Weiterentwicklungen von QGIS sowie zum Erfahrungsaustausch und
+  Vernetzung unter Vereinsmitglieder. Die Generalversammlung des Vereins findet
+  alljährlich im Frühjahr statt.
 
 ---
 
@@ -41,7 +41,9 @@ Die 10. Generalversammlung fand am 25. Januar 2022 online statt.
 
 ## Generalversammlung 2021
 
-Die GV 2021 fand wegen der COVID-Pandemie schriftlich statt per Online-Abstimmung zwischen 20.3.2021 und 9.4. Im Nachgang wurde noch über die Finanzrevisoren abgestimmt (15.-21.4.)
+Die GV 2021 fand auf Grund der COVID-Pandemie schriftlich statt per Online-Abstimmung
+zwischen 20. März 2021 und 9. April 2021. Im Nachgang zwischen 15. und 21. April
+wurde zudem die Finanzrevisoren gewählt.
 {: .alert .alert-secondary :}
 
 [Einladung zur QGIS-CH Generalversammlung 2021]({% link /assets/pdf/Traktanden_GV_OrdreDuJour_AG_QGIS-CH_2021.pdf %}){: .pdf-link :}
