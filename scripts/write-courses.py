@@ -15,7 +15,7 @@ def run():
         data = []
 
         # Get the jinia template to render HTML
-        template = environment.get_template(f"template-%s.html" % lang)
+        template = environment.get_template(f"template.html")
 
         filename = f"../_includes/courstable-%s.html" % (lang)
 
@@ -39,9 +39,11 @@ def run():
                     match lang:
                         # Append the second column for German site
                         case "de":
+                            header = ("Datum", "Kurzbeschrieb", "Link")
                             data.append((row[0], row[1], row[3]))
                         # Append the third column for French site
                         case "fr":
+                            header = ("Date", "Brève description", "Lien")
                             data.append((row[0], row[2], row[3]))
 
         # Render the template with the data

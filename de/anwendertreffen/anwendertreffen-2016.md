@@ -1,12 +1,7 @@
 ---
 
-layout: plain-de
-lang: de
 title: "Anwendertreffen 2016 Bern"
 year: 2016
-date: "15.06.2017
-von 08:30- 17:00"
-location: "Bern"
 
 ---
 

@@ -1,0 +1,47 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Zeit</th>
+            <th scope="col">Vortrag</th>
+            <th scope="col">Referent(en)</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for p in include.program %}
+        {% if page.lang == "fr" %}
+        <tr>
+            <td>{{ p.time }}</td>
+            {% if p.url %}
+            {% assign prefix = p.url | slice: 0,5 %}
+            <td>
+                {% if prefix != "https" %}
+                <a href="{{ p.url }}" class="pdf-link">{{ p.presentation_fr | default: p.presentation_de }}</a>
+                {% else %}
+                <a href="{{ p.url }}" class="external-link">{{ p.presentation_fr | default: p.presentation_de }}</a>
+                {% endif %}
+            </td>
+            {% else %}
+            <td>{{ p.presentation_fr | default: p.presentation_de }}</td>
+            {% endif %}
+            <td>{{ p.presenter_fr | default: p.presenter_de }}</td>
+        </tr>
+        {% elsif page.lang == "de" %}
+        <tr>
+            <td>{{ p.time }}</td>
+            {% if p.url %}
+            <td>
+                {% if prefix != "https" %}
+                <a href="{{ p.url }}" class="pdf-link">{{ p.presentation_de }}</a>
+                {% else %}
+                <a href="{{ p.url }}" class="external-link">{{ p.presentation_de }}</a>
+                {% endif %}
+            </td>
+            {% else %}
+            <td>{{ p.presentation_de }}</td>
+            {% endif %}
+            <td>{{ p.presenter_de }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </tbody>
+</table>

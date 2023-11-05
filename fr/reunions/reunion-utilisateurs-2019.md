@@ -1,12 +1,7 @@
 ---
 
-layout: plain-de
-lang: de
 title: "Anwendertreffen 2019 Olten"
 year: 2019
-date: "15.06.2019
-von 08:30 - 17:00"
-location: "Olten, FHNW, Aula"
 
 ---
 

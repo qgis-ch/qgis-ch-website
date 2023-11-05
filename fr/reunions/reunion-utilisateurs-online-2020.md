@@ -1,12 +1,7 @@
 ---
 
-layout: threecol-fr
-lang: fr
 title: "Anwendertreffen Online 2020"
 year: 2020
-date: "23.06.2022
-von 08:55 - 12:30"
-location: "Online"
 
 ---
 

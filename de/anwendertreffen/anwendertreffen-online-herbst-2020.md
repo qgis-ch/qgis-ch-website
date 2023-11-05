@@ -1,12 +1,7 @@
 ---
 
-layout: plain-de
-lang: de
 title: "Anwendertreffen Online Herbst 2020"
 year: 2020
-date: "24.11.2020
-von 08:55 - 12:30"
-location: "Online (Eduip)"
 
 ---
 
