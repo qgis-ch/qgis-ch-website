@@ -1,9 +1,7 @@
 ---
 
-layout: threecol-de
-lang: de
-title: "Übersicht Veranstaltungen"
+title: "Réunions des utilisateurs"
 
 ---
 
-# Veranstaltungen
+# Réunions des utilisateurs

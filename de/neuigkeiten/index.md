@@ -1,8 +1,5 @@
 ---
 
-layout: threecol-de
-lang: de
-
 ---
 
 # Neuigkeiten

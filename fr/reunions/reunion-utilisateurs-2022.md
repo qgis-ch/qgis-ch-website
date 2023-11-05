@@ -1,89 +1,62 @@
 ---
 
-layout: threecol-de
-lang: de
-title: "Anwendertreffen 2022 Bern"
+title: "Réunion des utilisateurs 2022 Berne"
 year: 2022
-date: "15.06.2022
-von 08:30 - 16:50"
-location: "Universität Bern
-Gebäude UniS
-Schanzeneckstrasse 1
-3012 Bern"
 
 ---
 
-# Anwendertreffen 2022 Bern
+# Réunion des utilisateurs 2022 Berne
 
-Das Anwendertreffen 2022 in Bern ist das 14. Treffen der Schweizer QGIS-Anwender.
+La réunion des utilisateurs 2022 était la 14ème réunion du groupe
+d'utilisateurs QGIS Suisse et a eu lieu le 15 juin à Berne.
 {: .alert .alert-secondary :}
 
 ## Ziele
 
-* Information über aktuelle Arbeiten im QGIS-Projekt
-* Austausch unter QGIS Anwendern und Networking
-* Kontakt zwischen Anwendern und Entwicklern
-* Vorstellung der neuen Features in der aktuellen Entwickler-Version
-* Vorstellung aktueller Case Studies
-* Koordination zukünftiger Entwicklungen
+* Information sur les travaux actuels du projet QGIS
+* Échange entre les utilisateurs de QGIS et réseautage
+* Contact entre utilisateurs et développeurs
+* Présentation des nouvelles fonctionnalités de la version de développement actuelle
+* Présentation d'études de cas actuelles
+* Coordination des développements futurs
 
 ## Organisation
 
+**Organisateur:** Groupe d'utilisateurs QGIS Suisse
+
+**Contact:** info (at) qgis (dot) ch
+
+**Date:** Mercredi, 15 juin 2022, 9h à 17h
+
+**Lieu:** [Université de Berne, Bâtiment UniS, Schanzeneckstrasse 1, 3012 Berne](https://www.unibe.ch/universite/campus_et_infrastructures/plans_de_situation_et_auditoires/plan_de_situation/4__unis/index_fra.html){: .external-link :}
+
+**Langue:** divers (allemand, français, anglais) selon la provenance des intervenants
+
+**Accès:** Le lieu de la réunion se trouve juste au-dessus de la gare centrale
+de Berne. Nous vous recommandons d'utiliser les transports publics pour vous y
+rendre. Si vous arrivez en voiture, vous pouvez utiliser le parking de la gare
+de Berne.
+
+Depuis la gare centrale, utiliser la sortie ouest "Die Welle" et se diriger vers
+la Schanzenstrasse/Länggasse. Tourner à gauche dans la Schanzeneckstrasse. Le
+bâtiment est désigné par le n° 1 dans le plan de quartier.
+
+**Coûts:** La participation aux conférences/présentations du matin est gratuite,
+pour les workshops, une petite taxe de workshop est demandée. Membres du Groupe
+d'utilisateurs QGIS Suisse: CHF 100.-, non-membres: CHF 200.-, étudiants:
+gratuit. Les prix des ateliers comprennent un petit lunch (sandwiches).
+
+**Restauration:** Pauses café le matin et l'après-midi. Déjeuner (petit lunch)
+pour les participants aux workshops inclus.
+
+**Inscription:** [Formulaire d'inscription (Google forms)](https://forms.gle/G7dNzNKM5W7q8dAu6){: .external-link :}
+
 ## Programm
 
-Zeit          | Vortrag                 | Referent(en)
-------------- | ----------------------- | --------
-              |                         |
-08:30 -<br/>09:00 | Eintreffen, Anmeldung   |
-              |                         | 
-09:00 -<br/>09:05 | Begrüssung              | Isabel Kiefer<br/>(OPENGIS.ch)
-              |                         | 
-09:05 -<br/>09:45 | QGIS Update (letzte Versionen) | Marco Bernasocchi (OPENGIS.ch)
-              |                         | 
-09:45 -<br/>10:05 | QGIS Animation Workbench (Video on Youtube) | Tim Sutton (Kartoza)
-              |                         | 
-10:05 - 10:30 | QGIS Model Baker Update - mit Fallbeispiel (ÖREB) | Romedi Filli (GIS-Fachstelle, Kt. Schaffhausen), Adrian Weber (Dütschler + Partner)
-              |                         | 
-10:30 - 11:00 | Kaffeepause | 
-              |                         | 
-11:00 - 11:10 | Dynamische Formulare und Widgets mit QGIS Expressions | Andreas Neumann (Amt für Geoinformation, Kanton Solothurn)
-              |                         | 
-11:10 - 11:30 | Analyse von Anflugtrajektorien des Flughafens Zürich basierend auf Open Source Flugtrajektorien und swisstopo-Daten 	Yvo Weidmann (Geoidee)
-              |                         | 
-11:30 - 12:00 | Teksi Infrastrukturfachschale, sowie GEP und hydraulische Analyse mit SWMM 	Alex Bosshard (Ville de Pully) und Timothée Produit (Alpnetsystem SA (IG-Group))
-              |                         | 
-12:00 - 12:20 | Das neue Profil-Werkzeug im QGIS Kern (ab Version 3.26) - Youtube Video Link | Nyall Dawson (North Road)
-              |                         | 
-12:20 - 12:30 | Cool Maps | Marco Bernasocchi (OPENGIS.ch)
-              |                         | 
-12:30 - 13:30 | Mittagspause |
-              |                         | 
-13:30 - 15:30 | Workshops Teil 1
+{% include program-table.html program=site.data.anwendertreffen-2022 %}
 
-A: Grafische Modellierung mit dem QGIS Modellierer und dem Processing Analyse-Framework (Verarbeitung)
+## Workshops
 
-Einführung in die grafische Modellierung mit dem QGIS Modellierer und dem Verarbeitungs Analyse-Framework - Vergleich mit Spatial SQL (Diskussion der Vor- und Nachteile beider Ansätze)
-
-B: QField mit QFieldCloud
-
-Workshop zu "QField 2.0" - Felddatenerfassung mit mobilen Geräten im Feld. Datensynchronisation über QFieldCloud-Dienst.
-
-C: DataPlotly (Plugin für interaktive Diagramme)
-
-DataPlotly ist ein QGIS Plugin das auf einfache Weise erlaubt interaktive, dynamische Diagramme basierend auf Layern und Tabellen in QGIS zu erzeugen. DataPlotly basiert auf der d3.js Bibliothek und SVG. DataPlotly-Diagramme lassen sich auch im Drucklayout als statische Diagramme einbinden.
-
-D: Einführung in QGIS Model Baker und Datenvalidierung
-
-Einführung in das Erstellen von QGIS-Projekten zum Erfassen von Geodaten basierend auf Interlis-Datenmodellen. Im Workshop wird gezeigt wie man QGIS-Projekte aus Interlis-Datenmodellen erstellt, wie man Zusatzinformationen aus dem "UsabILIty-Hub" nutzt, wie man Interlis-Daten importiert und exportiert und wie man die editierten Daten gegen das Datenmodell validiert und Fehler behebt.
-	
-
-A: Claas Leiner (GKG) 
-
-B: tbd (OPENGIS.ch)
-
-C: Matteo Ghetta (Faunalia)
- 
-D: Romedi Filli (Kanton Schaffhausen) und David Signer (OPENGIS.ch) | 
-15:30 - 15:45 | Kaffeepause |
-              |                         | 
-15:45 - 16:50 | Workshops Teil 2 (siehe oben) | siehe oben
+Veuillez apporter vos propres ordinateurs portables avec QGIS version 3.22 LTR
+préinstallé pour les workshops. Les workshops de l'après-midi sont payants
+(membres : 100 CHF ; non-membres : 200 CHF ; étudiants : gratuit).

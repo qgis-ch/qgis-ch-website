@@ -1,12 +1,7 @@
 ---
 
-layout: plain-de
-lang: de
 title: "Anwendertreffen 2018 Olten"
 year: 2018
-date: "18.06.2018
-von 08:30- 17:00"
-location: "Olten, FHNW, Aula"
 
 ---
 

@@ -44,7 +44,7 @@ defaults:
       path: "de"
     values:
       lang: "de"
-      layout: "plain-de"
+      layout: "plain"
       description: >-
         Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist eine unabhängige, nicht
         profitorientierte Vereinigung von QGIS Benutzer zur Förderung und Koordination
@@ -55,7 +55,7 @@ defaults:
       path: "fr"
     values:
       lang: "fr"
-      layout: "plain-fr"
+      layout: "plain"
       description: >-
         Le Groupe d'utilisateurs QGIS Suisse (en abrégé QGIS-CH) est une association
         indépendante et sans but lucratif des utilisateurs de QGIS pour la promotion et
