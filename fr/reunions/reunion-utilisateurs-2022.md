@@ -8,10 +8,10 @@ year: 2022
 # Réunion des utilisateurs 2022 Berne
 
 La réunion des utilisateurs 2022 était la 14ème réunion du groupe
-d'utilisateurs QGIS Suisse et a eu lieu le 15 juin à Berne.
+d'utilisateurs QGIS Suisse et a eu lieu le 15 juin 2022 à Berne.
 {: .alert .alert-secondary :}
 
-## Ziele
+## Buts
 
 * Information sur les travaux actuels du projet QGIS
 * Échange entre les utilisateurs de QGIS et réseautage
@@ -51,12 +51,13 @@ pour les participants aux workshops inclus.
 
 **Inscription:** [Formulaire d'inscription (Google forms)](https://forms.gle/G7dNzNKM5W7q8dAu6){: .external-link :}
 
-## Programm
+## Programme
 
 {% include program-table.html program=site.data.anwendertreffen-2022 %}
 
 ## Workshops
 
 Veuillez apporter vos propres ordinateurs portables avec QGIS version 3.22 LTR
-préinstallé pour les workshops. Les workshops de l'après-midi sont payants
+préinstallé pour les workshops. Pour le workshop QField, veuillez installer la
+dernière version 2.x. Les workshops de l'après-midi sont payants
 (membres : 100 CHF ; non-membres : 200 CHF ; étudiants : gratuit).

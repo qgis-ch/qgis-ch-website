@@ -8,7 +8,7 @@ year: 2023
 # Réunion des utilisateurs 2023 Olten
 
 La réunion des utilisateurs 2023 était la 15ème rencontre du groupe
-d'utilisateurs QGIS Suisse et a eu lieu le 7 juin à Olten.
+d'utilisateurs QGIS Suisse et a eu lieu le 7 Juin 2023 à Olten.
 {: .alert .alert-secondary :}
 
 ## Buts
@@ -48,7 +48,7 @@ lunch) inclus pour les participants aux workshops.
 
 **Inscription:** [Lien Google Forms](https://forms.gle/NFbZfc5gbdMvHz8Z6){: .external-link :}
 
-## Programm
+## Programme
 
 {% include program-table.html program=site.data.anwendertreffen-2023 %}
 

@@ -3,28 +3,33 @@ time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
 09:00 - 09:05,Begrüssung,Mot de bienvenue,,Isabel Kiefer (OPENGIS.ch),
 09:05 - 09:45,QGIS Update (letzte Versionen),QGIS Update (dernières versions),assets/pdf/2022/01_QGIS Update Anwendertag 2022.pdf,Marco Bernasocchi (OPENGIS.ch),
 09:45- 10:05,QGIS Animation Workbench<br/>(Video on Youtube),QGIS Animation Workbench (Lien YouTube),https://www.youtube.com/watch?v=DkS6yvnuypc,Tim Sutton (Kartoza),
-10:05 - 10:30,QGIS Model Baker Update - ,QGIS Model Baker Update,assets/pdf/2022/02a_QGIS_Model_Baker_News_20220615.pdf,"Romedi Filli (GIS-Fachstelle, Kt. Schaffhausen),","Romedi Filli (Service SIG, Ct. Schaffhouse)"
+10:05 - 10:30,QGIS Model Baker Update - ,QGIS Model Baker Update,assets/pdf/2022/02a_QGIS_Model_Baker_News_20220615.pdf,Romedi Filli (Kt. Schaffhausen),Romedi Filli (Ct. Schaffhouse)
 ,mit Fallbeispiel (ÖREB),avec étude de cas RDP cadastre RDPPF,assets/pdf/2022/02b_QGIS_ModelBaker_FallbeispielOREBK.pdf, Adrian Weber (Dütschler + Partner),
 10:30 - 11:00,Kaffeepause,Pause café,,,
-11:00 - 11:10,Dynamische Formulare und Widgets mit QGIS Expressions,Formulaires et widgets dynamiques avec QGIS Expressions,assets/pdf/2022/03_Dynamic Forms and Widgets with QGIS Expressions - Beispiel MJPNL.pdf,"Andreas Neumann (Amt für Geoinformation, Kanton Solothurn)","Andreas Neumann (Office de l'information géographique, Ct. Soleure)"
+11:00 - 11:10,Dynamische Formulare und Widgets mit QGIS Expressions,Formulaires et widgets dynamiques avec QGIS Expressions,assets/pdf/2022/03_Dynamic Forms and Widgets with QGIS Expressions - Beispiel MJPNL.pdf,Andreas Neumann (Kt. Solothurn),Andreas Neumann (Ct. Soleure)
 11:10 - 11:30,Analyse von Anflugtrajektorien des Flughafens Zürich basierend auf Open Source Flugtrajektorien und swisstopo-Daten,Analyse des trajectoires d'approche de l'aéroport de Zurich basée sur des trajectoires de vol open source et des données swisstopo,assets/pdf/2022/04_20220615_QGISSchweiz_Anwendertreffen.pdf,Yvo Weidmann (Geoidee),
 11:30 - 12:00,"Teksi Infrastrukturfachschale, sowie GEP und hydraulische Analyse mit SWMM",Module métier d'infrastructure TEKSI ; ,assets/pdf/2022/05a_Teksi AG QGIS COPIL 2022-06-15.pdf,Alex Bosshard<br/>(Ville de Pully),
-,sowie GEP und hydraulische Analyse mit SWMM,PGEE et analyse hydraulique avec SWMM,assets/pdf/2022/05b_qgep_swmm.pdf,Timothée Produit (Alpnetsystem SA (IG-Group)),
+,sowie GEP und hydraulische Analyse mit SWMM,PGEE et analyse hydraulique avec SWMM,assets/pdf/2022/05b_qgep_swmm.pdf,"Timothée Produit (Alpnetsystem SA, IG-Group)",
 12:00 - 12:20,Das neue Profil-Werkzeug im QGIS Kern (ab Version 3.26)<br/>(Video on Youtube),Le nouveau outil de profil dans QGIS (à partir de la  version 3.26) - Youtube link,https://www.youtube.com/watch?v=GuL-Zst1Xcw,Nyall Dawson<br/>(North Road),
 12:20 - 12:30,Cool Maps made with QGIS,,assets/pdf/2022/07_cool_maps.pdf,Marco Bernasocchi (OPENGIS.ch),
 12:30 - 13:30,Mittagspause,Pause de midi,,,
-13:30 - 15:30,Workshops Teil 1,,,,
+13:30 - 15:30,Workshops Teil 1,Workshops partie 1,,,
 ,"A: <b>Grafische Modellierung mit dem QGIS Modellierer und dem Processing Analyse-Framework (Verarbeitung)</b><br/>
-Einführung in die grafische Modellierung mit dem QGIS Modellierer und dem Verarbeitungs Analyse-Framework - Vergleich mit Spatial SQL (Diskussion der Vor- und Nachteile beider Ansätze)",,,"A: Claas Leiner (GKG)
+Einführung in die grafische Modellierung mit dem QGIS Modellierer und dem Verarbeitungs Analyse-Framework - Vergleich mit Spatial SQL (Diskussion der Vor- und Nachteile beider Ansätze)","A: <b>Modélisation graphique avec le modeleur QGIS et les outils de traitement et d'analyse</b><br/>
+Introduction à la modélisation graphique avec le modeleur QGIS et les outils de traitement et d'analyse - comparaison avec Spatial SQL (discussion des avantages et inconvénients des deux approches)",,"A: Claas Leiner (GKG)
  ",
 ,"B: <b>QField mit QfieldCloud</b><br/>
-Workshop zu ""QField 2.0"" - Felddatenerfassung mit mobilen Geräten im Feld. Datensynchronisation über QfieldCloud-Dienst.",,,"B: tbd (OPENGIS.ch)
+Workshop zu ""QField 2.0"" - Felddatenerfassung mit mobilen Geräten im Feld. Datensynchronisation über QfieldCloud-Dienst.","B: <b>QField avec QFieldCloud</b><br/>
+Workshop sur ""QField 2.0"" - Saisie des données de terrain avec des appareils mobiles. Synchronisation des données via le service QFieldCloud.",,"B: tbd (OPENGIS.ch)
  ",
 ,"C: <b>DataPlotly (Plugin für interaktive Diagramme)</b><br/>
-DataPlotly ist ein QGIS Plugin das auf einfache Weise erlaubt interaktive, dynamische Diagramme basierend auf Layern und Tabellen in QGIS zu erzeugen. DataPlotly basiert auf der d3.js Bibliothek und SVG. DataPlotly-Diagramme lassen sich auch im Drucklayout als statische Diagramme einbinden.",,,"C: Matteo Ghetta (Faunalia)
+DataPlotly ist ein QGIS Plugin das auf einfache Weise erlaubt interaktive, dynamische Diagramme basierend auf Layern und Tabellen in QGIS zu erzeugen. DataPlotly basiert auf der d3.js Bibliothek und SVG. DataPlotly-Diagramme lassen sich auch im Drucklayout als statische Diagramme einbinden.","C: <b>DataPlotly (extension pour diagrammes interactifs)</b><br/>
+DataPlotly est une extension QGIS qui permet de créer facilement des graphiques interactifs et dynamiques basés sur des couches et des tableaux dans QGIS. DataPlotly est basé sur la bibliothèque d3.js et SVG. Les diagrammes DataPlotly peuvent également être intégrés dans la mise en page d'impression en tant que diagrammes statiques. ",,"C: Matteo Ghetta (Faunalia)
  ",
 ,"D: <b>Einführung in QGIS Model Baker und Datenvalidierung</b><br/>
-Einführung in das Erstellen von QGIS-Projekten zum Erfassen von Geodaten basierend auf Interlis-Datenmodellen. Im Workshop wird gezeigt wie man QGIS-Projekte aus Interlis-Datenmodellen erstellt, wie man Zusatzinformationen aus dem ""UsabILIty-Hub"" nutzt, wie man Interlis-Daten importiert und exportiert und wie man die editierten Daten gegen das Datenmodell validiert und Fehler behebt.",,,"D: Romedi Filli (Kanton Schaffhausen) und David Signer (OPENGIS.ch)
- ",
-15:30 - 15:45,Kaffeepause,,,,
-15:45 - 16:50,Workshops Teil 2 (siehe oben),,,siehe oben,
+Einführung in das Erstellen von QGIS-Projekten zum Erfassen von Geodaten basierend auf Interlis-Datenmodellen. Im Workshop wird gezeigt wie man QGIS-Projekte aus Interlis-Datenmodellen erstellt, wie man Zusatzinformationen aus dem ""UsabILIty-Hub"" nutzt, wie man Interlis-Daten importiert und exportiert und wie man die editierten Daten gegen das Datenmodell validiert und Fehler behebt.","D: <b>Introduction au QGIS Model Baker et à la validation de données</b><br/>
+Introduction à la création de projets QGIS pour la saisie de données géographiques basées sur des modèles de données Interlis. Le workshop montrera comment créer des projets QGIS à partir de modèles de données Interlis, comment utiliser des informations supplémentaires provenant du ""UsabILIty-Hub"", comment importer et exporter des données Interlis et comment valider les données éditées par rapport au modèle de données et corriger les erreurs.",,"D: Romedi Filli (Kt. Schaffhausen) und David Signer (OPENGIS.ch)
+ ","D: Romedi Filli (Ct. Schaffhouse) und David Signer (OPENGIS.ch)
+ "
+15:30 - 15:45,Kaffeepause,Pause café,,,
+15:45 - 16:50,Workshops Teil 2 (siehe oben),Workshops partie 2 (voir ci-dessus),,siehe oben,voir ci-dessus

@@ -48,6 +48,7 @@ def run():
 
         # Render the template with the data
         content = template.render(
+            header=header,
             data=data
         )
 
