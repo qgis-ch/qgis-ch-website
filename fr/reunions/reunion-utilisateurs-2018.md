@@ -1,14 +1,14 @@
 ---
 
-title: "Réunion des utilisateurs 2019 Olten"
-year: 2019
+title: "Réunion des utilisateurs 2018 Olten"
+year: 2018
 
 ---
 
-# Réunion des utilisateurs 2019 Olten
+# Réunion des utilisateurs 2018 Olten
 
-La réunion des utilisateurs 2019 était la 10ème rencontre du groupe
-d'utilisateurs QGIS Suisse et a eu lieu le 13 Juin 2019 à Olten.
+La réunion des utilisateurs 2018 était la 9ème rencontre du groupe
+d'utilisateurs QGIS Suisse et a eu lieu le 18 Juin 2018 à Olten.
 {: .alert .alert-secondary :}
 
 ## Buts
@@ -26,11 +26,11 @@ d'utilisateurs QGIS Suisse et a eu lieu le 13 Juin 2019 à Olten.
 
 **Contact:** info (at) qgis (dot) ch
 
-**Date:** Jeudi, 13 juin 2019, 9:00 à 17:00
+**Date:** Lundi, 18 juin 2018, 9:00 à 17:00
 
-**Lieu:** FHNW Olten, Batiment no 4, Von Roll-Strasse 10, Salle OVR B018 (rez-de-chaussée).
+**Lieu:** FHNW Olten, Aula Riggenbachstrasse 16 (rez-de-chaussée).
 
-![Plan de situation FHNW Olten](/assets/img/lageplan_qgis_anwendertag_2023_olten.png){: .img-fluid :}
+![Plan de situation FHNW Olten]({% link /assets/img/lageplan_fhnw_aula_2018.png %}){: .img-fluid :}
 
 **Langue:** mixtes (allemand, français, anglais) selon l’origine du présentateur
 
@@ -50,23 +50,19 @@ Un petit en-cas est compris dans le prix du workshop (sandwiches).
 midi (petit lunch) est inclus.
 
 **Inscription:** [inscription sur formulaire Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfM0NLQe7hcJq_Lrpy0ry8rbtRoM2_FZDzRKZ2Dc0xyEyp5HQ/viewform?usp=sf_link){: .external-link :}
+Merci pour votre inscription!
 
 ## Programme
 
-{% include program-table.html program=site.data.anwendertreffen-2019 %}
+{% include program-table.html program=site.data.anwendertreffen-2018 %}
 
 ## Workshops
 
-Merci de venir avec vos laptops et QGIS 3.6 installé.
+Merci de venir avec vos laptops et QGIS 3.0 installé.
 
-**Workshop A:** Laptop avec [QGIS 3.6](https://qgis.org/en/site/forusers/download.html){: .external-link :},
-réception WLAN, [PostGIS](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads){: .external-link :}
-(installé localement), Java, [ili2pg](http://www.eisenhutinformatik.ch/interlis/ili2pg/){: .external-link :},
-[il2gpkg](http://www.eisenhutinformatik.ch/interlis/ili2gpkg/){: .external-link :}
-et [ilivalidator](https://github.com/claeis/ilivalidator/releases){: .external-link :}.
+**Workshop A:** Laptop avec QGIS 3.x, réception WLAN, PostGIS (installé
+localement)
 
-**Workshop B+C:** Laptop avec [QGIS 3.6](https://qgis.org/en/site/forusers/download.html){: .external-link :}
-et réception WLAN.
-
-**Workshop D:** Laptop avec QGIS 3.6, réception WLAN, Android tablet (version >= 6)
-ou téléphone avec GPS et WLAN.
+**Workshop B:** Laptop avec QGIS 3.x et un tablet out téléphone avec Android,
+Câble de connexion ou communication sans fil entre l'ordinateur portable et
+l'appareil mobile. 

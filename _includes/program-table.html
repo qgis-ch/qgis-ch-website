@@ -15,7 +15,7 @@
             {% assign prefix = p.url | slice: 0,5 %}
             <td>
                 {% if prefix != "https" %}
-                <a href="{{ p.url }}" class="pdf-link">{{ p.presentation_fr | default: p.presentation_de }}</a>
+                <a href="{% link {{ p.url }} %}" class="pdf-link">{{ p.presentation_fr | default: p.presentation_de }}</a>
                 {% else %}
                 <a href="{{ p.url }}" class="external-link">{{ p.presentation_fr | default: p.presentation_de }}</a>
                 {% endif %}
@@ -29,9 +29,10 @@
         <tr>
             <td>{{ p.time }}</td>
             {% if p.url %}
+            {% assign prefix = p.url | slice: 0,5 %}
             <td>
                 {% if prefix != "https" %}
-                <a href="{{ p.url }}" class="pdf-link">{{ p.presentation_de }}</a>
+                <a href="{% link {{ p.url }} %}" class="pdf-link">{{ p.presentation_de }}</a>
                 {% else %}
                 <a href="{{ p.url }}" class="external-link">{{ p.presentation_de }}</a>
                 {% endif %}

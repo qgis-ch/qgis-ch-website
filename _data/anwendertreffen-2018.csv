@@ -1,23 +1,27 @@
-time,presentation,url,presenter
-08:30 - 09:00,"Eintreffen, Anmeldung<br/>(Kaffee/Gipfeli)",, 	
-09:00 - 09:05,Begrüssung,,"Hans-Jörg Stark,<br/>Präsident QGIS Anwendergruppe Schweiz, SBB"
-09:05 - 09:55,Neues in QGIS 3.0 und 3.2,assets/pdf/2018/qgis3-presentation-opengis-2018-06-18.pdf,"Matthias Kuhn, OpenGIS.ch"
-09:55 - 10:10,3D Visualisierungen in QGIS 3 - Status quo und geplante Verbesserungen,assets/pdf/2018/qgis3d_kanton-zug_2018-06-18.pdf,"Andreas Neumann, Kanton Zug"
-10:10 - 10:30,QGEP - Entwicklungs-Treiber und Zusammenarbeit mit anderen QGIS-Projekten,assets/pdf/2018/20180618_QGEP_mobile_and_PUM.pdf,"Valentina Arrietta, Geoconseils, und Stefan Burckhardt, SJiB"
-10:30 - 11:00,Kaffeepause,,
-11:00 - 11:30,Know your GDI / QGIS Webclient 2 im Kanton Solothurn,assets/pdf/2018/Know-Your-GDI_kt-solothurn_2018-06-18.pdf,"Stefan Ziegler, Kanton Solothurn"
-,QGIS Webclient 2 im Kanton Solothurn,assets/pdf/2018/qwc2-presentation_sourcepole_2018-06-18.pdf,"Pirmin Kalberer, Sourcepole"
-11:30 - 11:45,Fallstudie: Einsatz von QGIS / KADAS Albireo in der Schweizer Armee,assets/pdf/2018/KADAS-Albireo_QGIS_Anwendertreffen_2018.pdf,"Frank Gottsmann, Swisstopo"
-11:45 - 12:00,"QGIS im Thurgau, Rückblick auf eine Erfolgsgeschichte",assets/pdf/2018/qgis-im-tg_thurgis_2018-06-18.pdf,"Martin Barucci, Kanton Thurgau"
-12:00 - 12:15,QGIS als FrontEnd von grossflächigen in-situ Beleuchtungsmessungen (Fallstudie Flughafen Zürich),assets/pdf/2018/beleuchtungsmessungen_methodikgrossflaechenerfassung_2018-06-18.pdf,"Yvo Weidmann, Geoidee, mit Beiträgen von Patrick Hiltbrunner, MESSmatik, und Oliver Brem, KSL Ingenieure"
-12:15 - 12:30,Einsatz von QField für Emissionsmessungen auf Biogasanlagen,assets/pdf/2018/Qfield_Biogasanlagenkontrollen_oester-messtechnik_2018-06-18.pdf,"Till Weber und Samuel Oester,<br/>Oester Messtechnik"
-12:30 - 13:30,Mittagspause,,
-13:30 - 15:00,Workshops Teil 1,,
-,"A: Modellbasiertes Arbeiten mit ili2pg und QGIS Projektgenerator<br/>
+time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
+08:30 - 09:00,"Eintreffen, Anmeldung<br/>(Kaffee/Gipfeli)","Accueil, inscription<br/>(Café)",, 	,
+09:00 - 09:05,Begrüssung,Bienvenue,,"Hans-Jörg Stark, Präsident QGIS Anwendergruppe Schweiz<br/>(SBB)","Hans-Jörg Stark, président group d'utilisateurs QGIS Suisse<br/>(SBB)"
+09:05 - 09:55,Neues in QGIS 3.0 und 3.2,Nouvelles dans QGIS 3.0 et 3.2,assets/pdf/2018/qgis3-presentation-opengis-2018-06-18.pdf,Matthias Kuhn (OPENGIS.ch),
+09:55 - 10:10,3D Visualisierungen in QGIS 3 - Status quo und geplante Verbesserungen,Visualisations 3D dans QGIS 3 - statu quo et améliorations prévues,assets/pdf/2018/qgis3d_kanton-zug_2018-06-18.pdf,Andreas Neumann (Kt. Zug),Andreas Neumann (Ct. Zoug)
+10:10 - 10:30,QGEP - Entwicklungs-Treiber und Zusammenarbeit mit anderen QGIS-Projekten,QGEP (module d'assainissement et PGEE) - Moteurs de développement et coopération avec d'autres projets QGIS,assets/pdf/2018/20180618_QGEP_mobile_and_PUM.pdf,"Valentina Arrietta, Geoconseils, und Stefan Burckhardt, SJiB",
+10:30 - 11:00,Kaffeepause,Pause café,,,
+11:00 - 11:30,Know your GDI im Kanton Solothurn,Know your GDI dans le Canton de Soleure,assets/pdf/2018/Know-Your-GDI_kt-solothurn_2018-06-18.pdf,Stefan Ziegler (Kt. Solothurn),Stefan Ziegler (Ct. Soleure)
+,QGIS Webclient 2 im Kanton Solothurn,QGIS Webclient 2 dans le Canton de Soleure,assets/pdf/2018/qwc2-presentation_sourcepole_2018-06-18.pdf,Pirmin Kalberer (Sourcepole),
+11:30 - 11:45,Fallstudie: Einsatz von QGIS / KADAS Albireo in der Schweizer Armee,Etude de cas : Utilisation de QGIS / KADAS Albireo dans l'armée suisse,assets/pdf/2018/KADAS-Albireo_QGIS_Anwendertreffen_2018.pdf,Frank Gottsmann (Swisstopo),
+11:45 - 12:00,"QGIS im Thurgau, Rückblick auf eine Erfolgsgeschichte","QGIS en Thurgovie, bilan d'une histoire à succès",assets/pdf/2018/qgis-im-tg_thurgis_2018-06-18.pdf,Martin Barucci (Kt. Thurgau),Martin Barucci (Ct. Thurgovie)
+12:00 - 12:15,QGIS als FrontEnd von grossflächigen in-situ Beleuchtungsmessungen (Fallstudie Flughafen Zürich),Utilisation de QGIS pour des mesures d'éclairage in situ de grandes surfaces (étude de cas de l'aéroport de Zurich).,assets/pdf/2018/beleuchtungsmessungen_methodikgrossflaechenerfassung_2018-06-18.pdf,"Yvo Weidmann, Geoidee, mit Beiträgen von Patrick Hiltbrunner, MESSmatik, und Oliver Brem, KSL Ingenieure","Yvo Weidmann, Geoidee, avec contributions de Patrick Hiltbrunner, MESSmatik, et Oliver Brem, KSL Ingenieure"
+12:15 - 12:30,Einsatz von QField für Emissionsmessungen auf Biogasanlagen,Utilisation du QField pour la mesure des émissions des installations de biogaz,assets/pdf/2018/Qfield_Biogasanlagenkontrollen_oester-messtechnik_2018-06-18.pdf,Till Weber und Samuel Oester<br/>(Oester Messtechnik),Till Weber et Samuel Oester<br/>(Oester Messtechnik)
+12:30 - 13:30,Mittagspause,Pause de midi,,,
+13:30 - 15:00,Workshops Teil 1,Workshops partie 1,,,
+,"A: <b>Modellbasiertes Arbeiten mit ili2pg und QGIS Projektgenerator</b><br/>
 Erstellen von QGIS-Projekten auf Basis von Interlis-Modellen. Workshop beinhaltet auch Import und Export von Interlis-Daten über ili2pg<br/>
-Raum ORI E04 (Erdgeschoss)",,"Romedi Filli, Kanton Schaffhausen"
+Raum ORI E04 (Erdgeschoss)","A: <b>Modellbasiertes Arbeiten mit ili2pg und QGIS Projektgenerator</b><br/>
+Erstellen von QGIS-Projekten auf Basis von Interlis-Modellen. Workshop beinhaltet auch Import und Export von Interlis-Daten über ili2pg<br/>
+Salle ORI E04 (RDC)",,Romedi Filli (Kt. Schaffhausen),Romedi Filli (Ct. Schaffhouse)
 ,"B: QField Workshop:<br/>
 Datenerfassung im Feld mit QGIS auf Android. Behandlung des Datentransfers vor und nach dem Feldeinsatz. Einrichten von Projekten mit Formularen/Widgets für Erfassung von Geometrien und Attributen in QField.<br/>
-Raum ORI 119 (1. Stock)",,"Matthias Kuhn und/oder David Signer, OpenGIS"
-15:00 - 15:15,Kaffeepause,,
-15:15 - ca. 17:00,Workshops Teil 2<br/>(siehe oben),,
+Raum ORI 119 (1. Stock)","B: QField Workshop:<br/>
+Datenerfassung im Feld mit QGIS auf Android. Behandlung des Datentransfers vor und nach dem Feldeinsatz. Einrichten von Projekten mit Formularen/Widgets für Erfassung von Geometrien und Attributen in QField.<br/>
+Raum ORI 119 (1ère étage)",,Matthias Kuhn oder David Signer (OPENGIS.ch),Matthias Kuhn ou David Signer (OPENGIS.ch)
+15:00 - 15:15,Kaffeepause,Pause café,,,
+15:15 - ca. 17:00,Workshops Teil 2<br/>(siehe oben),Workshops partie 2<br/>(voir ci-dessus),,voir ci-dessus,

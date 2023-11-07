@@ -1,36 +1,31 @@
-"time","presentation","url","presenter"
-"08:30 - 09:00","Eintreffen, Anmeldung<br/>(Kaffee / Gipfeli)",,
-"09:00 - 09:05","Begrüssung",,"Hans-Jörg Stark,<br/>Präsident QGIS Anwendergruppe Schweiz, SBB"
-"09:05 - 09:15","Aktuelles vom QGIS.ORG Projekt und der QGIS Anwendergruppe Schweiz","assets/pdf/2019/2019-06-13_News_from_QGIS-ORG_and_QGIS-CH.pdf","Andreas Neumann,<br/>Kanton Solothurn"
-"09:15 - 10:00","QGIS is dead, long lives QGIS! - the very best new features of QGIS 3.x","assets/pdf/2019/2019-06-13_QGIS-is-dead_long-lives-QGIS.pdf","Marco Bernasocchi,<br/>OpenGIS.ch"
-"10:00 - 10:30","Mit dem QGIS Geometrie-Generator auf der
-grünen Wiese",,"Johannes Kröger,<br/>Lab for Geoinformatics and Geovisualization (g2lab) an der HafenCity Universität Hamburg"
-"10:30 - 11:00","Kaffeepause",,
-"11:00 - 11:20","PyQGIS the comfortable way - tricks to efficiently work with Python and QGIS","assets/pdf/2019/2019-06-13_PyQGIS-the-comfortable-way.pdf","Matthias Kuhn,<br/>OPENGIS.ch"
-"11:20 - 11:35","QGIS und OpenStreetMap","https://github.com/das-g/QGIS-und-OSM-Vortrag","Raphael das Gupta,<br/>HSR"
-"11:35 - 11:50","QGIS Server mit Docker und OpenShift","assets/pdf/2019/2019-06-13_QGIS-Server_Docker_and_Openshift.pdf","Emmanuel Belo und Yves Bolognini,<br/>Camptocamp"
-"11:50 - 12:05","QGEP / qWat Update","assets/pdf/2019/2019-06-13_QGEP.pdf","Stefan Burckhardt, SJiB; Roger Maurer, Stadt Morges"
-"12:05 - 12:15","QGIS ModelBaker Update","assets/pdf/2019/2019-06-13_QGIS-Model-Baker.pdf","Romedi Filli,<br/>Kanton Schaffhausen"
-"12:15 - 12:30","QGIS 3D Update","assets/pdf/2019/2019-06-13_QGIS-3D-News.pdf","Andreas Neumann,<br/>Kanton Solothurn"
-"12:30 - 13:30","Mittagspause",,
-"13:30 - 15:00","Workshops Teil 1
-",,
+time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
+08:30 - 09:00,"Eintreffen, Anmeldung<br/>(Kaffee / Gipfeli)","Accueil, inscription<br/>(Café)",,,
+09:00 - 09:05,Begrüssung,Bienvenue,,"Hans-Jörg Stark,<br/>Präsident QGIS Anwendergruppe Schweiz<br/>(SBB)","Hans-Jörg Stark,<br/>Président Groupe d›utilisateurs QGIS Suisse<br/>(SBB)"
+09:05 - 09:15,Aktuelles vom QGIS.ORG Projekt und der QGIS Anwendergruppe Schweiz,News from QGIS.ORG and QGIS-CH user group,assets/pdf/2019/2019-06-13_News_from_QGIS-ORG_and_QGIS-CH.pdf,Andreas Neumann (Kt. Solothurn),Andreas Neumann (Ct. Soleure)
+09:15 - 10:00,"QGIS is dead, long lives QGIS! - the very best new features of QGIS 3.x",,assets/pdf/2019/2019-06-13_QGIS-is-dead_long-lives-QGIS.pdf,Marco Bernasocchi<br/>OPENGIS.ch,
+10:00 - 10:30,"Mit dem QGIS Geometrie-Generator auf der
+grünen Wiese",,,"Johannes Kröger, (Lab for Geoinformatics and Geovisualization, HafenCity Universität Hamburg)",
+10:30 - 11:00,Kaffeepause,Pause café,,,
+11:00 - 11:20,PyQGIS the comfortable way - tricks to efficiently work with Python and QGIS,,assets/pdf/2019/2019-06-13_PyQGIS-the-comfortable-way.pdf,Matthias Kuhn<br/>(OPENGIS.ch),
+11:20 - 11:35,QGIS und OpenStreetMap,QGIS et OpenStreetMap,https://github.com/das-g/QGIS-und-OSM-Vortrag/,Raphael das Gupta<br/>(HSR),
+11:35 - 11:50,QGIS Server mit Docker und OpenShift,,assets/pdf/2019/2019-06-13_QGIS-Server_Docker_and_Openshift.pdf,Emmanuel Belo und Yves Bolognini<br/>(Camptocamp),
+11:50 - 12:05,QGEP / qWat Update,,assets/pdf/2019/2019-06-13_QGEP.pdf,"Stefan Burckhardt (SjiB), Roger Maurer (Stadt Morges)",
+12:05 - 12:15,QGIS ModelBaker Update,,assets/pdf/2019/2019-06-13_QGIS-Model-Baker.pdf,Romedi Filli<br/>(Kt. Schaffhausen),Romedi Filli<br/>(Ct. Schaffhouse)
+12:15 - 12:30,QGIS 3D Update,,assets/pdf/2019/2019-06-13_QGIS-3D-News.pdf,Andreas Neumann<br/>(Kt. Solothurn),Andreas Neumann<br/>(Ct. Soleure)
+12:30 - 13:30,Mittagspause,Pause de midi,,,
+13:30 - 15:00,"Workshops Teil 1
+",Ateliers partie 1 (en langue allemande / anglais),,,
 ,"A: <b>Modellbasiertes Arbeiten mit ili2db und QGIS Model Baker</b><br/>
 Workshop über Datenmodellierung mit Interlis: Einführung in Datenmodellierung mit Interlis. Werkzeuge ili2pg / ili2gpkg / ilivalidator und QGIS Model Baker kennenlernen.
-Raum B147 (1. Stock)",,"A: Claude Eisenhut (Eisenhut Informatik) und Manuel Kaufmann (Kanton Zug)
- "
+<br/>Raum B147 (1. Stock)",A: <b>Modellbasiertes Arbeiten mit ili2db und QGIS Model Baker (en allemand)</b><br/> Atelier sur la modélisation des données avec Interlis : Introduction à la modélisation des données avec Interlis. Découvrez les outils ili2pg / ili2gpkg / ilivalidator et QGIS ModelBaker. <br/>Salle B147 (1ère étage),,"Claude Eisenhut (Eisenhut Informatik), Manuel Kaufmann (Kanton Zug)","Claude Eisenhut (Eisenhut Informatik), Manuel Kaufmann (Ct. Zoug)"
 ,"B: <b>Konstruieren und Editieren</b><br/>
 Überblick über bestehende Editier- und Konstruktionswerkzeuge in QGIS. Diskussionen über Verbesserungsmöglichkeiten, fehlende Werkzeuge und Dokumentation.
-Raum B146 (1. Stock)",,"B: Romedi Filli (Kanton Schaffhausen), Matthias Kuhn (OPENGIS.ch)
- "
+<br/>Raum B146 (1. Stock)","B: <b>Construire et éditer des données vectorielles (langues mixtes)</b><br/> Vue d'ensemble des outils d'édition et de construire existants dans QGIS. Discussions sur les améliorations, les outils manquants et la documentation. <br/>Salle B146 (1ère étage)",,"Romedi Filli (Kt. Schaffhausen), Matthias Kuhn (OPENGIS.ch)","Romedi Filli (Ct. Schaffhausen), Matthias Kuhn (OPENGIS.ch)"
 ,"C: <b>Tips & Tricks mit QGIS-Expressions und GeometrieGgeneratoren</b><br/>
-Tips + Tricks zur Symbologie, Animation und Layouts mit QGIS Expressions und Geometrie-Generatoren.
-Raum B145 (1. Stock)",,"C: Johannes Kröger (HafenCity Universität Hamburg) und Andreas Neumann (Kanton Solothurn)
- "
+Tips + Tricks zur Symbologie, Animation und Layouts mit QGIS Expressions und Geometrie-Generatoren.<br/>
+Raum B145 (1. Stock)","C: <b>Tips & Tricks avec QGIS-expressions et générateurs de géometrie (en allemands et anglais (si désiré))</b><br/> Tips & tricks pour la symbologie, l'animation et la mise en page avec QGIS expressions et générateurs de géométrie. <br/>Salle B145 (1ère étage)",,"Johannes Kröger (HafenCity Universität Hamburg), Andreas Neumann (Kt. Solothurn)","Johannes Kröger (HafenCity Universität Hamburg), Andreas Neumann (Ct. Soleure)"
 ,"D: <b>QField - der mobile QGIS Alleskönner</b><br/>
 Korrekte räumliche Daten sind im Feld grundlegend um Entscheidungen zu treffen. Die Möglichkeit zu haben, Daten zu validieren und Korrekturen sofort vorzunehmen garantieren einen kompletten Lebenszyklus von qualitativ hochwertigen und zuverlässigen Informationen. Sei es in Echtzeit in der Stadt mit 4G-Verbindung oder in abgelegenen Orten mit Offlinedaten, dank seiner nahtlosen Integration mit QGIS erlaubt QField effizientes Arbeit draussen im Feld.
-Raum B135 (1. Stock)",,"
-D: Marco Bernasocchi and Mario Baranzini (OPENGIS.ch)
- "
-"15:00 - 15:15","Kaffeepause",,
-"15:15 - ca. 17:00","Workshops Teil 2 (siehe oben)",,"siehe oben"
+<br/>Raum B135 (1. Stock)","D: <b>QField - der mobile QGIS Alleskönner (langues mixtes)</b><br/> Des données spatiales correctes sont essentielles sur le terrain pour prendre des décisions. La possibilité de valider les données et d'y apporter immédiatement des corrections garantit un cycle de vie complet d'informations fiables et de haute qualité. Que ce soit en temps réel en ville avec une connexion 4G ou dans des endroits éloignés avec des données hors ligne, l'intégration transparente de QField avec QGIS permet un travail efficace sur le terrain en extérieur. <br/>Salle B135  (1ère étage)",,Marco Bernasocchi und Mario Baranzini (OPENGIS.ch) ,Marco Bernasocchi et Mario Baranzini (OPENGIS.ch) 
+15:00 - 15:15,Kaffeepause,Pause café,,,
+15:15 - ca. 17:00,Workshops Teil 2 (siehe oben),Ateliers partie 2 (voir ci-dessus),,siehe oben,voir ci-dessus

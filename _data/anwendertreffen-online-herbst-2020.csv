@@ -1,15 +1,15 @@
-"time","presentation","url","presenter"
-"09:00 - 09:05","Begrüssung und Organisatorisches",,"Hans-Jörg Stark<br/>Präsident QGIS Anwendergruppe Schweiz"
-"09:05 - 09:20","What's new in QGIS Server","https://www.youtube.com/watch?v=N0jztB1UKSM&t=7m44s","Alessandro Pasotti, itOpen and Qcooperative<br/>QGIS PSC member"
-"09:20 - 09:35","QGIS Server Enhancement Proposals: achievements and perspectives","https://www.youtube.com/watch?v=N0jztB1UKSM&t=20m11s","Paul Blottiere, HyTech Imaging and QCooperative"
-"09:35 - 09:50","QGIS Server Benchmarking - comparing performance of different versions and parameters of QGIS Server","https://www.youtube.com/watch?v=N0jztB1UKSM&t=38m18s","Marco Bernasocchi (OPENGIS.ch, QGIS Chair and PSC member) and Andreas Neumann (Kt. Solothurn and QGIS PSC member)"
-"09:50 - 10:05","QWC2 (QGIS Web Client 2) Update","https://www.youtube.com/watch?v=N0jztB1UKSM&t=59m","Benoît Blanc, Oslandia"
-"10:05 - 10:20","New features with Lizmap 3.4","https://www.youtube.com/watch?v=N0jztB1UKSM&t=1h12m56s","Nicolas Boisteault, 3Liz"
-"10:20 - 10:30","LizSync - A QGIS plugin for PostgreSQL synchronization between a central database & clones","https://www.youtube.com/watch?v=N0jztB1UKSM&t=1h31m59s","Michaël Douchin, 3Liz"
-"10:30 - 11:00","Pause<br/>(mit QGIS erstellte Kartenbeispiele. Quelle: Flickr und Twitter)",,
-"11:00 - 11:20","QField Update","https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h05m6s","David Signer, OPENGIS.ch"
-"11:20 - 11:35","QFieldCloud synchronization","https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h25m20s","Mario Baranzini, OPENGIS.ch"
-"11:35 - 11:50","Case Study: Mobile Control and Reporting of discharge points in urban drainage with QField","https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h40m28s","Nicolas Schmidt, Basler & Hofmann"
-"11:50- 12:10","Input: A QGIS-based mobile app for all major platforms","https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h55m7s","Saber Razmjooei, Lutra Consulting"
-"12:10 - 12:25","Mergin: Data synchronisation for collaborative online/offline environments","https://www.youtube.com/watch?v=N0jztB1UKSM&t=3h7m32s","Martin Dobias, Lutra Consulting"
-"12:25 - 12:30","Closing / Wrap up","https://www.youtube.com/watch?v=N0jztB1UKSM&t=3h24m53s","Hans-Jörg Stark, Präsident QGIS Anwendergruppe Schweiz"
+time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
+09:00 - 09:05,Begrüssung und Organisatorisches,Accueil et questions d'organisation,,Hans-Jörg Stark<br/>Präsident QGIS Anwendergruppe Schweiz,
+09:05 - 09:20,What's new in QGIS Server,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=7m44s,"Alessandro Pasotti, itOpen and Qcooperative<br/>QGIS PSC member",
+09:20 - 09:35,QGIS Server Enhancement Proposals: achievements and perspectives,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=20m11s,"Paul Blottiere, HyTech Imaging and QCooperative",
+09:35 - 09:50,QGIS Server Benchmarking - comparing performance of different versions and parameters of QGIS Server,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=38m18s,"Marco Bernasocchi (OPENGIS.ch, QGIS Chair and PSC member) and Andreas Neumann (Kt. Solothurn and QGIS PSC member)",
+09:50 - 10:05,QWC2 (QGIS Web Client 2) Update,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=59m,"Benoît Blanc, Oslandia",
+10:05 - 10:20,New features with Lizmap 3.4,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=1h12m56s,"Nicolas Boisteault, 3Liz",
+10:20 - 10:30,LizSync - A QGIS plugin for PostgreSQL synchronization between a central database & clones,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=1h31m59s,"Michaël Douchin, 3Liz",
+10:30 - 11:00,Pause<br/>(mit QGIS erstellte Kartenbeispiele. Quelle: Flickr und Twitter),Pause<br/>(Exemples de cartes créées avec QGIS. Source : flickr et Twitter),https://www.youtube.com/watch?v=N0jztB1UKSM&t=1h50m,,
+11:00 - 11:20,QField Update,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h05m6s,"David Signer, OPENGIS.ch",
+11:20 - 11:35,QFieldCloud synchronization,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h25m20s,"Mario Baranzini, OPENGIS.ch",
+11:35 - 11:50,Case Study: Mobile Control and Reporting of discharge points in urban drainage with QField,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h40m28s,"Nicolas Schmidt, Basler & Hofmann",
+11:50- 12:10,Input: A QGIS-based mobile app for all major platforms,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=2h55m7s,"Saber Razmjooei, Lutra Consulting",
+12:10 - 12:25,Mergin: Data synchronisation for collaborative online/offline environments,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=3h7m32s,"Martin Dobias, Lutra Consulting",
+12:25 - 12:30,Closing / Wrap up,,https://www.youtube.com/watch?v=N0jztB1UKSM&t=3h24m53s,"Hans-Jörg Stark, Präsident QGIS Anwendergruppe Schweiz",
