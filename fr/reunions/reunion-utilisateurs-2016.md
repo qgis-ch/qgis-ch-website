@@ -1,14 +1,14 @@
 ---
 
-title: "Réunion des utilisateurs 2017 Berne"
-year: 2017
+title: "Réunion des utilisateurs 2016 Berne"
+year: 2016
 
 ---
 
-# Réunion des utilisateurs 2017 Berne
+# Réunion des utilisateurs 2016 Berne
 
-La réunion des utilisateurs 2017 était la 8ème rencontre du groupe
-d'utilisateurs QGIS Suisse et a eu lieu le 21 Juin 2017 à Berne.
+La réunion des utilisateurs 2016 était la 7ème rencontre du groupe
+d'utilisateurs QGIS Suisse et a eu lieu le 15 Juin 2016 à Berne.
 {: .alert .alert-secondary :}
 
 ## Buts
@@ -26,7 +26,7 @@ d'utilisateurs QGIS Suisse et a eu lieu le 21 Juin 2017 à Berne.
 
 **Contact:** info (at) qgis (dot) ch
 
-**Date:** Mercredi, 21 juin 2017, 9:00 à 17:00
+**Date:** Mercredi, 15 Juin 2016, 9:00 à 17:00
 
 **Lieu:** [Université de Berne, bâtiment UniS, Schanzeneckstrasse 1](http://www.bau.unibe.ch/plaene/hgexwiunis.htm){: .external-link :}
 
@@ -53,17 +53,24 @@ Un petit en-cas est compris dans le prix du workshop (sandwiches).
 **Alimentation:** Café de bienvenue et pause-café toute la journée. Le repas de
 midi (petit lunch) est inclus pour les participants aux workshops.
 
-**Inscription:** [Formulaire d'inscription avec les informations de paiement](https://docs.google.com/forms/d/e/1FAIpQLSeaywil8HXvpJrP7EEMKjeK0rU9Ya_pLEzvxL7NMO8DdmPI8A/viewform){: .external-link :}
- (Google Docs)
+**Inscription:** [Formulaire d'inscription](https://docs.google.com/forms/d/1dTnfQrI2xFbZwptgy3qXwDN0HFJZtbYZNVPgsgP1XK8/viewform?usp=send_form){: .external-link :}
+(Google Docs), avec les informations de paiement (paiement uniquement pour les
+workshops)
 
 ## Programme
 
-{% include program-table.html program=site.data.anwendertreffen-2017 %}
+{% include program-table.html program=site.data.anwendertreffen-2016 %}
 
 ## Workshops
 
-Merci de venir avec vos laptops et QGIS 2.18 installé.
+Merci de venir avec vos laptops et QGIS 2.14 installé.
 
-**Workshop A:** Laptop avec QGIS 2.18 et un tablet ou Smartphone avec Android
+**Workshop A:** exige, en plus de QGIS (2.14 ou Master Nightly ou Weekly Build),
+une installation de PostGIS, Java et ili2pg.
+[Vous trouverez la documentation pour cet atelier ici](https://sogeo.services/slides/qgis_anwendertreffen/2016-qgis-ili2pg-workshop_v02_11pt.pdf){ : .external-link :}.
 
-**Workshop B:** Laptop avec QGIS 2.18
+**Workshop B:** merci d'apporter, si possible, une version de QGIS 2.14 en
+parallèle une version snapshot de QGIS 2.15 (version de développement, Preview
+de la version 2.16). Certains exemples de l'atelier porteront sur cette version.
+[Veuillez installer la dernière version Weekly](http://qgis.org/downloads/weekly/?C=M;O=D){ : .external-link :}
+si possible juste avant le workshop.
