@@ -22,7 +22,7 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * Réalisation "Line Displacement Renderer"
 
-* Propositions d'amélioration QGIS Model Baker,
+* Propositions d'amélioration QGIS Model Baker,<br/>
   [réalisé en version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
   
 * Amélioration de l'export DXF
@@ -36,7 +36,7 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 * Ordre des couches configurable,<br/>
   [réalisé en version 3.30](https://qgis.org/en/site/forusers/visualchangelog330/index.html#feature-new-layer-ordering-improvements){: .external-link :}
 
-* Extend QGIS HTML label rendering capabilities,
+* Extend QGIS HTML label rendering capabilities,<br/>
   [réalisé en version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-add-support-for-html-bold-italic-font-size-and-font-family-to-labelling){: .external-link :}
 
 * QGIS Style and Annotation Improvement,<br/>
@@ -44,13 +44,13 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * QGIS must inform users about how many objects wil be erased before deleting them
 
-* Point cloud extraction in QGIS,
+* Point cloud extraction in QGIS,<br/>
   [réalisé en version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-point-cloud-layer-export){: .external-link :}
 
-* Support de couches WMTS dans le plugin Swiss Locator et maintenance pour 2 ans,
+* Support de couches WMTS dans le plugin Swiss Locator et maintenance pour 2 ans,<br/>
   [réalisé](https://www.opengis.ch/de/2023/06/13/unterstutzung-fur-wmts-in-qgis-swiss-locator/){: .external-link :}
 
-* Noms d’attributs définis par l'utilisateur lors de l'exportation dans QGIS,
+* Noms d’attributs définis par l'utilisateur lors de l'exportation dans QGIS,<br/>
   [réalisé en version 3.26](https://qgis.org/en/site/forusers/visualchangelog326/index.html#feature-user-defined-field-names-in-export){: .external-link :}
 
 * Tracking von Punktgeometrien in QField
@@ -63,7 +63,7 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
   arcs and back,<br/>
   [réalisé en version 3.22](https://qgis.org/en/site/forusers/visualchangelog322/index.html#feature-convert-to-curve-with-vertex-tool){: .external-link :}
 
-* Improve data defined labeling positioning, orientation and editing
+* Improve data defined labeling positioning, orientation and editing<br/>
   [réalisé en version 3.24](https://qgis.org/en/site/forusers/visualchangelog324/index.html#feature-data-defined-label-positions-by-point-geometries){: .external-link }
 
 * Line displacement renderer (research project)

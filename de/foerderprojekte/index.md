@@ -21,7 +21,7 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
 
 * Umsetzung "Line Displacement Renderer"
 
-* Verbesserungsvorschläge QGIS Model Baker,
+* Verbesserungsvorschläge QGIS Model Baker,<br/>
   [umgesetzt in Version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
 
 * Verbesserung DXF-Export
@@ -35,7 +35,7 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
 * Konfigurierbare Ebenenreihenfolge,<br/>
   [umgesetzt in Version 3.30](https://qgis.org/en/site/forusers/visualchangelog330/index.html#feature-new-layer-ordering-improvements){: .external-link :}
 
-* Extend QGIS HTML label rendering capabilities,
+* Extend QGIS HTML label rendering capabilities,<br/>
   [umgesetzt in Version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-add-support-for-html-bold-italic-font-size-and-font-family-to-labelling){: .external-link :}
 
 * QGIS Style and Annotation Improvement,<br/>
@@ -43,13 +43,13 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
 
 * QGIS must inform users about how many objects wil be erased before deleting them
 
-* Point cloud extraction in QGIS,
+* Point cloud extraction in QGIS,<br/>
   [umgesetzt in Version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-point-cloud-layer-export){: .external-link :}
 
-* WMTS-Layer Unterstützung in Swiss Locator Plugin und Wartung für zwei Jahre,
+* WMTS-Layer Unterstützung in Swiss Locator Plugin und Wartung für zwei Jahre,<br/>
   [umgesetzt](https://www.opengis.ch/de/2023/06/13/unterstutzung-fur-wmts-in-qgis-swiss-locator/){: .external-link :}
 
-* Benutzerdefinierte Feldnamen beim Export in QGIS,
+* Benutzerdefinierte Feldnamen beim Export in QGIS,<br/>
   [umgesetzt in Version 3.26](https://qgis.org/en/site/forusers/visualchangelog326/index.html#feature-user-defined-field-names-in-export)
 
 * Tracking von Punktgeometrien in QField
@@ -62,7 +62,7 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
   arcs and back,<br/>
   [umgesetzt in Version 3.22](https://qgis.org/en/site/forusers/visualchangelog322/index.html#feature-convert-to-curve-with-vertex-tool){: .external-link :}
 
-* Improve data defined labeling positioning, orientation and editing
+* Improve data defined labeling positioning, orientation and editing<br/>
   [umgesetzt in Version 3.24](https://qgis.org/en/site/forusers/visualchangelog324/index.html#feature-data-defined-label-positions-by-point-geometries){: .external-link }
 
 * Line displacement renderer (research project)
