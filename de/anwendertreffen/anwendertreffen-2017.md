@@ -2,9 +2,6 @@
 
 title: "Anwendertreffen 2017 Bern"
 year: 2017
-date: "21.06.2017
-von 08:30- 17:00"
-location: "Bern"
 
 ---
 
@@ -44,49 +41,30 @@ Schanzenstrasse/Länggasse gehen. Links in die Schanzeneckstrasse einbiegen. Das
 Gebäude ist im [Quartierplan](http://www.bau.unibe.ch/plaene/vorlaeng_areal2.gif){: .external-link :}
 mit der Nr. 1 bezeichnet.
 
-**Kosten:** Die Teilnahme an den Vorträgen/Präsentationen am Vormittag ist kostenfrei, für die Workshops wird eine kleine Workshopgebühr erhoben. MitgliederInnen der QGIS Anwendergruppe Schweiz: CHF 100.-, Nicht-Mitglieder: CHF 150.-, Studierende: CHF 50.- Die Workshop-Preise beinhalten einen kleinen Lunch (Sandwiches).
+**Kosten:** Die Teilnahme an den Vorträgen/Präsentationen am Vormittag ist
+kostenfrei, für die Workshops wird eine kleine Workshopgebühr erhoben.
 
-**Verpflegung:** Kaffeepausen am Vormittag und Nachmittag. Mittagessen (kleiner Lunch) für Workshopteilnehmer inbegriffen.
+* MitgliederInnen der QGIS Anwendergruppe Schweiz: CHF 100.-
+* Nicht-Mitglieder: CHF 150.-
+* Studierende: CHF 50.-
 
-**Anmeldung:**  [Anmeldeformular mit Zahlungsinformationen](https://docs.google.com/forms/d/e/1FAIpQLSeaywil8HXvpJrP7EEMKjeK0rU9Ya_pLEzvxL7NMO8DdmPI8A/viewform){: .external-link :} (Google Forms)
+Die Workshop-Preise beinhalten einen kleinen Lunch (Sandwiches).
+
+**Verpflegung:** Kaffeepausen am Vormittag und Nachmittag. Mittagessen (kleiner
+Lunch) für Workshopteilnehmer inbegriffen.
+
+**Anmeldung:**  [Anmeldeformular mit Zahlungsinformationen](https://docs.google.com/forms/d/e/1FAIpQLSeaywil8HXvpJrP7EEMKjeK0rU9Ya_pLEzvxL7NMO8DdmPI8A/viewform){: .external-link :}
+(Google Forms)
 
 ## Programm
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col">Zeit</th>
-      <th scope="col">Vortrag</th>
-      <th scope="col">Referent(en)</th>
-    </tr>
-  </thead>
-  <tbody>
-{% for p in site.data.anwendertreffen-2017 %}
-    <tr>
-      <td>{{ p.time }}</td>
-      {% if p.url %}
-      <td>
-        {% assign prefix = p.url | slice: 0,5 %}
-        {% if prefix != "https" %}
-        <a href="{% link {{ p.url }} %}" class="pdf-link">{{ p.presentation }}</a>
-        {% else %}
-        <a href="{{ p.url }}" class="external-link">{{ p.presentation }}</a>
-        {% endif %}
-      </td>
-      {% else %}
-      <td>{{ p.presentation }}</td>
-      {% endif %}
-      <td>{{ p.presenter }}</td>
-    </tr> 
-{% endfor %}
-  </tbody>
-</table>
+{% include program-table.html program=site.data.anwendertreffen-2017 %}
 
 ## Workshops
 
 Bitte bringen Sie zu den Workshops eigene Laptops mit vorinstalliertem QGIS mit.
 
-Workshop A: benötigt QGIS 2.18 und 1 Android-Tablet (oder Telefon mit grösserem
-Bildschirm)
+**Workshop A:** benötigt QGIS 2.18 und 1 Android-Tablet (oder Telefon mit
+grösserem Bildschirm)
 
-Workshop B: benötigt QGIS 2.18
+**Workshop B:** benötigt QGIS 2.18
