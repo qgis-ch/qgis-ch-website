@@ -1,19 +1,19 @@
-time,presentation,url,presenter
-08:30 - 09:00,"Eintreffen, Anmeldung",,
-09:00 - 09:15,"Begrüssung, Neuigkeiten QGIS Anwendergruppe",assets/pdf/2014/2014-06-0_qgis-ch-news_2014-06-18_qgis-ch_usermeeting_berne.pdf,Andreas Neumann (Stadt Uster)
-09:15 - 10:10,Neue Funktionen in QGIS 2.2 und QGIS 2.4,assets/pdf/2014/2014-06-18_qgis2-2_and_2-4_news_qgis-ch_usermeeting_berne.pdf,Marco Hugentobler (Sourcepole AG)<br/>Andreas Neumann (Stadt Uster)
-10:00 - 10:20,"Neues von QGIS Server, QGIS Web-Client und QGIS-Cloud",assets/pdf/2014/2014-06-18_qgis_server_web_client_mobile_webclient_qgis-usermeeting_berne.pdf,Marco Hugentobler (Sourcepole AG)<br/>Pirmin Kalberer (Sourcepole AG)
-,Demo Video OpenLayers 3 mobile viewer,assets/pdf/2014/ol3-mobile-viewer.mp4,
-10:20 - 10:50,Kaffeepause,,
-10:50 - 11:15,Open Source meets Open Government Data,assets/pdf/2014/2014-06-18_open_data_and_open_source_gis_vorarlberg_qgis_user_meeting_berne.pdf,Johannes Kanonier (Landesvermessungsamt Vorarlberg)
-11:15 - 11:40,BLUgis für Rettungdienste,assets/pdf/2014/2014-06-18_blugis_qgis-ch_usermeeting_berne.pdf,"Markus Honegger (Rettungssanitäter, REGIO 144 AG)"
-11:40 - 11:55,Auszüge aus dem Plan für das Grundbuch,assets/pdf/2014/2014-06-18_auszuege_plan_fuer_das_grundbuch_qgis-usermeeting_berne.pdf,"Stefan Ziegler (Amt für Geoinformation, Kanton Solothurn)"
-11:55 - 12:20,Projekt Wasserfachschale:<br/>Demo Video CAD-Input Plugin<br/>Demo Video Intersectit-Plugin,assets/pdf/2014/2014-06-18_qgis_water_module_qgis_usermeeting_berne.pdf,"Denis Rouzaud (SIGE, Vevey)"
-12:20 - 12:30,Projekt QGEP Abwasserfachschale<br/>Information über aktuellen Entwicklungsstand,assets/pdf/2014/2014-06-18_qgep_qgis_user_meeting_berne.pdf,"Konradin Fischer (Fischer Ingenieure, Arbon)"
-12:30 - 14:00,Mittagspause,,
-14:00 - 15:30,Workshops Teil 1,,
-,"A: Tabellen, Formulare, Widgets und Datenbankrelationen",,"A: Matthias Kuhn, Denis Rouzaud"
-,B: Druckzusammenstellung und Atlas-Seriendruck,,B: Andreas Neumann
-,"C: QGIS Cloud, QGIS Server",,"C: Pirmin Kalberer, Horst Düster, Marco Hugentobler"
-15:30 - 15:45,Kaffeepause,,
-15:45 - 17:00,Workshops Teil 2 (siehe oben),,siehe oben
+time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
+08:30 - 09:00,"Eintreffen, Anmeldung","Café, accueil",,,
+09:00 - 09:15,"Begrüssung, Neuigkeiten QGIS Anwendergruppe","Bienvenue, nouvelles du groupe d'utilisateurs",assets/pdf/2014/2014-06-0_qgis-ch-news_2014-06-18_qgis-ch_usermeeting_berne.pdf,Andreas Neumann (Stadt Uster),Andreas Neumann (Ville d'Uster)
+09:15 - 10:10,Neue Funktionen in QGIS 2.2 und QGIS 2.4,Nouvelles fonctions de QGIS 2.2 et QGIS 2.4,assets/pdf/2014/2014-06-18_qgis2-2_and_2-4_news_qgis-ch_usermeeting_berne.pdf,Marco Hugentobler (Sourcepole)<br/>Andreas Neumann (Stadt Uster),Marco Hugentobler (Sourcepole AG)<br/>Andreas Neumann (Ville d'Uster)
+10:00 - 10:20,"Neues von QGIS Server, QGIS Web-Client und QGIS-Cloud","Nouvelles de QGIS Server, QGIS Web-Client et QGIS-Cloud",assets/pdf/2014/2014-06-18_qgis_server_web_client_mobile_webclient_qgis-usermeeting_berne.pdf,Marco Hugentobler und Pirmin Kalberer (Sourcepole),Marco Hugentobler et Pirmin Kalberer (Sourcepole)
+,Demo Video OpenLayers 3 mobile viewer,Demo Video OpenLayers 3 mobile viewer,assets/pdf/2014/ol3-mobile-viewer.mp4,,
+10:20 - 10:50,Kaffeepause,Pause café,,,
+10:50 - 11:15,Open Source meets Open Government Data,Rencontre de l'Open Source et de l'Open Government Data,assets/pdf/2014/2014-06-18_open_data_and_open_source_gis_vorarlberg_qgis_user_meeting_berne.pdf,Johannes Kanonier (Landesvermessungsamt Vorarlberg),
+11:15 - 11:40,BLUgis für Rettungdienste,BLUgis pour services de secours (ambulances),assets/pdf/2014/2014-06-18_blugis_qgis-ch_usermeeting_berne.pdf,"Markus Honegger (Rettungssanitäter, REGIO 144 AG)",
+11:40 - 11:55,Auszüge aus dem Plan für das Grundbuch,Impression du plan du Registre foncier,assets/pdf/2014/2014-06-18_auszuege_plan_fuer_das_grundbuch_qgis-usermeeting_berne.pdf,"Stefan Ziegler (Amt für Geoinformation, Kanton Solothurn)",Stefan Ziegler (Ct. Soleure)
+11:55 - 12:20,Projekt Wasserfachschale:<br/>Demo Video CAD-Input Plugin<br/>Demo Video Intersectit-Plugin,qWat - Projet de gestion de l'eau potable<br/>Demo Video CAD-Input Plugin<br/>Demo Video Intersectit-Plugin,assets/pdf/2014/2014-06-18_qgis_water_module_qgis_usermeeting_berne.pdf,"Denis Rouzaud (SIGE, Vevey)",
+12:20 - 12:30,Projekt QGEP Abwasserfachschale<br/>Information über aktuellen Entwicklungsstand,"Projet QGEP (assainissement), en cours de développement",assets/pdf/2014/2014-06-18_qgep_qgis_user_meeting_berne.pdf,"Konradin Fischer (Fischer Ingenieure, Arbon)",
+12:30 - 14:00,Mittagspause,Pause de midi,,,
+14:00 - 15:30,Workshops Teil 1,Workshops partie 1,,,
+,"A: Tabellen, Formulare, Widgets und Datenbankrelationen","A: Tables, formulaires, widgets et relations",,"Matthias Kuhn, Denis Rouzaud (OPENGIS.ch)",
+,B: Druckzusammenstellung und Atlas-Seriendruck,B: Composeur d'impression et impression en série avec Atlas,,Andreas Neumann (Stadt Uster),Andreas Neumann (Ville d'Uster)
+,"C: QGIS Cloud, QGIS Server",C: QGIS Cloud et QGIS Server,,"Pirmin Kalberer, Horst Düster, Marco Hugentobler (Sourcepole)",
+15:30 - 15:45,Kaffeepause,Pause café,,,
+15:45 - 17:00,Workshops Teil 2 (siehe oben),Workshops partie 2 (voir ci-dessus),,siehe oben,voir ci-dessus
