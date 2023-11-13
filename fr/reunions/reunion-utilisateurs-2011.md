@@ -1,14 +1,14 @@
 ---
 
-title: "Anwendertreffen 2011 Rapperswil"
-year: 2011
+title: "Réunion des utilisateurs 2011 Rapperswil"
+year: 2012
 
 ---
 
-# Anwendertreffen 2011 Rapperswil
+# Réunion des utilisateurs 2011 Rapperswil
 
-Das Anwendertreffen 2011 war das 2. Treffen der QGIS Anwendergruppe Schweiz und
-fand am 06. Mai 2011 in Rapperswil statt.
+La réunion des utilisateurs 2011 était la 2ème rencontre du groupe
+d'utilisateurs QGIS Suisse et a eu lieu le 06 Mai 2014 à Rapperswil.
 {: .alert .alert-secondary :}
 
 Am 6. Mai 2011 fand an der HSR Rapperswil das 2. deutschsprachige
@@ -23,7 +23,7 @@ Teilnehmer haben zudem eine Email erhalten mit einem Link zu einer
 Teilnehmerumfrage zu QGIS und dem QGIS-Anwendertreffen. Fotos vom Anlass finden
 Sie unter diesem [Flickr-Link](http://www.flickr.com/photos/pifx/sets/72157626750120332/){: .external-link :}.
 
-## Programm
+## Programme
 
 {% include program-table.html program=site.data.anwendertreffen-2011 %}
 
