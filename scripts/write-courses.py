@@ -12,7 +12,9 @@ def run():
     environment = Environment(loader=FileSystemLoader("./"))
 
     for lang in ( "de", "fr" ):
+        # Define the variables
         data = []
+        header = ("", "", "")
 
         # Get the jinia template to render HTML
         template = environment.get_template(f"template.html")
@@ -49,7 +51,8 @@ def run():
         # Render the template with the data
         content = template.render(
             header=header,
-            data=data
+            data=data,
+            lang=lang
         )
 
         # Open the output file to write the rendered template
