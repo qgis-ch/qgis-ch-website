@@ -1,4 +1,4 @@
-{% if data|length >= 1 %}
+{%- if data|length >= 1 -%}
 <table class="table table-striped-columns">
     <tbody>
         <tr>
@@ -11,10 +11,10 @@
         {% endfor %}
     </tbody>
 </table>
-{% else %}
-    {% if lang == "de" %}
+{%- else -%}
+    {%- if lang == "de" -%}
 <i>Keine bevorstehenden Veranstaltungen oder Kurse eingetragen</i>
-    {% else %}
+    {%- else -%}
 <i>Aucun événement ou cours à venir</i>
-    {% endif %}
-{% endif %}
+    {%- endif -%}
+{%- endif -%}
