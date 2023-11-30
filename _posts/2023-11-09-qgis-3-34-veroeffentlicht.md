@@ -1,5 +1,4 @@
 ---
-layout: plain
 lang: de
 excerpt: >-
   Wir freuen uns, die Veröffentlichung von QGIS 3.34 Prizren ankündigen zu können!

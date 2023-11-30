@@ -66,7 +66,11 @@ defaults:
         indépendante et sans but lucratif des utilisateurs de QGIS pour la promotion et
         la coordination des développements de QGIS ainsi que pour l'échange d'expériences
         et de mise en réseau des membres de l'association.
-        
+
+  - scope:
+      path: "_posts"
+    values:
+      layout: "plain"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
