@@ -47,23 +47,31 @@ title: "Herzlich Willkommen"
   </div>
 </div>
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12 text-center">
     <h1>QGIS Anwendergruppe Schweiz</h1>
   </div>
 </div>
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12 text-center fw-bold mt-2 mb-2">
 Die QGIS Anwendergruppe Schweiz (kurz QGIS-CH) ist eine unabhängige, nicht
 profitorientierte Vereinigung von QGIS Benutzer zur Förderung und Koordination
 von Weiterentwicklungen von QGIS sowie zum Erfahrungsaustausch und
-Vernetzung unter Vereinsmitglieder. Die Anwendergruppe ist
+Vernetzung unter Vereinsmitglieder.
+  </div>
+  <div class="col-md-12 text-center mt-2 mb-5">Die Anwendergruppe ist
 ein Verein im Sinne des schweizerischen Zivilgesetzbuches Artikel 60 bis 79.
 Derzeit gibt es über 100 Mitglieder aus Behörden, Firmen, Universitäten und
-Einzelpersonen.
+Einzelpersonen. Sie ist ein stimmberechtigtes Mitglied der internationalen
+<a href="https://qgis.org/en/site/getinvolved/governance/charter/index.html" class="external-link">QGIS.ORG Association</a>.
   </div>
 </div>
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-8">  
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Über QGIS</h2>
+      </div>  
+      <div class="col-md-12">
 QGIS ist eine GIS Plattform bestehend aus den Komponenten Desktop-GIS, Server-GIS,
 Web-GIS Client und Mobile-GIS. QGIS Desktop ist eine benutzerfreundliche GIS
 Anwendung für das Erstellen von Karten und Layouts, das Bearbeiten und Analysieren
@@ -71,5 +79,24 @@ von Geodaten. Bisher ist es beschränkt auf 2d und 2.5d Daten und Darstellungen.
 Es bestehen erste 3D-Komponenten, diese sind jedoch noch als experimentell zu
 bezeichnen. QGIS ist erweiterbar mit Hilfe der Sprachen Python und C++ und basiert
 auf der qt-Bibliothek von Digia.
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4 font-size-sm">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Neuigkeiten</h2>
+      </div>
+      <div class="col-md-12">
+        {% for post in site.posts %}
+        {% if post.lang == "de" %}
+        <h3>{{ post.title }}</h3>
+        <p style="color: gray;"><i>veröffentlicht am {{ post.date }}</i></p>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}">Link zum Artikel</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
