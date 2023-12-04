@@ -56,11 +56,25 @@ Wichtig: Falls die Kurzbeschreibung ein Komma beinhaltet, muss diese in Anführu
 
 ## Lokal testen und erweitern
 
-Installation gemäss [Jekyll Dokumentation](https://jekyllrb.com/docs/installation/).
+Installation von Jekyll gemäss [Jekyll Dokumentation](https://jekyllrb.com/docs/installation/).
+
+Kopieren des Quellcodes von GitHub:
 
 `git clone git@github.com:qgis-ch/qgis-ch-website.git`
 
+Wechseln in Verzeichnis der Webseite:
+
 `cd qgis-ch-website`
+
+Aktualisieren der Kursdaten:
+
+```
+cd scripts
+./write-courses.py
+cd ..
+```
+
+Starten des Webservers:
 
 `bundle exec jekyll serve --livereload`
 
