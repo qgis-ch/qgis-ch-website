@@ -133,12 +133,12 @@ title: "Herzlich Willkommen"
                 <h2>Neuigkeiten</h2>
             </div>
             <div class="col-md-12">
-                {% for post in site.posts %}
+                {% for post in site.posts limit:5 %}
                 {% if post.lang == "de" %}
                 <div class="card mb-1 mt-1"> <!-- style="width: 18rem;"-->
                     <div class="card-body">
                         <h5 class="card-title">{{ post.title }}</h5>
-                        <h6 class="card-subtitle mb-2 text-body-secondary">veröffentlicht am {{ post.date }}</h6>
+                        <h6 class="card-subtitle mb-2 text-body-secondary">veröffentlicht am {{ post.date | date: "%d. %b %Y"}}</h6>
                         <p class="card-text">{{ post.excerpt }}</p>
                         <a href="{{ post.url }}" class="card-link">Weiter lesen</a>
                     </div>
