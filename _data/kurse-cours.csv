@@ -1,6 +1,18 @@
 date,title_de,title_fr,url
-11.03.2024,"ETH Zürich, Weiterbildungsmodul GIS: Geodatenmanagement mit PostgreSQL und PostGIS","ETH Zürich, Weiterbildungsmodul GIS: Geodatenmanagement mit PostgreSQL und PostGIS",https://ikg.ethz.ch/cas-ris/module.html
-10.01.2024,"OPENGIS.ch: Cours QGIS de base à Lausanne","OPENGIS.ch: Cours QGIS de base à Lausanne",https://www.opengis.ch/courses-calendar/
+13.11. & 20.11.2024,"OPENGIS.ch: QGIS Kurs Fortgeschrittene in Bern","OPENGIS.ch: QGIS Kurs Fortgeschrittene in Bern"
+,https://www.opengis.ch/courses-calendar/
+30.10. & 06.11.2024,"OPENGIS.ch: QGIS Kurs Einsteiger in Bern","OPENGIS.ch: QGIS Kurs Einsteiger in Bern",https://www.opengis.ch/courses-calendar/
+30.10. & 06.11.2024,"OPENGIS.ch: QGIS Cours avancé à Lausanne","OPENGIS.ch: QGIS Cours avancé à Lausanne",https://www.ope
+ngis.ch/courses-calendar/
+11.09 & 18.09.2024,"OPENGIS.ch: QGIS Cours de base à Lausanne","OPENGIS.ch: QGIS Cours de base à Lausanne"
+,https://www.opengis.ch/courses-calendar/
+05.06. & 12.06.2024,"OPENGIS.ch: QGIS Kurs Fortgeschrittene in Zürich","OPENGIS.ch: QGIS Kurs Fortgeschrittene in Zürich",https://www.opengis.ch/courses-calendar/
+22.05. & 29.05.2024,"OPENGIS.ch: QGIS Kurs Einsteiger in Zürich","OPENGIS.ch: QGIS Kurs Einsteiger in Zürich",https://www.opengis.ch/courses-calendar/
+14.03.2024,"OPENGIS.ch: Modelbaker Kurs","OPENGIS.ch: Cours Modelbaker",https://www.opengis.ch/courses-calendar/
+11.03.2024,"ETH Zürich: Weiterbildungsmodul GIS: Geodatenmanagement mit PostgreSQL und PostGIS","ETH Zürich, Weiterbildungsmodul GIS: Geodatenmanagement mit PostgreSQL und PostGIS",https://ikg.ethz.ch/cas-ris/module.html
+07.03.2024,"OPENGIS.ch: INTERLIS Webinar, Online","OPENGIS.ch: INTERLIS Webinar, en-ligne",https://www.opengis.ch/courses-calendar/
+24.01. & 31.01.2024,"OPENGIS.ch: Cours QGIS avancé à Lausanne","OPENGIS.ch: Cours QGIS avancé à Lausanne",https://www.opengis.ch/courses-calendar/
+10.01. & 17.01.2024,"OPENGIS.ch: Cours QGIS de base à Lausanne","OPENGIS.ch: Cours QGIS de base à Lausanne",https://www.opengis.ch/courses-calendar/
 22.11.2023,Drittes INTERLIS Anwender Treffen,3e rencontre des utilisateurs INTERLIS,https://interlis.discourse.group/t/3-interlis-anwender-innen-treffen/151
 15.11.2023,Kurs QGIS Einführung,Kurs QGIS Einführung,https://giswiki.hsr.ch/Kurs_QGIS_Einf%C3%BChrung_I
 14.11.2023,Journée romande de la Geoinformation 2023,Journée romande de la Geoinformation 2023,https://georomandie.com/
