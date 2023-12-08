@@ -8,9 +8,24 @@ year: 9999
 
 # Online Mini-Workshops
 
-## Mai 2023
+## November 2023: Multilingual Layer Labelling
+{: .mt-4 :}
 
-### QGIS and ESRI - can they ever be compatible?
+|:----------|:-------------------|
+|**Wann:**  |28.11.2023          |
+|           |von 11:00 bis 12:00 |
+|**Wo:**    |Online              |
+|===========|====================|
+
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/jGtCJGYhARE?rel=0"
+            allowfullscreen
+            title="Online Mini Workshop: Multilingual Layer Labelling">
+    </iframe>
+</div>
+
+## Mai 2023: QGIS and ESRI - can they ever be compatible?
+{: .mt-4 :}
 
 |:----------|:-------------------|
 |**Wann:**  |16.05.2023          |
@@ -18,31 +33,78 @@ year: 9999
 |**Wo:**    |Online              |
 |===========|====================|
 
-Im Workshop wird gezeigt, was QGIS bereits möglich ist, um mit ESRI-Formaten, Projekten und Diensten zu arbeiten, wo die Herausforderungen bei der Zusammenarbeit der beiden Systeme liegen, und was noch möglich wäre, wenn man weiter in die Kompatibilität investieren würde.
+Im Workshop wird gezeigt, was QGIS bereits möglich ist, um mit ESRI-Formaten,
+Projekten und Diensten zu arbeiten, wo die Herausforderungen bei der Zusammenarbeit
+der beiden Systeme liegen, und was noch möglich wäre, wenn man weiter in die
+Kompatibilität investieren würde.
 
-Nyall Dawson ist QGIS Kernentwickler und Entwickler von "SLYR", der "ESRI to QGIS Compatibility Suite" (siehe auch: [https://north-road.com/slyr/](https://north-road.com/slyr/) ). Im Workshop wird er uns dieses Softwarepaket vorstellen und aufzeigen wie Projekte und Stil-Bibliotheken von ArcMap und ArcGIS Pro nach QGIS und auch wieder zurück konvertiert werden können.
+Nyall Dawson ist QGIS Kernentwickler und Entwickler von "SLYR", der "ESRI to QGIS
+Compatibility Suite" (siehe auch: [https://north-road.com/slyr/](https://north-road.com/slyr/) ).
+Im Workshop wird er uns dieses Softwarepaket vorstellen und aufzeigen wie Projekte
+und Stil-Bibliotheken von ArcMap und ArcGIS Pro nach QGIS und auch wieder zurück
+konvertiert werden können.
 
-Dieser Workshop wird besonders interessant für alle, die in Ihrer Arbeit sowohl QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
+Dieser Workshop wird besonders interessant für alle, die in Ihrer Arbeit sowohl
+QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe width="560" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/XMROhYOtZWo?rel=0" allowfullscreen></iframe>
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/XMROhYOtZWo?rel=0"
+            allowfullscreen
+            title="Online Mini Workshop: QGIS and ESRI - can they ever be compatible?">
+    </iframe>
 </div>
 
-## März 2023
+## März 2023: QGIS and PostGIS: Tips and Tricks
+{: .mt-4 :}
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vbrvPNrjyHo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+|:----------|:-------------------|
+|**Wann:**  |22.03.2023          |
+|           |von 11:00 bis 12:00 |
+|**Wo:**    |Online              |
+|===========|====================|
 
-## Februar 2023
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/vbrvPNrjyHo?rel=0"
+            allowfullscreen
+            title="Online Mini Workshop: QGIS and PostGIS: Tips and Tricks">
+    </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n5j6RlsSstU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Februar 2023: Relations in QGIS and Relation Editor
+{: .mt-4 :}
 
-## November 2022
+|:----------|:-------------------|
+|**Wann:**  |15.02.2023          |
+|           |von 11:00 bis 12:00 |
+|**Wo:**    |Online              |
+|===========|====================|
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kFnkN8vGhLU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/n5j6RlsSstU?rel=0"
+            allowfullscreen
+            title="Online Mini Workshop: Relations in QGIS and Relation Editor">
+    </iframe>
+</div>
 
-## Mai 2022
+## November 2022: Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos
+{: .mt-4 :}
 
-### Konstruktionswerkzeuge 
+|:----------|:-------------------|
+|**Wann:**  |22.11.2022          |
+|           |von 11:00 bis 12:00 |
+|**Wo:**    |Online              |
+|===========|====================|
+
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/kFnkN8vGhLU?rel=0"
+            allowfullscreen
+            title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos">
+    </iframe>
+</div>
+
+
+## Mai 2022: Konstruktionswerkzeuge 
+{: .mt-4 :}
 
 |:----------------|:-------------------|
 |**Wann:**        |11.05.2022          |
@@ -50,7 +112,58 @@ Dieser Workshop wird besonders interessant für alle, die in Ihrer Arbeit sowohl
 |**Wo:**          |Online (Google Meet)|
 |=================|====================|
 
-Kennenlernen der Konstruktionswerkzeuge in QGIS, inkl. Snapping und Vorschau auf Verbesserungen in der kommenden Version 3.26
-Ein Überblick bezüglich der verschiedenen CAD/Konstruktionswerkzeuge und Techniken im QGIS-Kern wird geschaffen.
+Kennenlernen der Konstruktionswerkzeuge in QGIS, inkl. Snapping und Vorschau auf
+Verbesserungen in der kommenden Version 3.26.
+Ein Überblick bezüglich der verschiedenen CAD/Konstruktionswerkzeuge und Techniken
+im QGIS-Kern wird geschaffen.
 
-Es wird auch eine Vorschau auf Verbesserungen in der Version 3.26 bezüglich der Werkzeuge zur Erstellung von regelmässigen Formen (Rechtecke, Kreise, Vielecke, Bögen, etc; aka "shape tools") geben.
+Es wird auch eine Vorschau auf Verbesserungen in der Version 3.26 bezüglich der
+Werkzeuge zur Erstellung von regelmässigen Formen (Rechtecke, Kreise, Vielecke,
+Bögen, etc; aka "shape tools") geben.
+
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/qxq88q0e5ZI?rel=0"
+            allowfullscreen
+            title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos">
+    </iframe>
+</div>
+
+## November 2021: LiDAR-Daten visualisieren
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |24.11.2021          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online (Google Meet)|
+|=================|====================|
+
+Im Workshop wird gezeigt wie LiDAR (Punktwolken Daten) in QGIS geladen und
+visualisiert werden können. Zuerst gibt es eine kurze Präsentation zu Punktwolken
+in QGIS, und danach können Beispieldaten geladen und symbolisiert werden.
+
+* Laden von Point Cloud-Daten
+* Unterstützte LiDAR-Formate (Zusammenhang zwischen QGIS und PDAL)
+* Abfragen von LiDAR Werten mit dem Info-Werkzeug
+* Darstellungsarten:
+  * Nur Ausdehnung (Platzhalter)
+  * Farbverlauf für Attribute
+  * RGB (Zuweisung von Bändern zu Farbkanälen)
+  * Klassifikation (wie Gebäude, Vegetation, Wasser, etc.)
+* Punktgrössen
+* Zusammenhang zwischen "Punktbudget" und "maximum screen space error"
+
+Es empfiehlt sich, ein aktuelles QGIS 3.22 zu installieren für den Workshop
+(Version 3.20 ist auch ok).
+
+Im Anschluss an die Präsentation und die Übungen wird die 2. LiDAR Crowd Funding
+Kampagne vorgestellt, welche weitere Funktionen und Verbesserungen für die
+Darstellung von Punktwolken Daten ermöglichen sollen (Profilwerkzeug, bessere
+Filterwerkzeuge, verbesserte 2D-Darstellung mit Eye-Dome-Lighting-Effekt,
+bessere Formatunterstützung inklusive COPC (cloud optimized point cloud)).
+
+<div class="ratio ratio-16x9 mt-4 mb-4">
+    <iframe src="https://www.youtube-nocookie.com/embed/c65a2ZUZkmA?rel=0"
+            allowfullscreen
+            title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos">
+    </iframe>
+</div>
