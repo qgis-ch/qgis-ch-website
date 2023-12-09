@@ -31,6 +31,13 @@ jobs:
         run: |
           cd ./scripts/; ./write-courses.py
 
+      - name: Setup Ruby environment
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.x'
+          bundler-cache: true
+      - run: gem install jekyll-youtube
+
       - name: Build website with Jekyll
         uses: jerryjvl/jekyll-build-action@v1
 
