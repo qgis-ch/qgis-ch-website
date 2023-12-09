@@ -32,12 +32,12 @@ jobs:
           cd ./scripts/; ./write-courses.py
 
       - name: Setup Ruby environment
-        run: gem install jekyll bundler jekyll-youtube
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
           cache-version: 0
+      - run: gem install jekyll bundler jekyll-youtube
 
       - name: Build website with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
