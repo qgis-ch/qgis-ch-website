@@ -1,6 +1,6 @@
 ---
 
-title: "Online Mini-Workshops"
+title: "Online Mini-Workshops ab 2020"
 ### always on top
 year: 9999
 
@@ -17,12 +17,7 @@ year: 9999
 |**Wo:**    |Online              |
 |===========|====================|
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/jGtCJGYhARE?rel=0"
-            allowfullscreen
-            title="Online Mini Workshop: Multilingual Layer Labelling">
-    </iframe>
-</div>
+{% youtube "https://www.youtube-nocookie.com/watch?v=jGtCJGYhARE" %}
 
 ## Mai 2023: QGIS and ESRI - can they ever be compatible?
 {: .mt-4 :}
@@ -47,12 +42,7 @@ konvertiert werden können.
 Dieser Workshop wird besonders interessant für alle, die in Ihrer Arbeit sowohl
 QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/XMROhYOtZWo?rel=0"
-            allowfullscreen
-            title="Online Mini Workshop: QGIS and ESRI - can they ever be compatible?">
-    </iframe>
-</div>
+{% youtube "https://www.youtube.com/watch?v=XMROhYOtZWo" %}
 
 ## März 2023: QGIS and PostGIS: Tips and Tricks
 {: .mt-4 :}
@@ -63,12 +53,7 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/vbrvPNrjyHo?rel=0"
-            allowfullscreen
-            title="Online Mini Workshop: QGIS and PostGIS: Tips and Tricks">
-    </iframe>
-</div>
+{% youtube "https://www.youtube-nocookie.com/watch?v=vbrvPNrjyHo" %}
 
 ## Februar 2023: Relations in QGIS and Relation Editor
 {: .mt-4 :}
@@ -79,12 +64,7 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/n5j6RlsSstU?rel=0"
-            allowfullscreen
-            title="Online Mini Workshop: Relations in QGIS and Relation Editor">
-    </iframe>
-</div>
+{% youtube "https://www.youtube-nocookie.com/watch?v=5j6RlsSstU" %}
 
 ## November 2022: Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos
 {: .mt-4 :}
@@ -95,13 +75,7 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/kFnkN8vGhLU?rel=0"
-            allowfullscreen
-            title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos">
-    </iframe>
-</div>
-
+{% youtube "https://www.youtube-nocookie.com/watch?v=kFnkN8vGhLU" %}
 
 ## Mai 2022: Konstruktionswerkzeuge 
 {: .mt-4 :}
@@ -121,12 +95,7 @@ Es wird auch eine Vorschau auf Verbesserungen in der Version 3.26 bezüglich der
 Werkzeuge zur Erstellung von regelmässigen Formen (Rechtecke, Kreise, Vielecke,
 Bögen, etc; aka "shape tools") geben.
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/qxq88q0e5ZI?rel=0"
-            allowfullscreen
-            title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos">
-    </iframe>
-</div>
+{% youtube "https://www.youtube-nocookie.com/watch?v=qxq88q0e5ZI" %}
 
 ## November 2021: LiDAR-Daten visualisieren
 {: .mt-4 :}
@@ -161,9 +130,4 @@ Darstellung von Punktwolken Daten ermöglichen sollen (Profilwerkzeug, bessere
 Filterwerkzeuge, verbesserte 2D-Darstellung mit Eye-Dome-Lighting-Effekt,
 bessere Formatunterstützung inklusive COPC (cloud optimized point cloud)).
 
-<div class="ratio ratio-16x9 mt-4 mb-4">
-    <iframe src="https://www.youtube-nocookie.com/embed/c65a2ZUZkmA?rel=0"
-            allowfullscreen
-            title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos">
-    </iframe>
-</div>
+{% youtube "https://www.youtube-nocookie.com/watch?v=c65a2ZUZkmA" %}
