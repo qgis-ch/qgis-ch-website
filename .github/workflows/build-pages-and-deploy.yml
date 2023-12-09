@@ -32,14 +32,17 @@ jobs:
           cd ./scripts/; ./write-courses.py
 
       - name: Setup Ruby environment
+        run: gem install jekyll bundler jekyll-youtube
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1.1'
+          ruby-version: '3.1'
           bundler-cache: true
-      - run: gem install jekyll-youtube
+          cache-version: 0
 
       - name: Build website with Jekyll
-        uses: jerryjvl/jekyll-build-action@v1
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
 
       - name: Copy the files to the server using rsync
         uses: burnett01/rsync-deployments@6.0.0
