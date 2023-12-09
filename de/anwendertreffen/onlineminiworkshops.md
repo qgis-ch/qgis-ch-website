@@ -17,7 +17,7 @@ year: 9999
 |**Wo:**    |Online              |
 |===========|====================|
 
-{% youtube "https://www.youtube-nocookie.com/watch?v=jGtCJGYhARE" %}
+{% include youtube.html id="jGtCJGYhARE" title="Multilingual Layer Labelling" %}
 
 ## Mai 2023: QGIS and ESRI - can they ever be compatible?
 {: .mt-4 :}
@@ -42,7 +42,7 @@ konvertiert werden können.
 Dieser Workshop wird besonders interessant für alle, die in Ihrer Arbeit sowohl
 QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 
-{% youtube "https://www.youtube.com/watch?v=XMROhYOtZWo" %}
+{% include youtube.html id="XMROhYOtZWo" title="QGIS and ESRI - can they ever be compatible?" %}
 
 ## März 2023: QGIS and PostGIS: Tips and Tricks
 {: .mt-4 :}
@@ -53,7 +53,7 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-{% youtube "https://www.youtube-nocookie.com/watch?v=vbrvPNrjyHo" %}
+{% include youtube.html id="vbrvPNrjyHo" title="QGIS and PostGIS: Tips and Tricks" %}
 
 ## Februar 2023: Relations in QGIS and Relation Editor
 {: .mt-4 :}
@@ -64,7 +64,7 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-{% youtube "https://www.youtube-nocookie.com/watch?v=5j6RlsSstU" %}
+{% include youtube.html id="n5j6RlsSstU" title="Relations in QGIS and Relation Editor" %}
 
 ## November 2022: Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos
 {: .mt-4 :}
@@ -75,7 +75,7 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-{% youtube "https://www.youtube-nocookie.com/watch?v=kFnkN8vGhLU" %}
+{% include youtube.html id="kFnkN8vGhLU" title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos" %}
 
 ## Mai 2022: Konstruktionswerkzeuge 
 {: .mt-4 :}
@@ -95,7 +95,7 @@ Es wird auch eine Vorschau auf Verbesserungen in der Version 3.26 bezüglich der
 Werkzeuge zur Erstellung von regelmässigen Formen (Rechtecke, Kreise, Vielecke,
 Bögen, etc; aka "shape tools") geben.
 
-{% youtube "https://www.youtube-nocookie.com/watch?v=qxq88q0e5ZI" %}
+{% include youtube.html id="qxq88q0e5ZI" title="Konstruktionswerkzeuge" %}
 
 ## November 2021: LiDAR-Daten visualisieren
 {: .mt-4 :}
@@ -130,4 +130,4 @@ Darstellung von Punktwolken Daten ermöglichen sollen (Profilwerkzeug, bessere
 Filterwerkzeuge, verbesserte 2D-Darstellung mit Eye-Dome-Lighting-Effekt,
 bessere Formatunterstützung inklusive COPC (cloud optimized point cloud)).
 
-{% youtube "https://www.youtube-nocookie.com/watch?v=c65a2ZUZkmA" %}
+{% include youtube.html id="c65a2ZUZkmA" title="LiDAR-Daten visualisieren" %}

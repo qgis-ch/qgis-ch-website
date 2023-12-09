@@ -38,9 +38,6 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
-      - name: Install jekyll, bundler and jekyll-youtube gem
-        run: gem install jekyll bundler jekyll-youtube
-
       - name: Build website with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
