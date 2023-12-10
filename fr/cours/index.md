@@ -11,7 +11,7 @@ intéresser les utilisateurs de QGIS. Tous les cours ou activités sont organis�
 par des entreprises ou organisations externes. Pour plus d'informations, veuillez
 contacter directement les organisateurs.
 
-{% include courstable-fr.html %}
+{% include courstable.html program=site.data.kurse-cours %}
 
 Organisez-vous un cours ou une activité dans l'intérêt des utilisateurs de QGIS?
 Veuillez vous adresser au comité ou créez directement un
