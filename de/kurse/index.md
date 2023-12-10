@@ -11,7 +11,7 @@ für QGIS Anwender sind. Sämtliche Kurse oder Veranstaltungen werden von extern
 Firmen oder Organisationen durchgeführt, für weitere Fragen wenden Sie sich bitte
 direkt an die Organisatoren.
 
-{% include courstable-de.html %}
+{% include courstable.html program=site.data.kurse-cours %}
 
 Veranstalten Sie einen Kurs oder Veranstaltung, welche im Interesse von QGIS
 Anwendern ist? Wenden Sie sich bitte an den Vorstand oder erstellen Sie direkt

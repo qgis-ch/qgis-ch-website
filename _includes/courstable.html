@@ -1,0 +1,37 @@
+{%- if include.program.size >= 1 -%}
+<table class="table table-striped-columns">
+    <tbody>
+        <tr>
+        {%- if page.lang == 'de' -%}
+            <th>Datum</th><th>Kurzbeschrieb</th><th>Link</th>
+        {%- elsif page.lang == 'fr' -%}
+            <th>Date</th><th>Brève description</th><th>Lien</th>
+        {%- endif -%}
+        </tr>
+        {% for d in include.program %}
+        {% comment %}
+        see also: https://stackoverflow.com/questions/7087376/comparing-dates-in-liquid
+        {% endcomment %}
+        {% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+        {% capture posttime %}{{ d.date | date: '%s' }}{% endcapture %}
+        {% if posttime > nowunix %}
+        <tr>
+            <td>{{ d.date }}</td>
+            {% if page.lang == 'de' %}
+            <td>{{ d.title_de }}</td>
+            {% elsif page.lang == 'fr' %}
+            <td>{{ d.title_fr }}</td>
+            {% endif %}
+            <td><a href="{{ d.url }}" class="external-link">{{ d.url }}</a></td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </tbody>
+</table>
+{%- else -%}
+    {%- if lang == "de" -%}
+<i>Keine bevorstehenden Veranstaltungen oder Kurse eingetragen</i>
+    {%- else -%}
+<i>Aucun événement ou cours à venir</i>
+    {%- endif -%}
+{%- endif -%}
