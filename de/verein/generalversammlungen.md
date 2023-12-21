@@ -18,12 +18,12 @@ oberste Organ des Vereins.
 
 An der Generalversammlung werden unter Anderem den Jahresbericht der Präsidentin / des Präsidenten
 sowie die Jahresrechnung abgenommen, die Höhe der Mitgliederbeiträge bestimmt
-und das Budget fürs laufende Jahr genehmigt. Ausserdem werden an der
+und das Budget fürs laufende Jahr genehmigt. Ausserdem wird an der
 Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
 
 ## Generalversammlung 2023
 
-Die 11. Generalversammlung fand am 27. Januar 2023 in Bern statt.
+Die 11. Generalversammlung fand am 31. Januar 2023 in Bern statt.
 {: .alert .alert-secondary :}
 
 [Einladung zur QGIS-CH Generalversammlung 2023]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2023.pdf %}){: .pdf-link }
@@ -42,8 +42,8 @@ Die 10. Generalversammlung fand am 25. Januar 2022 online statt.
 ## Generalversammlung 2021
 
 Die GV 2021 fand auf Grund der COVID-Pandemie schriftlich statt per Online-Abstimmung
-zwischen 20. März 2021 und 9. April 2021. Im Nachgang zwischen 15. und 21. April
-wurde zudem die Finanzrevisoren gewählt.
+zwischen 20. März 2021 und 9. April 2021 statt. Im Nachgang, zwischen 15. und 21. April,
+wurden zudem die Finanzrevisoren gewählt.
 {: .alert .alert-secondary :}
 
 [Einladung zur QGIS-CH Generalversammlung 2021]({% link /assets/pdf/Traktanden_GV_OrdreDuJour_AG_QGIS-CH_2021.pdf %}){: .pdf-link :}
