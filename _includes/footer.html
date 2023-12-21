@@ -12,7 +12,11 @@
                         <div class="col-md-6 text-end text-">
                             <a href="https://github.com/qgis-ch/qgis-ch-website"
                                class="external-link">
-                                Fehler melden oder Änderung vorschlagen <i class="bi-github"></i>
+                                {% if page.lang == "fr" %}
+                                Signaler une erreur ou proposer une correction
+                                {% elsif page.lang == "de" %}
+                                Fehler melden oder Änderung vorschlagen
+                                {% endif %}
                             </a>
                         </div>
                     </div>

@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="{% link fr/index.md %}">Home</a>
+                    <a class="nav-link active" aria-current="page" href="{% link fr/index.html %}">Home</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class='nav-link {% if page.url contains "association" %}active{% endif %} dropdown-toggle' href="{% link fr/association/index.md %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -19,9 +19,6 @@
                         <li><a class="dropdown-item" href="{% link fr/association/index.md %}">À propos de l'association</a></li>
                         <li><a class="dropdown-item" href="{% link fr/association/assemblees-generales.md %}">Assemblées Générales</a></li>
                     </ul>
-                </li>
-                <li class="nav-item">
-                    <a class='nav-link {% if page.url contains "nouvelles" %} active {% endif %}' href="{% link fr/nouvelles/index.md %}">Nouvelles</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class='nav-link {% if page.url contains "reunions" %}active{% endif %} dropdown-toggle' href="{% link fr/reunions/index.md %}" id="navbarDropdownVeranstaltungen" role="button" data-bs-toggle="dropdown" aria-expanded="false">
