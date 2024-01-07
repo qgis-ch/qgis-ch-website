@@ -77,13 +77,22 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 
 {% include youtube.html id="kFnkN8vGhLU" title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos" %}
 
+Im Workshop wird gezeigt wie man GPS-Tracks (z.B. von Wanderungen) in
+QGIS visualisieren und zusammen mit Aufnahmestandorten von Fotos
+darstellen kann. Daten werden via Processing vorbereitet und für
+animierte Darstellungen aufbereitet. Für den Workshop werden
+Beispieldaten zur Verfügung gestellt.
+
+nstruktionen zum Workshop, sowie Beispieldaten finden sich im
+[Github Repository mini-ws-gpxtracks](https://github.com/qgis-ch/mini-ws-gpxtracks){: .external-link :}.
+
 ## Mai 2022: Konstruktionswerkzeuge 
 {: .mt-4 :}
 
 |:----------------|:-------------------|
 |**Wann:**        |11.05.2022          |
 |                 |von 11:00 bis 12:00 |
-|**Wo:**          |Online (Google Meet)|
+|**Wo:**          |Online              |
 |=================|====================|
 
 Kennenlernen der Konstruktionswerkzeuge in QGIS, inkl. Snapping und Vorschau auf
@@ -97,13 +106,51 @@ Bögen, etc; aka "shape tools") geben.
 
 {% include youtube.html id="qxq88q0e5ZI" title="Konstruktionswerkzeuge" %}
 
+## März 2022: QGIS Reporting Tool
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |16.03.2022          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online              |
+|=================|====================|
+
+Es gibt in QGIS zwei verschiedene Möglichkeiten für Seriendrucke: Atlas
+und Reports. Atlas erlaubt über einen einzelnen "Abdeckungslayer"
+Seriendrucke zu generieren. Reports erlauben zusätzlich noch die
+Iteration über weitere Kindebenen - also verschachtelte Reports über
+mehrere Attributtabellen - zu erstellen. Im Workshop wird die wenig
+bekannte Reporting-Funktionalität von QGIS vorgestellt.
+
+Im Workshop wird die Funktionalität des QGIS Reportings
+(Berichtsfunktionalität) vorgestellt und anhand von einem Beispiel
+beübt. QGIS-Berichte können über mehrere miteinander verknüpfte
+Tabellen iteriert werden. Berichte können wie Drucklayouts oder Atlas-
+Seriendrucke sämtliche Objekte der Drucklayouts beinhalten, also z.B.
+Karten, Texte, Grafiken, Tabellen, Bilder und Diagramme. Berichte
+können neben dem Berichtskörper (body) auch "Kopf-" und "Fusszeilen-
+Blätter" (header and footer) für einzelne Abschnitte beinhalten.
+
+{% include youtube.html id="rYqGYfUMfiw" title="QGIS Reporting Tool" %}
+
+## Februar 2022: Annotation Layer
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |16.02.2022          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online              |
+|=================|====================|
+
+{% include youtube.html id="8q1g4w7-Yss" title="Annotation Layer" %}
+
 ## November 2021: LiDAR-Daten visualisieren
 {: .mt-4 :}
 
 |:----------------|:-------------------|
 |**Wann:**        |24.11.2021          |
 |                 |von 11:00 bis 12:00 |
-|**Wo:**          |Online (Google Meet)|
+|**Wo:**          |Online              |
 |=================|====================|
 
 Im Workshop wird gezeigt wie LiDAR (Punktwolken Daten) in QGIS geladen und
@@ -131,3 +178,123 @@ Filterwerkzeuge, verbesserte 2D-Darstellung mit Eye-Dome-Lighting-Effekt,
 bessere Formatunterstützung inklusive COPC (cloud optimized point cloud)).
 
 {% include youtube.html id="c65a2ZUZkmA" title="LiDAR-Daten visualisieren" %}
+
+## October 2021: Relationen mit Interlis und QGIS
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |19.10.2021          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online              |
+|=================|====================|
+
+Im Workshop lernen wir, wie wir verschiedene Arten von Relationen in
+Interlis modellieren und danach mit ili2pg, Postgis und QGIS ModelBaker
+umsetzen können. Ca. in der Hälfte des Online Workshops ist eine Pause
+geplant. Es empfiehlt sich, den Workshop mit 2 Monitoren
+mitzuverfolgen. Dann kann an einem Monitor die Videokonferenz
+mitverfolgt werden und am anderen Monitor können die Beispiele im
+eigenen System nachvollzogen werden (Übungen).
+
+Anhand von einfachen Modellen lernen wir, wie wir Klassen (auch mit
+Vererbung) und Relationen (Beziehungen) modellieren können. Es werden
+die Relationsstärken (Assoziation und Komposition) behandelt und wie
+diese von ili2pg / QGIS ModelBaker umgesetzt werden.
+
+Für die Umsetzung der Datenspeicherung in relationalen Datenbanken
+kennt ili2pg 2 verschiedene Modi zur Abbildung von Vererbung:
+
+* smart1Inheritance
+* smart2Inheritance
+
+Im Workshop werden die Unterschiede der beiden Ansätze sowie deren Vor-
+und Nachteile gezeigt. Weitere relevante il2pg-Parameter werden
+behandelt.
+
+Nach der Erstellung eines einfachen Modells und dem Einlesen in die
+Postgis-Datenbank wird aufgezeigt, wie man Relationen in QGIS-
+Formularen umsetzt, und welche Konfigurationsmöglichkeiten (z.B. Knöpfe
+zum Verknüpfen/Lösen, Erstellen/Löschen, Heranzoomen, etc.) es in der
+Benutzerschnittstelle gibt.
+
+Dies ist kein Interlis-Kurs. Grundsätzliche Kenntnisse der
+Modellerierung von Interlis werden vorausgesetzt.
+
+Bitte installieren Sie im Vorfeld des Workshops die folgende Software:
+
+* UMLEditor
+* QGIS (am besten die letzte LTR-Version 3.16)
+* QGIS ModelBaker (inkl. ili2pg (das Plugin installiert automatisch
+ili2pg)), Installation über den QGIS Plugin Manager
+* PostgreSQL Datenbank (sie benötigen Admin-Rechte in der DB für das
+Anlegen von neuen Objekten)
+* PostgreSQL Admin-Werkzeug (DBeaver oder pgAdmin)
+* Texteditor (z.b. Notepad++ oder ähnlich)
+
+{% include youtube.html id="xvLDv1Jn0rQ" title="Relationen mit Interlis und QGIS" %}
+
+## Juni 2021: LTOP-Daten visualisieren mit Python und Geometriegeneratoren
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |16.06.2021          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online              |
+|=================|====================|
+
+Einblick in die Benutzung von LTOP-Daten mithilfe von Python-Scripts und Geometriegeneratoren.
+LTOP ist die Präanalyse- und Ausgleichungssoftware für geodätische Netze der Swisstopo
+und wird im Verlaufe des Jahres 2021 als Opensource Software zur Verfügung gestellt.
+
+Die Ein- und Ausgabe in LTOP erfolgt über spezifische Textdateien, eine grafische
+Ausgabe gibt es dagegen nicht. Hier kommt QGIS ins Spiel. In diesem Workshop werden
+wir in QGIS folgendes Erarbeiten:
+
+* Einlesen der LTOP Koordinatendateien .koo und darstellen als Punktlayer
+* Einlesen der LTOP Messdateien .mes und darstellen des geodätischen Netzes mit
+entsprechender Symbolisierung von Richtungen und Distanzmessungen
+* Einlesen der LTOP Resultatdateien .prn und darstellen der Fehlerellipsen und
+Verbesserungsvektoren.
+
+Dazu werden Python, PyQGIS und clevere Symbolisierungen mit dem Geometry-Generator
+eingesetzt.
+
+Keine LTOP Installation nötig, keine LTOP Kenntnisse nötig, Kenntnisse in
+Ausgleichsrechnung von Vorteil.
+
+* [Präsentation]({% link /assets/pdf/2021/Mini-Workshop 2021-06-16 Representation LTOP Data.pdf %})
+* [Übungsdateien]({% link /assets/pdf/2021/Abgabedaten-20240107T195508Z-001.zip %})
+
+{% include youtube.html id="kMVEzEKWX2o" title="LTOP-Daten visualisieren mit Python und Geometriegeneratoren" %}
+
+## Mai 2021: QGIS Locator
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |12.05.2021          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online              |
+|=================|====================|
+
+QGIS Locator ist das universelle QGIS-Suchwerkzeug um Ressourcen, Funktionen,
+Geodaten, Namen und Lokalitäten aufzufinden. Dieses ist mit Plugins erweiterbar
+um Lokalitäten oder Diensten auf der Basis von Geowebdiensten aus der Nationalen
+Geodaten Infrastruktur (NGDI) oder eigenen GDI einzubinden.
+
+Die Workshop-Idee ist:
+
+* zu erfahren, was der Locator kann (Suche nach Features, Algorithmen,
+Drucklayouts, Layer, Berechnungen, Aktionen, Lesezeichen, Einstellungen usw.)
+* die verfügbaren Locator-Filter und die Konfiguration kennenzulernen (wie man
+sie deaktiviert/aktiviert)
+* den Benutzern ein paar Minuten Zeit geben, um Dinge mit einigen einfachen
+Daten, die wir zur Verfügung stellen, auszuprobieren.
+* auch Erweiterungen wie SwissLocator zu entdecken
+* und schließlich eine mögliche Integration mit einer bestehenden GDI auch für
+das Laden von Daten/Layern kennenzulernen.
+
+* [Präsentation]({% link /assets/pdf/2021/Mini-Workshop 2021-05-12 QGIS Locator.pdf %})
+* [Übungsdateien]({% link /assets/pdf/2021/locator_exercise.gpkg %})
+(GeoPackage mit Swissboundaries und Swissnames, sowie QGIS-Projekt)
+
+{% include youtube.html id="9yHSZZel91M" title="QGIS Locator" %}

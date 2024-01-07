@@ -1,6 +1,5 @@
 _site/
 # Ignore dynamically created includes
-_includes/courstable-*
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
