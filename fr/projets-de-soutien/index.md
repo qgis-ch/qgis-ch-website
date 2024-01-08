@@ -70,3 +70,22 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * Interactive tools for annotation graphic creation and modification<br/>
   [réalisé en version 3.22](https://qgis.org/en/site/forusers/visualchangelog322/index.html#annotations){: .external-link :}
+
+### Projets de soutien 2020
+
+### Projets de soutien 2019
+
+* Support de générateurs de géométrie pour étiquettes<br/>
+  [réalisé en version 3.8](https://qgis.org/en/site/forusers/visualchangelog38/#feature-geometry-generators-for-labeling){: .external-link :}
+
+* L'édition : Synchronisation de l'outil de noeud avec la liste de coordonnées
+  de l'éditeur de points de base<br/>
+  [réalisé en version 3.8](https://qgis.org/en/site/forusers/visualchangelog38/#feature-improvements-in-the-vertex-editor){: .external-link :}
+
+* Analyses vectorielles Multithreaded<br/>
+  partiellement mis en œuvre,<br/>
+  GitHub pull request avec les discussions:
+  [https://github.com/qgis/QGIS/pull/33365](https://github.com/qgis/QGIS/pull/33365){: .external-link :}
+
+* Masquage sélectif des étiquettes et des symboles<br/>
+  [réalisé en version 3.12](https://github.com/qgis/QGIS/pull/30747){: .external-link :}

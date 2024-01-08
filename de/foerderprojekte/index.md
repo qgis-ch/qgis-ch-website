@@ -69,3 +69,23 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
 
 * Interactive tools for annotation graphic creation and modification<br/>
   [umgesetzt in Version 3.22](https://qgis.org/en/site/forusers/visualchangelog322/index.html#annotations){: .external-link :}
+
+
+### Förderprojekte 2020
+
+### Förderprojekte 2019
+
+* Unterstützung von Geometriegeneratoren für Beschriftungen<br/>
+  [umgesetzt in Version 3.8](https://qgis.org/en/site/forusers/visualchangelog38/#feature-geometry-generators-for-labeling){: .external-link :}
+
+* Editieren: Synchronisation des Knotenwerkzeugs mit der Koordinatenliste 
+  des Stützpunkteditors<br/>
+  [umgesetzt in Version 3.8](https://qgis.org/en/site/forusers/visualchangelog38/#feature-improvements-in-the-vertex-editor){: .external-link :}
+
+* Multithreaded Vektor-Analysen<br/>
+  teilweise umgesetzt,<br/>
+  Siehe GitHub Pull-Request mit Diskussionen:
+  [https://github.com/qgis/QGIS/pull/33365](https://github.com/qgis/QGIS/pull/33365){: .external-link :}
+
+* Selektives Maskieren von Beschriftungen und Symbolen<br/>
+  [umgesetzt in Version 3.12](https://github.com/qgis/QGIS/pull/30747){: .external-link :}
