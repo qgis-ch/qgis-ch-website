@@ -17,6 +17,12 @@ year: 9999
 |**Wo:**    |Online              |
 |===========|====================|
 
+Mathieu Pellerin ist ein erfahrener UX/UI Designer im QGIS Projekt. Aus
+seiner Arbeit in internationalen Projekten hat er viel Erfahrung im
+Entwurf von mehrsprachigen Karten. An diesem Workshop wird Mathieu uns
+zahlreiche Tipps und Tricks im Umgang mit Layerbeschriftungen
+weitergeben, insbesondere auch für mehrsprachige Karten.
+
 {% include youtube.html id="jGtCJGYhARE" title="Multilingual Layer Labelling" %}
 
 ## Mai 2023: QGIS and ESRI - can they ever be compatible?
@@ -53,6 +59,11 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
+Julien Cabieces ist Senior GIS Entwickler bei Oslandia und langjähriger
+aktiver QGIS Core-Entwickler. Er verfügt über viel Erfahrung und
+vertieftes Wissen im Einsatz von QGIS mit PostGIS und wird uns zu
+diesem Thema viele Tipps und Tricks weitergeben.
+
 {% include youtube.html id="vbrvPNrjyHo" title="QGIS and PostGIS: Tips and Tricks" %}
 
 ## Februar 2023: Relations in QGIS and Relation Editor
@@ -63,6 +74,13 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |           |von 11:00 bis 12:00 |
 |**Wo:**    |Online              |
 |===========|====================|
+
+In diesem Workshop werden wir uns QGIS-Relationen ansehen und wie sie
+im Attributformular mit Widgets im Allgemeinen konfiguriert und
+bearbeitet werden. Ausserdem gehen wir auf einige Plugins ein, die das
+Relationen-Editor-Widget übersteuern, um eine bessere
+Benutzerfreundlichkeit zu gewährleisten und spezielle Anwendungsfälle
+zu lösen.
 
 {% include youtube.html id="n5j6RlsSstU" title="Relations in QGIS and Relation Editor" %}
 
@@ -75,16 +93,28 @@ QGIS wie auch ESRI Produkte einsetzen wollen oder müssen.
 |**Wo:**    |Online              |
 |===========|====================|
 
-{% include youtube.html id="kFnkN8vGhLU" title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos" %}
-
 Im Workshop wird gezeigt wie man GPS-Tracks (z.B. von Wanderungen) in
 QGIS visualisieren und zusammen mit Aufnahmestandorten von Fotos
 darstellen kann. Daten werden via Processing vorbereitet und für
 animierte Darstellungen aufbereitet. Für den Workshop werden
 Beispieldaten zur Verfügung gestellt.
 
-nstruktionen zum Workshop, sowie Beispieldaten finden sich im
+Instruktionen zum Workshop, sowie Beispieldaten finden sich im
 [Github Repository mini-ws-gpxtracks](https://github.com/qgis-ch/mini-ws-gpxtracks){: .external-link :}.
+
+{% include youtube.html id="kFnkN8vGhLU" title="Visualisierung und Animationen von GPS Tracks und georeferenzierten Fotos" %}
+
+## September 2022: Einführung in QWC2
+{: .mt-4 :}
+
+|:----------|:-------------------|
+|**Wann:**  |21.09.2022          |
+|           |von 11:00 bis 12:00 |
+|**Wo:**    |Online              |
+|===========|====================|
+
+In diesem Workshop wird Sandro Mani uns eine Einführung in den QGIS Web
+Client (kurz: QWC2 ) geben und die neusten Entwicklungen vorstellen.
 
 ## Mai 2022: Konstruktionswerkzeuge 
 {: .mt-4 :}
@@ -141,6 +171,27 @@ Blätter" (header and footer) für einzelne Abschnitte beinhalten.
 |                 |von 11:00 bis 12:00 |
 |**Wo:**          |Online              |
 |=================|====================|
+
+Annotations sind Kommentar- und Zeichenfunktionen die direkt im QGIS-Projekt
+abgespeichert werden, und nicht direkt in einem Geodatensatz. Dazu zählen
+Beschriftungen, Sprechblasen und Zeichenwerkzeuge für Symbole, Linen und
+Polygone. Annotations werden oberhalb der anderen Geodatenlayer gezeichnet.
+Vorstellung der neuen Annotations-Werkzeuge durch den Hauptentwickler Nyall
+Dawson.
+
+
+
+Im Workshop werden die verschiedenen Annotationswerkzeuge vorgestell:
+
+* Ebenenverwaltung von Annotations-Ebenen (ähnliche Zeichenprogramm)
+* Selektieren, Verschieben und Löschen von Elementen
+* Zeichnen von Polygonen und Linien
+* Zeichnen von Symbolen (Markern)
+* Beschriftungswerkzeug
+* Weitere Annotationselemente, wie Sprechblasen, Formular-Annotation, HTML-Annotation und SVG-Annotations
+* Ebeneneigenschaften und Zeicheneffekte
+* Processing-Werkzeug um Annotations von einem in den anderen Annotation-Layer
+übertragen zu können
 
 {% include youtube.html id="8q1g4w7-Yss" title="Annotation Layer" %}
 
@@ -233,6 +284,25 @@ Anlegen von neuen Objekten)
 
 {% include youtube.html id="xvLDv1Jn0rQ" title="Relationen mit Interlis und QGIS" %}
 
+## September 2021: Feldarbeiten mit QField
+{: .mt-4 :}
+
+|:----------------|:-------------------|
+|**Wann:**        |15.09.2021          |
+|                 |von 11:00 bis 12:00 |
+|**Wo:**          |Online              |
+|=================|====================|
+
+QGIS ist effizient und einfach zu bedienen im Büroalltag. Die Erfassung von
+Daten findet jedoch häufig auf dem Feld statt. Ob bei Wind und Wetter oder
+Sonnenschein, die Arbeit im Freien erfordert eine Lösung, die für mobile Geräte
+optimiert ist. QField ist der perfekte Begleiter von QGIS. Die QField
+Standardinstallation ermöglicht eine intuitive Anzeige und Bearbeitung von
+Daten. Mit einer schlanken Benutzeroberfläche ermöglicht QField die Verwendung
+von QGIS-Projekten auf Tablets.
+
+{% include youtube.html id="tvGOGsqScBA" title="Feldarbeiten mit QField" %}
+
 ## Juni 2021: LTOP-Daten visualisieren mit Python und Geometriegeneratoren
 {: .mt-4 :}
 
@@ -262,8 +332,8 @@ eingesetzt.
 Keine LTOP Installation nötig, keine LTOP Kenntnisse nötig, Kenntnisse in
 Ausgleichsrechnung von Vorteil.
 
-* [Präsentation]({% link /assets/pdf/2021/Mini-Workshop 2021-06-16 Representation LTOP Data.pdf %})
-* [Übungsdateien]({% link /assets/pdf/2021/Abgabedaten-20240107T195508Z-001.zip %})
+* [Präsentation]({% link assets/pdf/2021/Mini-Workshop 2021-06-16 Representation LTOP Data.pdf %})
+* [Übungsdateien]({% link assets/pdf/2021/Abgabedaten-20240107T195508Z-001.zip %})
 
 {% include youtube.html id="kMVEzEKWX2o" title="LTOP-Daten visualisieren mit Python und Geometriegeneratoren" %}
 
@@ -293,8 +363,8 @@ Daten, die wir zur Verfügung stellen, auszuprobieren.
 * und schließlich eine mögliche Integration mit einer bestehenden GDI auch für
 das Laden von Daten/Layern kennenzulernen.
 
-* [Präsentation]({% link /assets/pdf/2021/Mini-Workshop 2021-05-12 QGIS Locator.pdf %})
-* [Übungsdateien]({% link /assets/pdf/2021/locator_exercise.gpkg %})
+* [Präsentation]({% link assets/pdf/2021/Mini-Workshop 2021-05-12 QGIS Locator.pdf %})
+* [Übungsdateien]({% link assets/pdf/2021/locator_exercise.gpkg %})
 (GeoPackage mit Swissboundaries und Swissnames, sowie QGIS-Projekt)
 
 {% include youtube.html id="9yHSZZel91M" title="QGIS Locator" %}
