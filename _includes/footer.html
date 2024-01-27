@@ -1,28 +1,43 @@
-            <div class="container-md">
-                <footer class="footer">
-                    <div class="divider"></div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-                                <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
-                            </a>
-                            <span class="text-muted">&copy; CC-BY-SA 4.0</span>
-                        </div>
-
-                        <div class="col-md-6 text-end text-">
-                            <a href="https://github.com/qgis-ch/qgis-ch-website"
-                               class="external-link">
-                                {% if page.lang == "fr" %}
-                                Signaler une erreur ou proposer une correction
-                                {% elsif page.lang == "de" %}
-                                Fehler melden oder Änderung vorschlagen
-                                {% endif %}
-                            </a>
-                        </div>
-                    </div>
-                </footer>
+<div class="container-md">
+    <footer class="footer">
+        <div class="divider"></div>
+        <div class="row">
+            <div class="col-md-6">
+                <p style="font-size: smaller;">
+                    {% if page.lang == "fr" %}
+                    Sauf indication contraire, le contenu de cette<br/>
+                    page est publié sous la licence suivante:<br/>
+                    <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/"
+                        class="external-link">
+                        CC Attribution-Share Alike 4.0 International
+                    </a>
+                    {% elsif page.lang == "de" %}
+                    Falls nicht anders bezeichnet, ist der Inhalt dieser<br/>
+                    Seite unter der folgenden Lizenz veröffentlicht:<br/>
+                    <a
+                        href="https://creativecommons.org/licenses/by-sa/4.0/"
+                        class="external-link">
+                        CC Attribution-Share Alike 4.0 International
+                    </a>
+                    {% endif %}
+                </p>
             </div>
-        </main>
-        <script src="{% link /assets/js/bootstrap.bundle.min.js %}"></script>
-    </body>
+
+            <div class="col-md-6 text-end text-" style="font-size: smaller;">
+                <a href="https://github.com/qgis-ch/qgis-ch-website"
+                   class="external-link">
+                    {% if page.lang == "fr" %}
+                    Signaler une erreur ou<br/>proposer une correction
+                    {% elsif page.lang == "de" %}
+                    Fehler melden oder<br/>Änderung vorschlagen
+                    {% endif %}
+                </a>
+            </div>
+        </div>
+    </footer>
+</div>
+</main>
+<script src="{% link /assets/js/bootstrap.bundle.min.js %}"></script>
+</body>
 </html>

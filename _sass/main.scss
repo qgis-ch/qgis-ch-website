@@ -5,14 +5,17 @@
 
 h1 {
     color: $primary-dark;
+    padding-bottom: $spacer !important;
 }
 
 h2 {
     color: $primary;
+    padding-bottom: $spacer * .5 !important;
 }
 
 h3 {
-    color: $gray-700;
+    color: $gray-600;
+    padding-bottom: $spacer * .25 !important;
 }
 
 .external-link {

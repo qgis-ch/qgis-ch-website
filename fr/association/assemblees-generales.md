@@ -21,6 +21,13 @@ que les comptes annuels, fixe le montant des cotisations des membres et approuve
 le budget pour l'année en cours. En outre, les projets de promotion pour l'année
 en cours sont votés lors de l'assemblée générale.
 
+## Assemblée générale 2024
+
+La 12e assemblée générale aura lieu le 31 janvier 2024 à Berne.
+{: .alert .alert-secondary :}
+
+[Invitation à l'assemblée générale QGIS-CH 2024]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2024.pdf %}){: .pdf-link }
+
 ## Assemblée générale 2023
 
 La 11e assemblée générale a eu lieu le 31 janvier 2023 à Berne.
