@@ -73,6 +73,17 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 ### Projets de soutien 2020
 
+* Placement automatique des étiquettes à l'extérieur des polygones<br/>
+  [réalisé en version 3.14](https://qgis.org/en/site/forusers/visualchangelog314/index.html#feature-automatic-placement-of-labels-outside-polygons){: .external-link :}
+
+* Annotation Drawing Layer
+
+* Installer version expérimentale par plugin<br/>
+  [réalisé en version 3.14](https://qgis.org/en/site/forusers/visualchangelog314/index.html#feature-allow-users-to-install-stable-or-experimental-plugins){: .external-link :}
+
+* QGIS Usability improvement roundhouse kick<br/>
+  [réalisé en version 3.14](https://qgis.org/en/site/forusers/visualchangelog314/index.html#feature-allow-the-drag-and-drop-of-a-layer-across-several-qgis-instances){: .external-link :}
+
 ### Projets de soutien 2019
 
 * Support de générateurs de géométrie pour étiquettes<br/>
@@ -89,3 +100,13 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * Masquage sélectif des étiquettes et des symboles<br/>
   [réalisé en version 3.12](https://github.com/qgis/QGIS/pull/30747){: .external-link :}
+
+### Projets de soutien 2018
+
+* Fichiers de projets QGIS multilingues<br/>
+  [réalisé en version 3.4](https://www.opengis.ch/de/2018/09/11/qgis-speaks-a-lot-of-languages/){: .external-link :}
+
+* Processing Feature Filter Algorithm<br/>
+  [réalisé en version 3.2](https://qgis.org/en/site/forusers/visualchangelog32/index.html#feature-feature-filter-algorithm-for-processing-models){: .external-link :}
+
+* Port QuickFinder plugin<br/>
