@@ -15,7 +15,7 @@ Analog dazu sind auch die französischen Seiten im Verzeichnis *fr* strukturiert
 
 Neuigkeiten werden wie folgt publiziert:
 
-* Übersicht der Artikeln mit Einleitungstext unter *de/neuigkeiten* bzw. *fr/nouvelles*, getrennt nach Sprache
+* Übersicht der Artikeln mit Einleitungstext auf der Startseite
 * als Artikel unter *YYYY/mm/dd/title.html*
 * im Atom Feed unter *feed.xml* zweisprachig
 
@@ -65,14 +65,6 @@ Kopieren des Quellcodes von GitHub:
 Wechseln in Verzeichnis der Webseite:
 
 `cd qgis-ch-website`
-
-Aktualisieren der Kursdaten:
-
-```
-cd scripts
-./write-courses.py
-cd ..
-```
 
 Starten des Webservers:
 
