@@ -47,6 +47,9 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 * Point cloud extraction in QGIS,<br/>
   [réalisé en version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-point-cloud-layer-export){: .external-link :}
 
+* Soutien financier de la campagne: Point cloud processing in QGIS and 3D data enhancements,<br/>
+  [réalisé en version 3.30](https://www.lutraconsulting.co.uk/blog/2023/03/07/pointcloud-qgis-cf3-update1/){: .external-link :}
+
 * Support de couches WMTS dans le plugin Swiss Locator et maintenance pour 2 ans,<br/>
   [réalisé](https://www.opengis.ch/de/2023/06/13/unterstutzung-fur-wmts-in-qgis-swiss-locator/){: .external-link :}
 

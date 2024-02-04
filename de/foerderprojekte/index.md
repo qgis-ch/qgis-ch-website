@@ -46,6 +46,9 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
 * Point cloud extraction in QGIS,<br/>
   [umgesetzt in Version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-point-cloud-layer-export){: .external-link :}
 
+* Finanzielle Unterstützung der Kampagne: Point cloud processing in QGIS and 3D data enhancements,<br/>
+  [umgesetzt in Version 3.30](https://www.lutraconsulting.co.uk/blog/2023/03/07/pointcloud-qgis-cf3-update1/){: .external-link :}
+
 * WMTS-Layer Unterstützung in Swiss Locator Plugin und Wartung für zwei Jahre,<br/>
   [umgesetzt](https://www.opengis.ch/de/2023/06/13/unterstutzung-fur-wmts-in-qgis-swiss-locator/){: .external-link :}
 
