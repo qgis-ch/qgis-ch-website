@@ -8,21 +8,21 @@ title: "Über den Verein"
 
 ## Organisation
 
-Die QGIS Usergruppe Schweiz ist ein Zusammenschluss von QGIS Anwendern in der
+Die QGIS Anwendergruppe Schweiz ist ein Zusammenschluss von QGIS Anwendern in der
 Schweiz. Die QGIS Usergruppe ist ein Verein im Sinne des
 [Schweizerischen Zivilgesetzbuches (ZGB Art. 60-79)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#book_1/tit_2/chap_2){: .external-link target="BLANK" }.
 
-Die QGIS Usergruppe besteht aus:
+Die QGIS Anwendergruppe Schweiz besteht aus:
 
-* Individuellen (privaten) Mitgliedern
-* Kollektivmitgliedern (Behörden, Firmen und Universitäten)
+* Individuellen, privaten Mitgliedern
+* Kollektivmitgliedern: Behörden, Firmen und Universitäten
 * Ehrenmitgliedern
 
 Die formalen Einheiten der QGIS Usergruppe sind:
 
-* Die Generalversammlung (1x pro Jahr)
+* Die Generalversammlung (ordentliche Generalversammlung einmal pro Jahr)
 * Der Vorstand (mindestens Präsident, Sekretär, Kassier)
-* Die Revisoren (Buchhaltung)
+* Die Revisoren (für die Buchhaltung)
 
 Aktueller Vorstand
 
