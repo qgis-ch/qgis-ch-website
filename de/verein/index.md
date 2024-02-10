@@ -26,10 +26,12 @@ Die formalen Einheiten der QGIS Usergruppe sind:
 
 Aktueller Vorstand
 
-* Präsidentin: Isabel Kiefer (OPENGIS.ch GmbH)
-* Sekretär: Adrian Weber (DÜTSCHLER+PARTNER AG)
-* Kassier: Andreas Vonlaufen (Stadt Uster, Leiter GIS-Kompetenzzentrum)
-* Andreas Neumann (Amt für Geoinformation Kanton Solothurn, Projektleiter)
+* Präsident: François Voisard (Kanton Neuenburg)
+* Stellvertretender Präsident: Daniel Hollenweger (Stadt Zürich)
+* Sekretär: Adrian Weber (Kanton Solothurn)
+* Kassier: Andreas Vonlaufen (Stadt Uster)
+* Andreas Neumann (ETH Zürich)
+* Benjamin Kuster (SoilCom GmbH)
 
 ## Ziele und Aktivitäten
 

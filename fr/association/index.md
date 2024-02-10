@@ -26,10 +26,12 @@ Les composants formels du QGIS Groupe d'Utilisateur Suisse sont:
 
 Comité actuel
 
-* Présidente: Isabel Kiefer (OPENGIS.ch)
-* Secrétaire: Adrian Weber (Amt für Geoinfomation, Canton de Soleure)
-* Caissier: Andreas Vonlaufen (Ville d'Uster, responsable géomatique)
-* Andreas Neumann (l'Institut de Cartographie et Geoinformation, ETH Zurich)
+* Président: François Voisard (Canton de Neuchâtel)
+* Président suppléant: Daniel Hollenweger (Ville de Zurich)
+* Secrétaire: Adrian Weber (Canton de Soleure)
+* Caissier: Andreas Vonlaufen (Ville d'Uster)
+* Andreas Neumann (EPF Zurich)
+* Benjamin Kuster (SoilCom GmbH)
 
 ## Buts et activités
 
