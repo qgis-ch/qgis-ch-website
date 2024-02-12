@@ -25,9 +25,10 @@ jobs:
           cache-version: 0
 
       - name: Build website with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --strict_front_matter
         env:
           JEKYLL_ENV: production
+          JEKYLL_LOG_LEVEL: warn
 
       - name: Copy the files to the server using rsync
         uses: burnett01/rsync-deployments@6.0.0
