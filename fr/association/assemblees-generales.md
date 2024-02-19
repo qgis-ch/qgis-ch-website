@@ -28,6 +28,8 @@ La 12e assemblée générale aura lieu le 31 janvier 2024 à Berne.
 
 [Invitation à l'assemblée générale QGIS-CH 2024]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2024.pdf %}){: .pdf-link }
 
+[Procès-verbal de la 12e assemblée générale QGIS-CH 2024]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2024.pdf %}){: .pdf-link :}
+
 ## Assemblée générale 2023
 
 La 11e assemblée générale a eu lieu le 31 janvier 2023 à Berne.

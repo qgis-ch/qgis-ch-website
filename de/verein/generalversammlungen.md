@@ -28,6 +28,8 @@ Die 12. Generalversammlung findet am 31. Januar 2024 in Bern statt.
 
 [Einladung zur QGIS-CH Generalversammlung 2024]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2024.pdf %}){: .pdf-link }
 
+[Protokoll der 12. QGIS-CH Generalversammlung 2024]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2024.pdf %}){: .pdf-link :}
+
 ## Generalversammlung 2023
 
 Die 11. Generalversammlung fand am 31. Januar 2023 in Bern statt.
