@@ -8,7 +8,7 @@ title: QGIS 3.34 Prizren veröffentlicht!
 
 # {{ page.title }}
 
-*Veröffentlicht am {{ page.date }}*
+*Veröffentlicht am {{ page.date | date: "%d. %b %Y"}}*
 
 Wir freuen uns, die Veröffentlichung von QGIS 3.34 Prizren ankündigen zu können!
 

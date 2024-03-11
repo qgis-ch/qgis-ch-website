@@ -13,9 +13,25 @@ vorgestellt. An der Generalversammlung werden dann diejenigen Projekte ausgewäh
 welche in diesem Jahr finanziert werden sollen. Jedes Vereinsmitglied ist berechtigt,
 Projektideen der Generalversammlung vorzulegen und deren Finanzierung zu beantragen.
 
-## Aktuelle Förderprojekte 2023
+## Aktuelle Förderprojekte 2024
 
-An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
+An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
+
+* Linear Referencing Symbology and Labeling
+
+* QField: Skizzenfunktion
+
+* Quantized Mesh Format Provider (für Geländedarstellung)
+
+* Geländeschnitte basierend auf swisstopo API und SwissALTI3D Daten
+
+* Unterhalt SwissLocator
+
+* Speichern von Python Expression Funktionen ins Projekt
+
+## Umgesetzte Förderprojekte
+
+### Förderprojekte 2023
 
 * Jahresgönnerschaft für QGIS Model Baker
 
@@ -24,11 +40,10 @@ An der Generalversammlung 2023 sind folgende Förderprojekte angenommen worden:
 * Verbesserungsvorschläge QGIS Model Baker,<br/>
   [umgesetzt in Version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
 
-* Verbesserung DXF-Export
+* Verbesserung DXF-Export,<br/>
+  [umgesetzt in Version 3.36](https://qgis.org/en/site/forusers/visualchangelog336/index.html#feature-improved-export-layers-to-dxf-algorithm){: .external-link :}
 
 * Verbesserung der CAD-Erfassung, Teil B
-
-## Umgesetzte Förderprojekte
 
 ### Förderprojekte 2022
 
