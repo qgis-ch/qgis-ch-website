@@ -8,7 +8,7 @@ title: Ankündigung Generalversammlung vom 31. januar 2024
 
 # {{ page.title }}
 
-*Veröffentlicht am {{ page.date }}*
+*Veröffentlicht am {{ page.date | date: "%d. %b %Y"}}*
 
 Das Jahresende rückt bereits wieder näher, gerne möchten wir euch zu diesem
 Zeitpunkt noch einige Punkte kommunizieren.

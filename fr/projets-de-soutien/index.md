@@ -14,9 +14,25 @@ sont ensuite sélectionnés, qui doivent être financés cette année. Chaque me
 de l'association est autorisé de présenter des idées de projets à l'assemblée générale
 et de demander leur financement.
 
-## Projets de soutien actuels 2023
+## Projets de soutien actuels 2024
 
-Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2023 :
+Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2024 :
+
+* Linear Referencing Symbology and Labeling
+
+* QField: fonction de croquis
+
+* Quantized Mesh Format Provider (pour la représentation du terrain)
+
+* Coupes de terrain basées sur swisstopo API et les données SwissALTI3D
+
+* Entretien SwissLocator
+
+* Enregistrer les fonctions d'expression Python dans le projet
+
+## Projets de soutien réalisés
+
+### Projets de soutien 2023
 
 * Donation annuelle pour QGIS Model Baker
 
@@ -25,11 +41,10 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 * Propositions d'amélioration QGIS Model Baker,<br/>
   [réalisé en version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
   
-* Amélioration de l'export DXF
+* Amélioration de l'export DXF,<br/>
+  [réalisé en version 3.36](https://qgis.org/en/site/forusers/visualchangelog336/index.html#feature-improved-export-layers-to-dxf-algorithm){: .external-link :}
 
 * Amélioration de la saisie de données CAO, partie B
-
-## Projets de soutien réalisés
 
 ### Projets de soutien 2022
 
