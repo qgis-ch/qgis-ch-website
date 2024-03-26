@@ -56,7 +56,8 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 * QGIS Style and Annotation Improvement,<br/>
   [umgesetzt in Version 3.26](https://qgis.org/en/site/forusers/visualchangelog326/index.html#feature-project-style-databases-support){: .external-link :}
 
-* QGIS must inform users about how many objects wil be erased before deleting them
+* QGIS must inform users about how many objects wil be erased before deleting them,<br/>
+[umgesetzt in Version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-ask-for-confirmation-when-deleting-features){: .external-link :}
 
 * Point cloud extraction in QGIS,<br/>
   [umgesetzt in Version 3.28](https://qgis.org/en/site/forusers/visualchangelog328/index.html#feature-point-cloud-layer-export){: .external-link :}
