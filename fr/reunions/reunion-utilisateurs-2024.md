@@ -28,7 +28,7 @@ d'utilisateurs et d'utilisatrices QGIS Suisse et a eu lieu le 11 Juin 2024 à Be
 
 **Date:** Mardi, 11 juin 2024, 8:30 à 17:00
 
-**Lieu:** UniS, Université de Berne, Schanzeneckstrasse 1, 3012 Bern, **FIXME Raum fehlt**
+**Lieu:** UniS, Université de Berne, Schanzeneckstrasse 1, 3012 Bern, S 003 (présentations la matinée), A 015 / A 017 / A 019 / A 024 (ateliers l'après-midi)
 
 ![](/assets/img/lageplan_unis_unibe_swisstopo_2024.png){: .img-fluid :}
 
@@ -42,6 +42,7 @@ pour vous y rendre.
 pour les ateliers, une petite contribution sera demandée. Membres du Groupe
 d'utilisateurs et d'utilisatrices QGIS Suisse : CHF 99.-, non-membres : CHF 199.-, étudiantes :
 gratuit. Les prix des ateliers comprennent un petit repas de midi.
+Las réunion Model Baker de l'après-midi est également gratuite.
 
 **Pauses:** Pauses café pendant la matinée et l'après-midi. Petit repas de midi inclus pour les participants aux ateliers.
 

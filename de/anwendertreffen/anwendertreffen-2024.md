@@ -28,7 +28,7 @@ and am 11. Juni 2024 in Bern statt.
 
 **Datum:** Dienstag, 11. Juni 2024, 8:30 bis 17:00
 
-**Ort:** UniS, Universität Bern, Schanzeneckstrasse 1, 3012 Bern, **FIXME Raum fehlt**
+**Ort:** UniS, Universität Bern, Schanzeneckstrasse 1, 3012 Bern, S 003 (Vorträge am Morgen), A 015 / A 017 / A 019 / A 024 (Workshops am Nachmittag)
 
 ![](/assets/img/lageplan_unis_unibe_swisstopo_2024.png){: .img-fluid :}
 
@@ -42,6 +42,7 @@ kostenfrei, für die Workshops wird eine kleine Workshopgebühr erhoben.
 Mitglieder der QGIS Anwendergruppe Schweiz: CHF 99.-, Nicht-Mitglieder:
 CHF 199.-, Studierende: gratis. Die Workshop-Preise beinhalten ein kleines
 Mittagessen.
+Das Model Baker-Treffen am Nachmittag ist ebenfalls kostenlos für dessen Teilnehmerinnen und Teilnehmer.
 
 **Verpflegung:** Kaffeepausen am Vormittag und am Nachmittag. Mittagessen (kleiner
 Lunch) für Workshopteilnehmerinnen inbegriffen.
