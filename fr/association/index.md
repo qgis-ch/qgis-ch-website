@@ -61,9 +61,9 @@ vu que vous devez les approuver lors de l'inscription. Envoyez s.v.p. le
 formulaire d'inscription par fax, e-mail ou courrier à l'adresse indiquée sur le
 formulaire.
 
-Les quatre catégories de membre suivant sont disponibles (cotisation annuelle):
+Les quatre catégories de membre suivant sont disponibles (cotisation de membre par an):
 
-* grande collectivité (canton/province, entreprise avec > 10 salariés, ville > 100'000 habitants) : CHF 750.-
+* grande collectivité (canton/province, entreprise avec > 10 salariés, ville > 100'000 habitants) : CHF 750.- (à partir du 1er janvier 2025 : CHF 1000.-)
 * petite collectivité (entreprise avec <= 10 salariés, ville <= 100'000 habitants, universités) : CHF 500.-
 * individuel (membre privé) : CHF 100.-
 * étudiant : CHF 50.-

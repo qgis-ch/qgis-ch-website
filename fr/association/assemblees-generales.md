@@ -21,7 +21,12 @@ que les comptes annuels, fixe le montant des cotisations des membres et approuve
 le budget pour l'année en cours. En outre, les projets de promotion pour l'année
 en cours sont votés lors de l'assemblée générale.
 
-## Assemblée générale 2024
+## Assemblées générales 2024
+
+Une assemblée générale extraordinaire sur les cotisations des membres a eu lieu en ligne du 3 au 12 avril 2024.
+{: .alert .alert-secondary :}
+
+[Procès-verbal de la assemblée générale extraordinaire QGIS-CH sur les cotisations des membres]({% link /assets/pdf/Protokoll_ausserordentliche_GV_Protocole_AG_extraordinaire_QGIS-CH_2024.pdf %}){: .pdf-link :}
 
 La 12e assemblée générale a eu lieu le 31 janvier 2024 à Berne.
 {: .alert .alert-secondary :}

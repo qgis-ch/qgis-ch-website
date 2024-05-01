@@ -21,7 +21,12 @@ sowie die Jahresrechnung abgenommen, die Höhe der Mitgliederbeiträge bestimmt
 und das Budget fürs laufende Jahr genehmigt. Ausserdem wird an der
 Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
 
-## Generalversammlung 2024
+## Generalversammlungen 2024
+
+Eine ausserordentliche Generalversammlung zum Thema Jahresbeiträge fand vom 3. bis 12. April 2024 online statt.
+{: .alert .alert-secondary :}
+
+[Protokoll der ausserordentlichen QGIS-CH Generalversammlung zu den Mitgliederbeiträgen]({% link /assets/pdf/Protokoll_ausserordentliche_GV_Protocole_AG_extraordinaire_QGIS-CH_2024.pdf %}){: .pdf-link :}
 
 Die 12. Generalversammlung fand am 31. Januar 2024 in Bern statt.
 {: .alert .alert-secondary :}
