@@ -51,12 +51,18 @@ Die Ziele der QGIS Anwendergruppe Schweiz sind:
 
 ## Antrag auf Mitgliedschaft
 
-Wenn Sie Interesse an einem Beitritt zur QGIS Usergruppe Schweiz haben, laden Sie bitte das [Antragsformular]({% link assets/pdf/QGIS Usergruppe Beitrittserklaerung.pdf %}){: .pdf-link } herunter und füllen es entsprechend Ihrer Angaben aus. Sie sollten sich auch die "Statuten der QGIS Usergruppe Schweiz" herunterladen und lesen. Bitte senden Sie den unterschriebenen Antrag per Fax, Email oder per Post an die Adresse, die im Antrag angegeben ist.
+Wenn Sie Interesse an einem Beitritt zur QGIS Usergruppe Schweiz haben, laden
+Sie bitte das
+[Antragsformular]({% link assets/pdf/QGIS Usergruppe Beitrittserklaerung.pdf %}){: .pdf-link }
+herunter und füllen es entsprechend Ihrer Angaben aus. Sie sollten sich auch die
+[Statuten der QGIS Usergruppe Schweiz]({% link assets/pdf/StatutenderQGISAnwendergruppeSchweiz.pdf %}){: .pdf-link }
+herunterladen und lesen. Bitte senden Sie den unterschriebenen Antrag per Fax,
+Email oder per Post an die Adresse, die im Antrag angegeben ist.
 
-Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliedsbeitrag pro Jahr):
+Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliederbeitrag pro Jahr):
 
-* Grössere Kollektivmitglieder (Kanton / Provinz, Unternehmen mit > 10 Angestellten, Städte > 100.000 Einwohner): CHF 750. -
-* Kleinere kollektive Mitglieder (Unternehmen mit <= 10 Mitarbeitern, Städte <= 100000 Einwohner, Universitäten): CHF 500. -
+* Grössere Kollektivmitglieder (Kanton / Provinz, Unternehmen mit > 10 Angestellten, Städte > 100.000 Einwohner): CHF 750.- (ab 01. Januar 2025: CHF 1000.-)
+* Kleinere kollektive Mitglieder (Unternehmen mit <= 10 Mitarbeitern, Städte <= 100000 Einwohner, Universitäten): CHF 500.-
 * Individuelle (private Mitglieder): CHF 100.-
 * Studentische Mitglieder: CHF 50.-
 
