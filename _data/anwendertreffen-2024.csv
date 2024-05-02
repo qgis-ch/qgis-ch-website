@@ -1,0 +1,55 @@
+time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
+08:30 – 09:00,Eintreffen und Anmeldung,Arrivée et réception,,,
+09:00 – 09:10,Begrüssung,Mot de bienvenue,,François Voisard,
+09:10 – 09:40,Was gibt es Neues in QGIS?,Quoi de neuf dans QGIS ?,,"Matthias Kuhn, OpenGIS.ch",
+09:40 – 10:00,Was gibt es Neues in QWC2?,Quoi de neuf dans QWC2 ?,https://github.com/qgis/qwc2,"Sandro Mani, Sourcepole",
+10:00 – 10:20,qgis.js: QGIS-Kartendarstellungen im Browser,qgis.js : les cartes QGIS dans ton navigateur,https://github.com/qgis/qgis-js,"Michael Schmuki, OPENGIS & <br/>
+Andreas Neumann, IKG, ETH Zürich",
+10:20 – 10:30,Cloud-Optimized GeoTiffs: die schnellsten Orthofotos bisher,Cloud-Optimized GeoTiffs: les orthofotographies les plus rapides à ce jour,,"Andreas Schmid, Kt. SO","Andreas Schmid, ct. SO"
+10:30 – 10:50,Kaffeepause,Pause café,,,
+10:50 – 11:10,Projekt SAM (Système d’avertissement modulaire) beim BAFU,Projet SAM (Système d’avertissement modulaire) dans l’OFEV,,"Isabel Kiefer, OPENGIS",
+11:10 – 11:30,kablo – Quelloffenes Projekt zur Verwaltung der Stromnetze,Kablo – Projet de Solution Open Source de gestion des réseaux électriques,,"Olivier Monod, Stadt Yverdon","Olivier Monod, Ville d'Yverdon"
+11:30 – 11:45,pic2map: Verwandle deine Fotos in Orthofotos,pic2map : transforme tes photos en orthophotos,,"Timothée Produit, IG group SA",
+11:45 – 12:05,Gebäudeharmonisierung im Kanton Tessin,Harmonisation des bâtiments dans le canton du Tessin,,"Mattia Panduri, Kt. TI","Mattia Panduri, ct. TI"
+12:05 – 12:25,Interactive Elevation Filtering (QGIS 3.38),Interactive Elevation Filtering (QGIS 3.38),,"Nyall Dawson, North Road",
+12:25 – 13:40,Mittagspause,Pause midi,,,
+13:40 – 15:10,Workshops Teil 1,Ateliers partie 1,,,
+,A: <b>Verarbeitung in QGIS: Techniken und Werkzeuge für Fortgeschrittene Räumliche Analysen</b>,A: <b>Traitement dans QGIS: Technique et outils avancés d'analyse geospatial</b>,,A: Matthias Kuhn,
+,B: <b>QGIS Expressions</b>,B: <b>QGIS Expressions</b>,,B: Claas Leiner,
+,"C: <b>Model Baker Anwendertreffen</b><br/>
+<ul><li>Begrüssung (Adrian Weber, 2')</li>
+<li>News QGIS Model Baker (Dave Signer, 10')</li>
+<li>UsabILIty Hub und Model Baker im Kanton SO (Adrian Weber, 25')</li>
+<li>Einsatz Model Baker bei magma AG (Valentin Müller, 25')</li>
+<li>Organisation und Entwicklungsvertrag (Romedi Filli, 10')</li></ul>
+"," C: <b>Réunions des utilisatrices de Model Baker</b><br/>
+<ul><li>Begrüssung (Adrian Weber, 2')</li>
+<li>News QGIS Model Baker (Dave Signer, 10')</li>
+<li>UsabILIty Hub und Model Baker im Kanton SO (Adrian Weber, 25')</li>
+<li>Einsatz Model Baker bei magma AG (Valentin Müller, 25')</li>
+<li>Organisation und Entwicklungsvertrag (Romedi Filli, 10')</li></ul>",,C: Romedi Filli et al.,
+15:10 – 15:25,Kaffeepause,Pause café,,,
+15:25 – 16:55,Workshops Teil 2,Ateliers partie 2,,,
+,A: siehe oben,A: voir ci-dessus,,,
+,B: siehe oben,B: voir ci-dessus,,,
+,"C: <b>Model Baker Anwendertreffen</b><br/>
+<ul><li>Einführung Gruppenarbeiten (Romedi Filli, 10')</li>
+<li>Gruppenarbeit
+<ul><li>GUI / Benutzeroberfläche / Wizzard (Dave Signer)</li>
+<li>Zusammenspiel Model Baker und ili2db (Adrian Weber)</li>
+<li>INTERLIS-Universum (Romedi Filli)</li>
+<li>Einstieg in QGIS Model Baker (Marco Grünenfelder)</li></ul>
+</li>
+<li>Vorstellung Resultate (20')</li>
+<li>Allgemeine Diskussionen (30')</li></ul>
+","C: <b>Model Baker Anwendertreffen</b><br/>
+<ul><li>Einführung Gruppenarbeiten (Romedi Filli, 10')</li>
+<li>Gruppenarbeit
+<ul><li>GUI / Benutzeroberfläche / Wizzard (Dave Signer)</li>
+<li>Zusammenspiel Model Baker und ili2db (Adrian Weber)</li>
+<li>INTERLIS-Universum (Romedi Filli)</li>
+<li>Einstieg in QGIS Model Baker (Marco Grünenfelder)</li></ul>
+</li>
+<li>Vorstellung Resultate (20')</li>
+<li>Allgemeine Diskussionen (30')</li></ul>
+",,,

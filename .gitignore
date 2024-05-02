@@ -10,3 +10,5 @@ vendor/bundle
 Gemfile.lock
 # Ignore temporary files from vim
 *.swp
+# Benjis Notizen
+bk-notes.md
