@@ -11,6 +11,9 @@ Das Anwendertreffen 2024 ist das 16. Treffen der QGIS Anwendergruppe Schweiz und
 and am 11. Juni 2024 in Bern statt.
 {: .alert .alert-secondary :}
 
+Dieses Programm kann sich bis zum Anwendertag noch ändern. Die definitiven Titel stehen noch nicht fest und die Präsentationen sind noch nicht hochgeladen. Wir empfehlen Ihnen, kurz vorher nochmals vorbeizuschauen, um sich die aufgelisteten Materialien anzusehen. Wenn dieser Hinweis weg ist, sind keine grösseren Änderungen mehr zu erwarten.
+{: .alert .alert-warning :}
+
 ## Ziele
 
 * Information über aktuelle Arbeiten im QGIS-Projekt
