@@ -1,11 +1,11 @@
 ---
 
-title: "Réunion des utilisateurs et utilisatrices 2024 à Berne"
+title: "Réunion des utilisateurs 2024 à Berne"
 year: 2024
 
 ---
 
-# Réunion des utilisateurs 2024 à Berne
+# Réunion des utilisateurs et utilisatrices 2024 à Berne
 
 La réunion des utilisateurs et utilisatrices 2024 est la 16ème rencontre du groupe
 d'utilisateurs et d'utilisatrices QGIS Suisse et a eu lieu le 11 Juin 2024 à Berne.
@@ -42,7 +42,7 @@ depuis la gare de Berne. Nous vous recommandons d'utiliser les transports public
 pour vous y rendre.
 
 **Coûts:** La participation aux présentations du matin est gratuite,
-pour les ateliers, une petite contribution sera demandée. Membres du Groupe
+pour les ateliers, une petite contribution sera demandée. Les membres du Groupe
 d'utilisateurs et d'utilisatrices QGIS Suisse : CHF 99.-, non-membres : CHF 199.-, étudiantes :
 gratuit. Les prix des ateliers comprennent un petit repas de midi.
 Las réunion Model Baker de l'après-midi est également gratuite.
