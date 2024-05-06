@@ -50,7 +50,7 @@ Das Model Baker-Treffen am Nachmittag ist ebenfalls kostenlos für dessen Teilne
 **Verpflegung:** Kaffeepausen am Vormittag und am Nachmittag. Mittagessen (kleiner
 Lunch) für Workshopteilnehmerinnen inbegriffen.
 
-**Anmeldung:** [Google Forms Link](https://forms.gle/FIXME){: .external-link :}
+**Anmeldung:** [Google Forms Link](https://forms.gle/iyC8cCB85T9wrSCW6){: .external-link :}
 
 ## Programm
 

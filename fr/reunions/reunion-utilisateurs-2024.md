@@ -49,7 +49,7 @@ Las réunion Model Baker de l'après-midi est également gratuite.
 
 **Pauses:** Pauses café pendant la matinée et l'après-midi. Petit repas de midi inclus pour les participants aux ateliers.
 
-**Inscription:** [Lien Google Forms](https://forms.gle/FIXME){: .external-link :}
+**Inscription:** [Lien Google Forms](https://forms.gle/iyC8cCB85T9wrSCW6){: .external-link :}
 
 ## Programme
 
