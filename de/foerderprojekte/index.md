@@ -41,7 +41,8 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
   [umgesetzt in Version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
 
 * Verbesserung DXF-Export,<br/>
-  [umgesetzt in Version 3.36](https://qgis.org/en/site/forusers/visualchangelog336/index.html#feature-improved-export-layers-to-dxf-algorithm){: .external-link :}
+  [umgesetzt in Version 3.36](https://qgis.org/en/site/forusers/visualchangelog336/index.html#feature-improved-export-layers-to-dxf-algorithm){: .external-link :} und<br/>
+  [umgesetzt in Version 3.38](https://www.opengis.ch/de/2024/05/13/qgis-dxf-export-enhancements/){: .external-link :}
 
 * Verbesserung der CAD-Erfassung, Teil B
 

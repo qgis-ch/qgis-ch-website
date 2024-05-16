@@ -42,7 +42,8 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
   [réalisé en version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
   
 * Amélioration de l'export DXF,<br/>
-  [réalisé en version 3.36](https://qgis.org/en/site/forusers/visualchangelog336/index.html#feature-improved-export-layers-to-dxf-algorithm){: .external-link :}
+  [réalisé en version 3.36](https://qgis.org/en/site/forusers/visualchangelog336/index.html#feature-improved-export-layers-to-dxf-algorithm){: .external-link :} et<br/>
+  [réalisé en version 3.38](https://www.opengis.ch/de/2024/05/13/qgis-dxf-export-enhancements/){: .external-link :}
 
 * Amélioration de la saisie de données CAO, partie B
 
