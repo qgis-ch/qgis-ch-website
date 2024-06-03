@@ -16,7 +16,9 @@ et de demander leur financement.
 
 ## Projets de soutien actuels 2024
 
-Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2024 :
+Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2024:
+
+* Donation annuelle pour QGIS Model Baker
 
 * Linear Referencing Symbology and Labeling
 

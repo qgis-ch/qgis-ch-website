@@ -17,6 +17,8 @@ Projektideen der Generalversammlung vorzulegen und deren Finanzierung zu beantra
 
 An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 
+* Jahresgönnerschaft für QGIS Model Baker
+
 * Linear Referencing Symbology and Labeling
 
 * QField: Skizzenfunktion
