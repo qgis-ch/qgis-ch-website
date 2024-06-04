@@ -61,4 +61,5 @@ Veuillez apporter vos propres ordinateurs portables avec QGIS en version 3.34 LT
 préinstallé pour les ateliers. Les ateliers de l'après-midi sont payants
 ( membres : 99 CHF ; non-membres : 199 CHF ; étudiants : gratuit). Les prix non
 arrondis aident le service comptable à mieux distinguer les paiements des
-cotisations des membres.
+cotisations des membres. Si vous avez besoin d'une facture, vous pouvez
+[la créer vous-même ici]{https://www.qgis.ch/invoice-usermeeting/}{: .external-link :}.
