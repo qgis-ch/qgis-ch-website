@@ -62,4 +62,5 @@ Bitte bringen Sie zu den Workshops eigene Laptops mit vorinstalliertem QGIS
 Version 3.34 LTR mit. Die Workshops am Nachmittag sind kostenpflichtig
 ( Mitglieder: 99 CHF; Nicht-Mitglieder: 199 CHF; Studierende: gratis). Die unrunden
 Preise helfen der Buchhaltung die Zahlungen besser von den Mitgliedsbeiträgen zu
-unterscheiden.
+unterscheiden. Falls Sie eine Rechnung benötigen, können sie diese
+[hier selbst generieren](https://www.qgis.ch/invoice-usermeeting/){: .external-link :}.
