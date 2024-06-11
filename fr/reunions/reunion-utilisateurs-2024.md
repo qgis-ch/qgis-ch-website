@@ -9,10 +9,6 @@ year: 2024
 
 La réunion des utilisateurs et utilisatrices 2024 est la 16ème rencontre du groupe
 d'utilisateurs et d'utilisatrices QGIS Suisse et a eu lieu le 11 Juin 2024 à Berne.
-{: .alert .alert-secondary :}
-
-Ce programme peut encore changer d'ici la Journée des utilisateurs. Les titres définitifs ne sont pas encore fixés et les présentations ne sont pas encore téléchargées. Nous vous conseillons de repasser juste avant pour voir le matériel listé. Après disparition de cette note, nous ne nous attendons plus à de majeurs changement dans le contenu de cette page.
-{: .alert .alert-warning :}
 
 ## Buts
 
