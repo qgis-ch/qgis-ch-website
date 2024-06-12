@@ -21,7 +21,8 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 
 * Linear Referencing Symbology and Labeling
 
-* QField: Skizzenfunktion
+* QField: Skizzenfunktion,<br/>
+  [umgesetzt in Version 3.3](https://www.opengis.ch/2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/){: .external-link :}
 
 * Quantized Mesh Format Provider (für Geländedarstellung)
 
@@ -30,6 +31,8 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 * Unterhalt SwissLocator
 
 * Speichern von Python Expression Funktionen ins Projekt
+
+* Kofinanzierung Stacked Diagrams
 
 ## Umgesetzte Förderprojekte
 
@@ -84,35 +87,36 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
   arcs and back,<br/>
   [umgesetzt in Version 3.22](https://qgis.org/en/site/forusers/visualchangelog322/index.html#feature-convert-to-curve-with-vertex-tool){: .external-link :}
 
-* Improve data defined labeling positioning, orientation and editing<br/>
+* Improve data defined labeling positioning, orientation and editing,<br/>
   [umgesetzt in Version 3.24](https://qgis.org/en/site/forusers/visualchangelog324/index.html#feature-data-defined-label-positions-by-point-geometries){: .external-link }
 
-* Line displacement renderer (research project)
+* Line displacement renderer (research project),<br/>
+  [Bericht]({% link /assets/pdf/2021/DynamicDisplacementLinesQGIS-ResearchProjectQGIS-CH2021.pdf %})
 
-* Interactive tools for annotation graphic creation and modification<br/>
+* Interactive tools for annotation graphic creation and modification,<br/>
   [umgesetzt in Version 3.22](https://qgis.org/en/site/forusers/visualchangelog322/index.html#annotations){: .external-link :}
 
 
 ### Förderprojekte 2020
 
-* Automatische Beschriftung von Flächenobjekten ausserhalb der Fläche<br/>
+* Automatische Beschriftung von Flächenobjekten ausserhalb der Fläche,<br/>
   [umgesetzt in Version 3.14](https://qgis.org/en/site/forusers/visualchangelog314/index.html#feature-automatic-placement-of-labels-outside-polygons){: .external-link :}
 
 * Annotation Drawing Layer
 
-* Experimentelle Version pro Plugin installieren<br/>
+* Experimentelle Version pro Plugin installieren,<br/>
   [umgesetzt in Version 3.14](https://qgis.org/en/site/forusers/visualchangelog314/index.html#feature-allow-users-to-install-stable-or-experimental-plugins){: .external-link :}
 
-* QGIS Usability improvement roundhouse kick<br/>
+* QGIS Usability improvement roundhouse kick,<br/>
   [umgesetzt in Version 3.14](https://qgis.org/en/site/forusers/visualchangelog314/index.html#feature-allow-the-drag-and-drop-of-a-layer-across-several-qgis-instances){: .external-link :}
 
 ### Förderprojekte 2019
 
-* Unterstützung von Geometriegeneratoren für Beschriftungen<br/>
+* Unterstützung von Geometriegeneratoren für Beschriftungen,<br/>
   [umgesetzt in Version 3.8](https://qgis.org/en/site/forusers/visualchangelog38/#feature-geometry-generators-for-labeling){: .external-link :}
 
 * Editieren: Synchronisation des Knotenwerkzeugs mit der Koordinatenliste 
-  des Stützpunkteditors<br/>
+  des Stützpunkteditors,<br/>
   [umgesetzt in Version 3.8](https://qgis.org/en/site/forusers/visualchangelog38/#feature-improvements-in-the-vertex-editor){: .external-link :}
 
 * Multithreaded Vektor-Analysen<br/>
@@ -120,15 +124,15 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
   Siehe GitHub Pull-Request mit Diskussionen:
   [https://github.com/qgis/QGIS/pull/33365](https://github.com/qgis/QGIS/pull/33365){: .external-link :}
 
-* Selektives Maskieren von Beschriftungen und Symbolen<br/>
+* Selektives Maskieren von Beschriftungen und Symbolen,<br/>
   [umgesetzt in Version 3.12](https://github.com/qgis/QGIS/pull/30747){: .external-link :}
 
 ### Förderprojekte 2018
 
-* Mehrsprachige QGIS Projekt Dateien<br/>
+* Mehrsprachige QGIS Projekt Dateien,<br/>
   [umgesetzt in Version 3.4](https://www.opengis.ch/de/2018/09/11/qgis-speaks-a-lot-of-languages/){: .external-link :}
 
-* Processing Feature Filter Algorithm<br/>
+* Processing Feature Filter Algorithm,<br/>
   [umgesetzt in Version 3.2](https://qgis.org/en/site/forusers/visualchangelog32/index.html#feature-feature-filter-algorithm-for-processing-models){: .external-link :}
 
 * Port QuickFinder plugin<br/>
