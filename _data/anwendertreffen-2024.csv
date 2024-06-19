@@ -2,7 +2,9 @@ time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
 08:30 – 09:00,Eintreffen und Anmeldung,Arrivée et réception,,,
 09:00 – 09:10,Begrüssung,Mot de bienvenue,,François Voisard,
 09:10 – 09:40,Was gibt es Neues in QGIS?,Quoi de neuf dans QGIS ?,assets/pdf/2024/01_Neues_aus_der_QGIS_Welt-QGIS_Anwendertag_2024.pdf,"Matthias Kuhn, OPENGIS.ch",
-09:40 – 10:00,Was gibt es Neues in QWC2?,Quoi de neuf dans QWC2 ?,assets/pdf/2024/02_qwc2-berne24.pdf,"Sandro Mani, Sourcepole",
+,,,assets/pdf/2024/01_Fachschale_der_AV_Schweiz.pdf,"Christoph Lauber",
+09:40 – 10:00,Was gibt es Neues in QWC2?,Quoi de neuf dans QWC2 ?,https://github.com/qgis/qwc2,"Sandro Mani, Sourcepole",
+,,,assets/pdf/2024/02_qwc2-berne24.pdf,,
 10:00 – 10:20,qgis.js: QGIS-Kartendarstellungen im Browser,qgis.js : les cartes QGIS dans ton navigateur,https://github.com/qgis/qgis-js,"Michael Schmuki, OPENGIS.ch & <br/>
 Andreas Neumann, IKG, ETH Zürich",
 10:20 – 10:30,Cloud Optimized GeoTIFF: Stop downloading - Start streaming your geodata,Cloud Optimized GeoTIFF: Stop downloading - Start streaming your geodata,assets/pdf/2024/04_Cloud_Optimized_GeoTIFF.pdf,"Andreas Schmid, Kt. SO","Andreas Schmid, ct. SO"
