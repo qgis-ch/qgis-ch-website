@@ -1,9 +1,15 @@
 <table class="table table-striped">
     <thead>
         <tr>
+            {% if page.lang == "fr" %}
+            <th scope="col">Heure</th>
+            <th scope="col">Présentation</th>
+            <th scope="col">Intervenant(e)</th>
+            {% elsif page.lang == "de" %}
             <th scope="col">Zeit</th>
             <th scope="col">Vortrag</th>
             <th scope="col">Referent(en)</th>
+            {% endif %}
         </tr>
     </thead>
     <tbody>
