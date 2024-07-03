@@ -27,13 +27,14 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * Quantized Mesh Format Provider (pour la représentation du terrain)
 
-* Coupes de terrain basées sur swisstopo API et les données SwissALTI3D
+* Coupes de terrain basées sur swisstopo API et les données SwissALTI3D,<br/>
+  [réalisé en version 3.38](https://www.opengis.ch/de/2024/06/25/swiss-locator-plugin-3-0-is-here-with-exciting-features/){: .external-link :}
 
 * Entretien SwissLocator
 
 * Enregistrer les fonctions d'expression Python dans le projet
 
-* Cofinancement Stacked Diagrams
+* Co-Financement Stacked Diagrams
 
 ## Projets de soutien réalisés
 

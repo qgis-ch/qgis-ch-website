@@ -26,13 +26,14 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 
 * Quantized Mesh Format Provider (für Geländedarstellung)
 
-* Geländeschnitte basierend auf swisstopo API und SwissALTI3D Daten
+* Geländeschnitte basierend auf swisstopo API und SwissALTI3D Daten,<br/>
+  [umgesetzt in Version 3.38](https://www.opengis.ch/de/2024/06/25/swiss-locator-plugin-3-0-is-here-with-exciting-features/){: .external-link :}
 
 * Unterhalt SwissLocator
 
 * Speichern von Python Expression Funktionen ins Projekt
 
-* Kofinanzierung Stacked Diagrams
+* Ko-Finanzierung Stacked Diagrams
 
 ## Umgesetzte Förderprojekte
 
