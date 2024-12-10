@@ -11,7 +11,7 @@ title: Ankündigung Generalversammlung vom 29. Januar 2025
 *Veröffentlicht am {{ page.date | date: "%d. %b %Y"}}*
 
 ### Generalversammlung 2025:
-Das Datum der nächsten Generalversammlung steht fest: Sie findet am Mittwoch 29.01.2025 in Bern statt. Die Details folgen noch.
+Das Datum der nächsten Generalversammlung steht fest: Sie findet am Mittwoch 29. Januar 2025 in Bern statt. Die Details folgen noch.
 
 ### Förderprojekte 2025
 
