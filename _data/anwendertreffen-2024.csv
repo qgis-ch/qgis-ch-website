@@ -2,14 +2,15 @@ time,presentation_de,presentation_fr,url,presenter_de,presenter_fr
 08:30 – 09:00,Eintreffen und Anmeldung,Arrivée et réception,,,
 09:00 – 09:10,Begrüssung,Mot de bienvenue,,François Voisard,
 09:10 – 09:40,Was gibt es Neues in QGIS?,Quoi de neuf dans QGIS ?,assets/pdf/2024/01_Neues_aus_der_QGIS_Welt-QGIS_Anwendertag_2024.pdf,"Matthias Kuhn, OPENGIS.ch",
-,Projekt Fachschale AV Schweiz,Projet d’application métier pour la MO Suisse,assets/pdf/2024/01_Fachschale_der_AV_Schweiz.pdf,"Christoph Lauber",
+,Projekt Fachschale AV Schweiz,Projet d’application métier pour la MO Suisse,assets/pdf/2024/01_Fachschale_der_AV_Schweiz.pdf,"Christoph Lauber, GeoplanTeam AG",
 09:40 – 10:00,Was gibt es Neues in QWC2?,Quoi de neuf dans QWC2 ?,https://github.com/qgis/qwc2,"Sandro Mani, Sourcepole",
 ,Präsentation QWC2,Présentation QWC2,assets/pdf/2024/02_qwc2-berne24.pdf,,
 10:00 – 10:20,qgis.js: QGIS-Kartendarstellungen im Browser,qgis.js : les cartes QGIS dans ton navigateur,https://github.com/qgis/qgis-js,"Michael Schmuki, OPENGIS.ch & <br/>
 Andreas Neumann, IKG, ETH Zürich",
 10:20 – 10:30,Cloud Optimized GeoTIFF: Stop downloading - Start streaming your geodata,Cloud Optimized GeoTIFF: Stop downloading - Start streaming your geodata,assets/pdf/2024/04_Cloud_Optimized_GeoTIFF.pdf,"Andreas Schmid, Kt. SO","Andreas Schmid, ct. SO"
 10:30 – 10:50,Kaffeepause,Pause café,,,
-10:50 – 11:10,Projekt SAM (Système d’avertissement modulaire) beim BAFU,Projet SAM (Système d’avertissement modulaire) dans l’OFEV,assets/pdf/2024/05_240611_QGIS-CH_BAFU_SAM.pdf,"Adrian Wicki, BAFU & Isabel Kiefer, OPENGIS.ch",
+10:50 – 11:10,Projekt SAM (Système d’avertissement modulaire) beim BAFU,Projet SAM (Système d’avertissement modulaire) dans l’OFEV,assets/pdf/2024/05_240611_QGIS-CH_BAFU_SAM.pdf,"Adrian Wicki, BAFU &<br/>
+Isabel Kiefer, OPENGIS.ch",
 11:10 – 11:30,kablo – Quelloffenes Projekt zur Verwaltung der Stromnetze,Kablo – Projet de Solution Open Source de gestion des réseaux électriques,assets/pdf/2024/06_kablo-qgis-user-days.pdf,"Olivier Monod, Stadt Yverdon","Olivier Monod, Ville d'Yverdon"
 11:30 – 11:45,pic2map: Verwandle deine Fotos in Orthofotos,pic2map : transforme tes photos en orthophotos,assets/pdf/2024/07_qgis_user_day_pic2map.pdf,"Timothée Produit, IG group SA",
 11:45 – 12:05,Gebäudeharmonisierung im Kanton Tessin,Harmonisation des bâtiments dans le canton du Tessin,assets/pdf/2024/08_QGIS-VORSTELLUNG_UCRF.pdf,"Mattia Panduri, Kt. TI","Mattia Panduri, ct. TI"
@@ -20,22 +21,22 @@ Andreas Neumann, IKG, ETH Zürich",
 ,B: <b>QGIS Expressions</b><br/>Raum A 017,B: <b>QGIS Expressions</b><br/>Salle A 017,,B: Claas Leiner,
 ,"C: <b>Model Baker Anwendertreffen</b><br/>Raum 201 (2. Stock)<br/>
 <ul><li>Begrüssung (Adrian Weber, 2')</li>
-<li>News QGIS Model Baker (Dave Signer, 10')</li>
-<li>UsabILIty Hub und Model Baker im Kanton SO (Adrian Weber, 25')</li>
-<li>Einsatz Model Baker bei magma AG (Valentin Müller, 25')</li>
-<li>Organisation und Entwicklungsvertrag (Romedi Filli, 10')</li></ul>
+<li><a href='/assets/pdf/2024/02_DSIG_News-QGIS-Model-Baker.pdf'>News QGIS Model Baker</a> (Dave Signer, 10')</li>
+<li><a href='/assets/pdf/2024/03_AWEB_ModelBaker_imKtSO.pdf'>UsabILIty Hub und Model Baker im Kanton SO</a> (Adrian Weber, 25')</li>
+<li><a href='/assets/pdf/2024/04_VMUE_ModelBakerUmweltbuero.pdf'>Einsatz Model Baker bei magma AG</a> (Valentin Müller, 25')</li>
+<li><a href='/assets/pdf/2024/05_AWEB_Organisation und Entwicklungsvertrag.pdf'>Organisation und Entwicklungsvertrag</a> (Romedi Filli, 10')</li></ul>
 "," C: <b>Réunion des utilisatrices de Model Baker</b><br/>Salle 201 (2ème étage)<br/>
 <ul><li>Mot de bienvenue (Adrian Weber, 2')</li>
-<li>Nouveautés QGIS Model Baker (Dave Signer, 10')</li>
-<li>UsabILIty Hub et Model Baker dans le canton de Soleure (Adrian Weber, 25')</li>
-<li>Einsatz Model Baker chez magma SA (Valentin Müller, 25')</li>
-<li>Organisation et contrat de dévelopment (Romedi Filli, 10')</li></ul>",,C: Romedi Filli et al.,
+<li><a href='/assets/pdf/2024/02_DSIG_News-QGIS-Model-Baker.pdf'>Nouveautés QGIS Model Baker</a> (Dave Signer, 10')</li>
+<li><a href='/assets/pdf/2024/03_AWEB_ModelBaker_imKtSO.pdf'>UsabILIty Hub et Model Baker dans le canton de Soleure</a> (Adrian Weber, 25')</li>
+<li><a href='/assets/pdf/2024/04_VMUE_ModelBakerUmweltbuero.pdf'>Utilisation du Model Baker chez magma SA</a> (Valentin Müller, 25')</li>
+<li><a href='/assets/pdf/2024/05_AWEB_Organisation und Entwicklungsvertrag.pdf'>Organisation et contrat de dévelopment</a> (Romedi Filli, 10')</li></ul>",,C: Romedi Filli et al.,
 15:10 – 15:25,Kaffeepause,Pause café,,,
 15:25 – 16:55,Workshops Teil 2,Ateliers partie 2,,,
 ,A: siehe oben,A: voir ci-dessus,,,
 ,B: siehe oben,B: voir ci-dessus,,,
 ,"C: <b>Model Baker Anwendertreffen</b><br/>
-<ul><li>Einführung Gruppenarbeiten (Romedi Filli, 10')</li>
+<ul><li><a href='/assets/pdf/2024/Einfuehrung_Workshop.pdf'>Einführung Gruppenarbeiten</a> (Romedi Filli, 10')</li>
 <li>Gruppenarbeit
 <ul><li>GUI / Benutzeroberfläche / Wizzard (Dave Signer)</li>
 <li>Zusammenspiel Model Baker und ili2db (Adrian Weber)</li>
@@ -45,7 +46,7 @@ Andreas Neumann, IKG, ETH Zürich",
 <li>Vorstellung Resultate (20')</li>
 <li>Allgemeine Diskussionen (30')</li></ul>
 ","C: <b>Réunion Model Baker</b><br/>
-<ul><li>Introduction aux travaux de groupe (Romedi Filli, 10')</li>
+<ul><li><a href='/assets/pdf/2024/Einfuehrung_Workshop.pdf'>Introduction aux travaux de groupe</a> (Romedi Filli, 10')</li>
 <li>Travail de groupe
 <ul><li>GUI / Interface utilisateur / Wizzard (Dave Signer)</li>
 <li>Interaction entre  Model Baker et ili2db (Adrian Weber)</li>
