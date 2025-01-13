@@ -19,12 +19,14 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 
 * Jahresgönnerschaft für QGIS Model Baker
 
-* Linear Referencing Symbology and Labeling
+* Linear Referencing Symbology and Labeling,<br/>
+  [umgesetzt in Version 3.40](https://www.qgis.org/project/visual-changelogs/visualchangelog340/#feature-add-linear-referencing-symbol-layer-type){: .external-link :}
 
 * QField: Skizzenfunktion,<br/>
   [umgesetzt in Version 3.3](https://www.opengis.ch/2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/){: .external-link :}
 
-* Quantized Mesh Format Provider (für Geländedarstellung)
+* Quantized Mesh Format Provider (für Geländedarstellung),<br/>
+  [umgesetzt in Version 3.40](https://www.qgis.org/project/visual-changelogs/visualchangelog340/#feature-add-gui-for-adding-quantized-mesh-layers){: .external-link :}
 
 * Geländeschnitte basierend auf swisstopo API und SwissALTI3D Daten,<br/>
   [umgesetzt in Version 3.38](https://www.opengis.ch/de/2024/06/25/swiss-locator-plugin-3-0-is-here-with-exciting-features/){: .external-link :}
@@ -41,7 +43,7 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 
 * Jahresgönnerschaft für QGIS Model Baker
 
-* Umsetzung "Line Displacement Renderer"
+* <s>Umsetzung "Line Displacement Renderer"</s>
 
 * Verbesserungsvorschläge QGIS Model Baker,<br/>
   [umgesetzt in Version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
