@@ -20,12 +20,14 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * Donation annuelle pour QGIS Model Baker
 
-* Linear Referencing Symbology and Labeling
+* Linear Referencing Symbology and Labeling,<br/>
+  [réalisé en version 3.40](https://www.qgis.org/project/visual-changelogs/visualchangelog340/#feature-add-linear-referencing-symbol-layer-type){: .external-link :}
 
 * QField: fonction de croquis,<br/>
   [réalisé en version 3.3](https://www.opengis.ch/2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/){: .external-link :}
 
-* Quantized Mesh Format Provider (pour la représentation du terrain)
+* Quantized Mesh Format Provider (pour la représentation du terrain),<br/>
+  [réalisé en version 3.40](https://www.qgis.org/project/visual-changelogs/visualchangelog340/#feature-add-gui-for-adding-quantized-mesh-layers){: .external-link :}
 
 * Coupes de terrain basées sur swisstopo API et les données SwissALTI3D,<br/>
   [réalisé en version 3.38](https://www.opengis.ch/de/2024/06/25/swiss-locator-plugin-3-0-is-here-with-exciting-features/){: .external-link :}
@@ -42,7 +44,7 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 * Donation annuelle pour QGIS Model Baker
 
-* Réalisation "Line Displacement Renderer"
+* <s>Réalisation "Line Displacement Renderer"</s>
 
 * Propositions d'amélioration QGIS Model Baker,<br/>
   [réalisé en version 7.6.0](https://github.com/opengisch/QgisModelBaker/releases/tag/v7.6.0){: .external-link :}
