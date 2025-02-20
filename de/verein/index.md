@@ -27,11 +27,10 @@ Die formalen Einheiten der QGIS Usergruppe sind:
 Aktueller Vorstand
 
 * Präsident: François Voisard (Kanton Neuenburg)
-* Stellvertretender Präsident: Daniel Hollenweger (Stadt Zürich)
-* Sekretär: Adrian Weber (Kanton Solothurn)
-* Kassier: Andreas Vonlaufen (Stadt Uster)
+* Stellvertretender Präsident: Benjamin Kuster (SoilCom GmbH)
+* Sekretär: Adrian Weber (GEOGRID AG)
+* Kassier: Daniel Hollenweger (Stadt Zürich)
 * Andreas Neumann (ETH Zürich)
-* Benjamin Kuster (SoilCom GmbH)
 
 ## Ziele und Aktivitäten
 
@@ -61,7 +60,7 @@ Email oder per Post an die Adresse, die im Antrag angegeben ist.
 
 Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliederbeitrag pro Jahr):
 
-* Grössere Kollektivmitglieder (Kanton / Provinz, Unternehmen mit > 10 Angestellten, Städte > 100.000 Einwohner): CHF 750.- (ab 01. Januar 2025: CHF 1000.-)
+* Grössere Kollektivmitglieder (Kanton / Provinz, Unternehmen mit > 10 Angestellten, Städte > 100.000 Einwohner): CHF 1000.-
 * Kleinere kollektive Mitglieder (Unternehmen mit <= 10 Mitarbeitern, Städte <= 100000 Einwohner, Universitäten): CHF 500.-
 * Individuelle (private Mitglieder): CHF 100.-
 * Studentische Mitglieder: CHF 50.-

@@ -27,11 +27,10 @@ Les composants formels du QGIS Groupe d'Utilisateur Suisse sont:
 Comité actuel
 
 * Président: François Voisard (Canton de Neuchâtel)
-* Président suppléant: Daniel Hollenweger (Ville de Zurich)
-* Secrétaire: Adrian Weber (Canton de Soleure)
-* Caissier: Andreas Vonlaufen (Ville d'Uster)
+* Président suppléant: Benjamin Kuster (SoilCom GmbH)
+* Secrétaire: Adrian Weber (GEOGRID AG)
+* Caissier: Daniel Hollenweger (Ville de Zurich)
 * Andreas Neumann (EPF Zurich)
-* Benjamin Kuster (SoilCom GmbH)
 
 ## Buts et activités
 
@@ -63,7 +62,7 @@ formulaire.
 
 Les quatre catégories de membre suivant sont disponibles (cotisation de membre par an):
 
-* grande collectivité (canton/province, entreprise avec > 10 salariés, ville > 100'000 habitants) : CHF 750.- (à partir du 1er janvier 2025 : CHF 1000.-)
+* grande collectivité (canton/province, entreprise avec > 10 salariés, ville > 100'000 habitants) : CHF 1000.-
 * petite collectivité (entreprise avec <= 10 salariés, ville <= 100'000 habitants, universités) : CHF 500.-
 * individuel (membre privé) : CHF 100.-
 * étudiant : CHF 50.-
