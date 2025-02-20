@@ -27,11 +27,10 @@ Die formalen Einheiten der QGIS Usergruppe sind:
 Aktueller Vorstand
 
 * Präsident: François Voisard (Kanton Neuenburg)
-* Stellvertretender Präsident: Daniel Hollenweger (Stadt Zürich)
-* Sekretär: Adrian Weber (Kanton Solothurn)
-* Kassier: Andreas Vonlaufen (Stadt Uster)
+* Stellvertretender Präsident: Benjamin Kuster (SoilCom GmbH)
+* Sekretär: Adrian Weber (GEOGRID AG)
+* Kassier: Daniel Hollenweger (Stadt Zürich)
 * Andreas Neumann (ETH Zürich)
-* Benjamin Kuster (SoilCom GmbH)
 
 ## Ziele und Aktivitäten
 
