@@ -27,11 +27,10 @@ Les composants formels du QGIS Groupe d'Utilisateur Suisse sont:
 Comité actuel
 
 * Président: François Voisard (Canton de Neuchâtel)
-* Président suppléant: Daniel Hollenweger (Ville de Zurich)
-* Secrétaire: Adrian Weber (Canton de Soleure)
-* Caissier: Andreas Vonlaufen (Ville d'Uster)
+* Président suppléant: Benjamin Kuster (SoilCom GmbH)
+* Secrétaire: Adrian Weber (GEOGRID AG)
+* Caissier: Daniel Hollenweger (Ville de Zurich)
 * Andreas Neumann (EPF Zurich)
-* Benjamin Kuster (SoilCom GmbH)
 
 ## Buts et activités
 
