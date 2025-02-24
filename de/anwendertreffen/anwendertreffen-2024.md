@@ -7,8 +7,9 @@ year: 2024
 
 # Anwendertreffen 2024 Bern
 
-Das Anwendertreffen 2024 ist das 16. Treffen der QGIS Anwendergruppe Schweiz und
-findet am 11. Juni 2024 in Bern statt.
+Das Anwendertreffen 2024 war das 16. Treffen der QGIS Anwendergruppe Schweiz und
+fand am 11. Juni 2024 in Bern statt.
+{: .alert .alert-secondary :}
 
 ## Ziele
 

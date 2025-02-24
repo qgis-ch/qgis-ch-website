@@ -23,10 +23,12 @@ Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
 
 ## Generalversammlung 2025
 
-Die 13. Generalversammlung findet am 29. Januar 2025 in Bern statt.
+Die 13. Generalversammlung fand am 29. Januar 2025 in Bern statt.
 {: .alert .alert-secondary :}
 
 [Einladung zur QGIS-CH Generalversammlung 2025]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2025.pdf %}){: .pdf-link }
+
+[Protokoll der 13. QGIS-CH Generalversammlung 2025]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2025.pdf %}){: .pdf-link :}
 
 ## Generalversammlungen 2024
 

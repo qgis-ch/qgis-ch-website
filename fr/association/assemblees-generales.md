@@ -23,10 +23,12 @@ en cours sont votés lors de l'assemblée générale.
 
 ## Assemblée générale 2025
 
-La 13e assemblée générale aura lieu le 29 janvier 2025 à Berne.
+La 13e assemblée générale a eu lieu le 29 janvier 2025 à Berne.
 {: .alert .alert-secondary :}
 
 [Invitation à l'assemblée générale QGIS-CH 2025]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2025.pdf %}){: .pdf-link }
+
+[Procès-verbal de la 13e assemblée générale QGIS-CH 2025]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2025.pdf %}){: .pdf-link :}
 
 ## Assemblées générales 2024
 
