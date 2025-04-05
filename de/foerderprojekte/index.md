@@ -13,11 +13,26 @@ vorgestellt. An der Generalversammlung werden dann diejenigen Projekte ausgewäh
 welche in diesem Jahr finanziert werden sollen. Jedes Vereinsmitglied ist berechtigt,
 Projektideen der Generalversammlung vorzulegen und deren Finanzierung zu beantragen.
 
-## Aktuelle Förderprojekte 2024
+## Aktuelle Förderprojekte 2025
 
-An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
+An der Generalversammlung 2025 sind folgende Förderprojekte angenommen worden:
+
+* Improvements to attribute form designer
+
+* QGIS Processing Graphical Modeller improvements
+
+* SwissGeoDownloader integration into SwissLocator
+
+* Improvements to Swiss Locator Plugin
 
 * Jahresgönnerschaft für QGIS Model Baker
+
+* Unterhalt SwissLocator
+
+
+## Umgesetzte Förderprojekte
+
+### Förderprojekte 2024
 
 * Linear Referencing Symbology and Labeling,<br/>
   [umgesetzt in Version 3.40](https://www.qgis.org/project/visual-changelogs/visualchangelog340/#feature-add-linear-referencing-symbol-layer-type){: .external-link :}
@@ -31,13 +46,15 @@ An der Generalversammlung 2024 sind folgende Förderprojekte angenommen worden:
 * Geländeschnitte basierend auf swisstopo API und SwissALTI3D Daten,<br/>
   [umgesetzt in Version 3.38](https://www.opengis.ch/de/2024/06/25/swiss-locator-plugin-3-0-is-here-with-exciting-features/){: .external-link :}
 
+* Speichern von Python Expression Funktionen ins Projekt,<br/>
+  [umgesetzt in Version 3.40](https://qgis.org/project/visual-changelogs/visualchangelog340/#feature-allow-users-to-save-expression-functions-in-qgis-project-file){: .external-link :}
+
+* Ko-Finanzierung Stacked Diagrams,<br/>
+  [umgesetzt in Version 3.40](https://qgis.org/project/visual-changelogs/visualchangelog340/#feature-introduce-stacked-diagrams){: .external-link :}
+
+* Jahresgönnerschaft für QGIS Model Baker
+
 * Unterhalt SwissLocator
-
-* Speichern von Python Expression Funktionen ins Projekt
-
-* Ko-Finanzierung Stacked Diagrams
-
-## Umgesetzte Förderprojekte
 
 ### Förderprojekte 2023
 

@@ -14,11 +14,25 @@ sont ensuite sélectionnés, qui doivent être financés cette année. Chaque me
 de l'association est autorisé de présenter des idées de projets à l'assemblée générale
 et de demander leur financement.
 
-## Projets de soutien actuels 2024
+## Projets de soutien actuels 2025
 
-Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2024:
+Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2025:
+
+* Improvements to attribute form designer
+
+* QGIS Processing Graphical Modeller improvements
+
+* SwissGeoDownloader integration into SwissLocator
+
+* Improvements to Swiss Locator Plugin
 
 * Donation annuelle pour QGIS Model Baker
+
+* Entretien SwissLocator
+
+## Projets de soutien réalisés
+
+### Projets de soutien 2024
 
 * Linear Referencing Symbology and Labeling,<br/>
   [réalisé en version 3.40](https://www.qgis.org/project/visual-changelogs/visualchangelog340/#feature-add-linear-referencing-symbol-layer-type){: .external-link :}
@@ -32,13 +46,15 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 * Coupes de terrain basées sur swisstopo API et les données SwissALTI3D,<br/>
   [réalisé en version 3.38](https://www.opengis.ch/de/2024/06/25/swiss-locator-plugin-3-0-is-here-with-exciting-features/){: .external-link :}
 
+* Enregistrer les fonctions d'expression Python dans le projet,<br/>
+  [réalisé en version 3.40](https://qgis.org/project/visual-changelogs/visualchangelog340/#feature-allow-users-to-save-expression-functions-in-qgis-project-file){: .external-link :}
+
+* Co-Financement Stacked Diagrams,<br/>
+  [réalisé en version 3.40](https://qgis.org/project/visual-changelogs/visualchangelog340/#feature-introduce-stacked-diagrams){: .external-link :}
+
+* Donation annuelle pour QGIS Model Baker
+
 * Entretien SwissLocator
-
-* Enregistrer les fonctions d'expression Python dans le projet
-
-* Co-Financement Stacked Diagrams
-
-## Projets de soutien réalisés
 
 ### Projets de soutien 2023
 
