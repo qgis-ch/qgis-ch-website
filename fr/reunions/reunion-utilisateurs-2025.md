@@ -28,7 +28,7 @@ d'utilisateurs et d'utilisatrices QGIS Suisse et aura lieu le 17 Juin 2025 à Be
 
 **Date:** Mardi, 17 juin 2025, 8:30 à 17:00
 
-**Lieu:** Unitobler, Université de Berne, Lerchenweg 36, 3012 Bern, F 022 (présentations la matinée), F 005 / F 006 / F007 (workshops l'après-midi)
+**Lieu:** Unitobler, Université de Berne, Lerchenweg 36, 3012 Bern, F 022 (présentations la matinée), F 005 / F 006 / F 007 (workshops l'après-midi)
 
 [![Plan de Situation Unitobler](/assets/img/08_Tobler_Lage.jpg){: .img-fluid :}](https://www.unibe.ch/universite/campus_et_infrastructures/plans_de_situation_et_auditoires/plan_de_situation/8__unitobler/index_fra.html)
 
@@ -51,12 +51,18 @@ Les prix des ateliers comprennent un petit repas de midi.
 
 **Pauses:** Pauses café pendant la matinée et l'après-midi. Petit repas de midi inclus pour les participants aux ateliers.
 
-**Inscription:** *suit dès que le programme est connu*
+**Inscription:** [Lien vers le formulaire d'inscription](https://forms.gle/JH4Xy65yjRHuztPr6){: .external-link :}
 
 ## Programme
 
-*Détails à suivre*
+{% include program-table.html program=site.data.anwendertreffen-2025 %}
 
 ## Ateliers
 
-*Détails à suivre*
+* Veuillez apporter vos propres ordinateurs portables avec QGIS préinstallé dans la dernière version LTR.
+* Les ateliers de l'après-midi sont payants
+( membres : 99 CHF ; non-membres : 199 CHF ; étudiants : gratuit ). Les prix non
+arrondis aident le service comptable à mieux distinguer les paiements des
+cotisations des membres.
+* Si vous avez besoin d'une facture, vous pouvez
+[la créer vous-même ici](https://www.qgis.ch/invoice-usermeeting/){: .external-link :}

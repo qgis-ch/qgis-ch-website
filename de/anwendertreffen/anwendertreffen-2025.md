@@ -51,12 +51,18 @@ Die Workshop-Preise beinhalten ein kleines Mittagessen.
 **Verpflegung:** Kaffeepausen am Vormittag und am Nachmittag. Mittagessen (kleiner
 Lunch) für Workshopteilnehmerinnen inbegriffen.
 
-**Anmeldung:** *folgt sobald Programm bekannt*
+**Anmeldung:** [Link zum Anmeldeformular](https://forms.gle/JH4Xy65yjRHuztPr6){: .external-link :}
 
 ## Programm
 
-*Details folgen*
+{% include program-table.html program=site.data.anwendertreffen-2025 %}
 
 ## Workshops
 
-*Details folgen*
+* Bitte bringen Sie Ihre eigenen Laptops mit vorinstalliertem QGIS in der aktuellen LTR Version mit.
+* Die Workshops am Nachmittag sind kostenpflichtig
+( Mitglieder: 99 CHF; Nicht-Mitglieder: 199 CHF; Studierende: gratis). Die unrunden
+Preise helfen der Buchhaltung die Zahlungen besser von den Mitgliedsbeiträgen zu
+unterscheiden.
+* Falls Sie eine Rechnung benötigen, können sie diese
+[hier selbst generieren](https://www.qgis.ch/invoice-usermeeting/){: .external-link :}
