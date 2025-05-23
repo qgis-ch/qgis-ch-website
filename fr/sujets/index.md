@@ -37,49 +37,28 @@ automatisation réduit massivement les efforts de configuration.
 
 [www.teksi.ch](https://www.teksi.ch/){: .external-link :}
 
- Le module TESKI assainissement & PGEE (nom de projet QGEP) est un projet de
-développement d'un module métier pour la gestion des eaux usées et des plans
-généraux d'évacuation des eaux usées (PGEE).
-
-Le module TESKI assainissement (nom de projet QGEP) est un projet de développement
-d'un module métier pour la gestion des eaux usées et des plans généraux
-d'évacuation des eaux usées (PGEE).
+ Le module TESKI assainissement & PGEE est un projet de développement d'un module métier pour la gestion des eaux usées et des plans généraux d'évacuation des eaux usées (PGEE).
 
 ![GEP Netzwerk]({% link assets/img/network_cadastral-1.png %}){: .img-fluid max-width="70%" }
 
-Démarré en 2012 en raison d'un manque d'outils professionnels satisfaisants, des
-communes suisses et des bureaux d'ingénieurs se sont regroupés pour offrir une
-solution basée sur des logiciels libres et open-source. Ce groupe rassemble des
-experts en ingénierie des réseaux d'eaux usées, des concepteurs de modèles de
-données du domaine, des développeurs ainsi que des utilisateurs finaux des
+Démarré en 2012 en raison d'un manque d'outils professionnels satisfaisants, des communes suisses et des bureaux d'ingénieurs se sont regroupés pour offrir une solution basée sur des logiciels libres et open-source. Ce groupe rassemble des experts en ingénierie des réseaux d'eaux usées, des gestionnaires, des concepteurs de modèles de données du domaine, des développeurs ainsi que des utilisateurs finaux des
 solutions SIG.
 
-Initialement sous-groupe de l’association QGIS Suisse, ce projet est depuis 2022
-sous l’égide de l’association à but non lucratif TEKSI qui a pour but de mettre
-à disposition des gestionnaires d’infrastructures publiques des outils
-professionnels open source pour piloter leurs activités. Plus d’informations sur
-TEKSI.ch
+Initialement sous-groupe de l’association QGIS Suisse, ce projet est depuis 2022 sous l’égide de l’association à but non lucratif TEKSI qui a pour but de mettre à disposition des gestionnaires d’infrastructures publiques des outils professionnels open source pour piloter leurs activités. Plus d’informations sur le [site web de TEKSI](https://www.teksi.ch/){: .external-link :}
 
-Le module TEKSI assainissement (nom de projet : QGEP) est une sélection d’outils
-QGIS et une implémentation de base de donnée PostgreSQL/PostGIS qui vous permet de:
+Le module TEKSI assainissement est une sélection d’outils QGIS et une implémentation de base de donnée PostgreSQL/PostGIS qui vous permet de:
 
-* gérer et cartographier les données de votre réseau d’assainissement avec tous
-  ses composants comme par exemple les collecteurs, les chambres, les déversoirs
-  d’orage, les bassins de rétention des eaux pluviales, les exutoires, etc.
-* indiquer les caractéristiques des objets du réseau sous forme d’attributs comme
-  le diamètre, le matériau, la profondeur de pose, les défauts, la date de pose, etc.
-* produire des plans et extraire des statistiques de la base de données comme la
-  valeur du réseau, la longueur totale des conduites, l’identification des
-  futures interventions, etc.
+* gérer et cartographier les données de votre réseau d’assainissement avec tous   ses composants comme par exemple les collecteurs, les chambres, les déversoirs   d’orage, les bassins de rétention des eaux pluviales, les exutoires, etc.
+* indiquer les caractéristiques des objets du réseau sous forme d’attributs comme   le diamètre, le matériau, la profondeur de pose, les défauts, la date de pose, etc.
+* produire des plans et extraire des statistiques de la base de données comme la   valeur du réseau, la longueur totale des conduites, l’identification des   futures interventions, etc.
 * Exporter les données géographiques en accord avec les standards suisses
 
 ![TEKSI GEP Formular]({% link assets/img/form_collecteur.png %}){: .img-fluid max-width="70%" }
  
 ### Les principales fonctionnalités de TEKSI assainissement sont
 
-* multilingue: les versions anglaise, française et allemande sont d'ores et déjà
-  disponibles
-* respecte les standards suisses: VSA-DSS model. Import et export au format INTERLIS SIA 405, VSA-SDEE et VSA-KEK.
+* multilingue: les versions anglaise, française et allemande sont d'ores et déjà disponibles
+* respecte les standards suisses: Model VSA-DSS. Import et export au format INTERLIS SIA 405, VSA-SDEE et VSA-KEK.
 * edition du réseau d'eau usée
 * outils de construction CAD
 * poursuite de réseau (vers l'aval ou l'amont ou entre 2 noeuds)
@@ -88,23 +67,19 @@ QGIS et une implémentation de base de donnée PostgreSQL/PostGIS qui vous perme
 * interface avec des logiciels de modélisation
 * outils maintenance et de planning (comme pour l'inspection TV, les réparations, etc.)
 
-Le modèle de données est basé sur le standard suisse VSA-SDEE et est implémenté
-dans une base de données PostGIS. L'interface graphique est intégrée dans QGIS
-et bénéficie de l’ensemble des fonctionnalités natives de QGIS pour l’édition.
+Le modèle de données est basé sur le standard suisse VSA-SDEE et est implémenté dans une base de données PostGIS. L'interface graphique est intégrée dans QGIS et bénéficie de l’ensemble des fonctionnalités natives de QGIS pour l’édition.
 Un plugin est disponible pour accéder à certaines fonctionnalités de suivi réseau.
 Les améliorations sont toujours intégrées en priorité dans le cœur de QGIS.
 
-Pour participer au développement de ce projet, nous vous remercions de considérer
-l'idée de rejoindre l’association TEKSI.
+Pour participer au développement de ce projet, nous vous remercions de considérer l'idée de rejoindre l’association TEKSI.
 
 
 ### Organisation
 
-TEKSI est une association sœur du groupe suisse d'utilisateurs de QGIS et est
-supervisée par un comité de pilotage, pour plus d'informations, consulter
+TEKSI est une association sœur du groupe suisse d'utilisateurs de QGIS et est supervisée par un comité de pilotage, pour plus d'informations, consulter
 [https://www.teksi.ch/communaute/](https://www.teksi.ch/communaute/){: .external-link :}.
 
-En cas de questions, merci de contacter info@teksi.ch ou d’utiliser le
+En cas de questions, merci de contacter info@teksi.ch ou d’utiliser le 
 [formulaire de contact](https://www.teksi.ch/contact/){: .external-link :}.
 
 
