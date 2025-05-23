@@ -37,49 +37,30 @@ vielem mehr. Diese Automatisierung reduziert den Konfigurationsaufwand massiv.
 
 [www.teksi.ch](https://www.teksi.ch/){: .external-link :}
 
-TEKSI Abwasser & GEP ist eine Fachschale für die umfassende Bearbeitung des
-Mediums „Abwasser“ insbesondere auch für die Erarbeitung des GEP (Genereller
+TEKSI Abwasser & GEP ist eine Fachschale für die umfassende Bearbeitung des Mediums „Abwasser“ insbesondere auch für die Erarbeitung des GEP (Genereller
 Entwässerungs Plan).
-
-Das TESKI-Modul Abwasserentsorgung (Projektname QGEP) ist ein Projekt zur
-Entwicklung eines Fachmoduls für die Verwaltung von Abwasser und generellen
-Abwasserplänen (GEP).
 
 ![GEP Netzwerk]({% link assets/img/network_cadastral-1.png %}){: .img-fluid max-width="70%" }
 
 Gestartet im Jahr 2012 aufgrund eines Mangels an zufriedenstellenden
-professionellen Werkzeugen, haben sich Schweizer Gemeinden und Ingenieurbüros
-zusammengeschlossen, um eine auf freier und Open-Source-Software basierende
-Lösung anzubieten. Die Gruppe bringt Experten aus dem Bereich der
-Abwassernetztechnik, Designer von Datenmodellen aus dem Bereich, Entwickler
-sowie Endnutzer der GIS-Lösungen zusammen.
+professionellen Werkzeugen, haben sich Schweizer Gemeinden und Ingenieurbüros zusammengeschlossen, um eine auf freier und Open-Source-Software basierende Lösung anzubieten. Die Gruppe bringt Experten aus dem Bereich der Abwasserhydraulik, Netzbetreiber, Designer von Datenmodellen, Entwickler sowie Endnutzer der GIS-Lösungen zusammen.
 
-Ursprünglich eine Untergruppe des Vereins QGIS Schweiz, steht dieses Projekt
-seit 2022 unter der Schirmherrschaft des gemeinnützigen Vereins TEKSI, dessen
-Ziel es ist, den Betreibern öffentlicher Infrastrukturen professionelle
-Open-Source-Werkzeuge zur Steuerung ihrer Aktivitäten zur Verfügung zu stellen.
-Weitere Informationen finden Sie unter teksi.ch
+Ursprünglich eine Untergruppe des Vereins QGIS Schweiz, steht dieses Projekt seit 2022 unter der Schirmherrschaft des gemeinnützigen Vereins TEKSI, dessen Ziel es ist, den Betreibern öffentlicher Infrastrukturen professionelle Open-Source-Werkzeuge zur Steuerung ihrer Aktivitäten zur Verfügung zu stellen.
+Weitere Informationen finden Sie auf der [TEKSI-Webseite](https://www.teksi.ch/){: .external-link :}
 
-Das TEKSI-Modul Abwaser & GEP ist eine Auswahl von QGIS-Tools und eine
-PostgreSQL/PostGIS-Datenbankimplementierung, die es Ihnen ermöglicht,
+Das TEKSI-Modul Abwasser & GEP ist eine Auswahl von QGIS-Tools und eine PostgreSQL/PostGIS-Datenbankimplementierung, die es Ihnen ermöglicht,
 
-* die Daten Ihres Abwassernetzes mit all seinen Komponenten wie z. B. Sammler,
-  Schächte, Regenüberläufe, Regenrückhaltebecken, Ausläufe usw. zu verwalten und
-  zu kartografieren.
-* die Eigenschaften der Netzobjekte in Form von Attributen wie Durchmesser,
-  Material, Verlegetiefe, Defekte, Verlegedatum usw. angeben.
-* Pläne erstellen und Statistiken aus der Datenbank extrahieren, z. B. den Wert
-  des Netzes, die Gesamtlänge der Leitungen, die Identifizierung künftiger
-  Eingriffe usw.
-* Geodaten in Übereinstimmung mit Schweizer Standards exportieren
+* die Daten Ihres Abwassernetzes mit all seinen Komponenten wie z. B. Sammler, Schächte, Regenüberläufe, Regenrückhaltebecken, Ausläufe usw. zu verwalten und zu kartografieren.
+* die Eigenschaften der Netzobjekte in Form von Attributen wie Durchmesser, Material, Verlegetiefe, Defekte, Verlegedatum usw. angeben.
+* Pläne erstellen und Statistiken aus der Datenbank extrahieren, z. B. den Wert des Netzes, die Gesamtlänge der Leitungen, die Identifizierung künftiger Eingriffe usw.
+* Geodaten in Übereinstimmung mit Schweizer Standards zu exportieren
 
 ![TEKSI GEP Formular]({% link assets/img/form_collecteur.png %}){: .img-fluid max-width="70%" }
 
 ### Merkmale und Möglichkeiten
 
-* Mehrsprachig: Die Datenbank unterstützt heute Englisch, Französisch und
-  Deutsch, weitere Sprachen auf Anfrage
-* Schweizer Standards werden unterstützt: SIA405 Abwasser, VSA-DSS und VSA-KEK 2015 Datenmodelle
+* Mehrsprachig: Die Datenbank unterstützt heute Englisch, Französisch und Deutsch, weitere Sprachen auf Anfrage
+* Schweizer Standards werden unterstützt: Datenmodelle SIA405 Abwasser, VSA-DSS und VSA-KEK 2020 
 * Schnittstellen: Im- und Export mit Interlis 2.3
 * Bearbeitung des Abwassernetzes
 * Netzverfolgungstool: in Fliessrichtung ab- oder aufwärts; zwischen zwei Knoten
@@ -89,23 +70,16 @@ PostgreSQL/PostGIS-Datenbankimplementierung, die es Ihnen ermöglicht,
 * Schnittstelle zu Simulationssoftware für die Hydraulik
 * Unterstützung von Unterhaltsplanung und Dokumentation (Kanal-TV, Spülen, Sanieren
 
-Das Datenmodell basiert auf dem Schweizer Standard VSA-DSS und ist in einer
-PostGIS-Datenbank implementiert. Die grafische Benutzeroberfläche ist in QGIS
-integriert und nutzt alle nativen Funktionen von QGIS für die Bearbeitung. Ein
-Plugin ist verfügbar, um auf bestimmte Funktionen zur Netzwerkverfolgung
-zuzugreifen. Verbesserungen werden immer zuerst in den Kern von QGIS integriert.
+Das Datenmodell basiert auf dem Schweizer Standard des Verbands Schweizerischer Abwasser- und Gewässerschutzfachleute (VSA-DSS) und ist in einer PostGIS-Datenbank implementiert. Die grafische Benutzeroberfläche ist in QGIS integriert und nutzt alle nativen Funktionen von QGIS für die Bearbeitung. Ein Plugin ist verfügbar, um auf bestimmte Funktionen zur Netzwerkverfolgung zuzugreifen. Verbesserungen werden immer zuerst in den Kern von QGIS integriert.
 
-Um an der Entwicklung dieses Projekts teilzunehmen, bitten wir Sie, die Idee in
-Betracht zu ziehen, dem TEKSI-Verband beizutreten.
+Um an der Entwicklung dieses Projekts teilzunehmen, bitten wir Sie, die Idee in Betracht zu ziehen, dem Verein TEKSI beizutreten.
 
 ### Organisation
 
-TEKSI ist eine Schwesterorganisation der Schweizer QGIS-Anwendergruppe und wird
-von einem Vorstand beaufsichtigt, weitere Informationen finden Sie unter
+TEKSI ist eine Schwesterorganisation der Schweizer QGIS-Anwendergruppe und wird von einem Vorstand beaufsichtigt, weitere Informationen finden Sie unter
 [https://www.teksi.ch/de/die-gemeinschaft/](https://www.teksi.ch/de/die-gemeinschaft/){: .external-link :}.
 
-Bei Fragen wenden Sie sich bitte an info@teksi.ch oder verwenden Sie das
-[Kontaktformular](https://www.teksi.ch/de/kontakt/){: .external-link :}.
+Bei Fragen wenden Sie sich bitte an info@teksi.ch oder verwenden Sie das [Kontaktformular](https://www.teksi.ch/de/kontakt/){: .external-link :}.
 
 # Swiss Locator
 
