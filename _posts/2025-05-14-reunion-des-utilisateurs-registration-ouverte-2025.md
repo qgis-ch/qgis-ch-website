@@ -16,4 +16,4 @@ Plus d'informations et registration sur la [page du programme de la rencontre]({
 N’hésitez pas à transmettre les informations aux intéressés, même en dehors de l’association.
 
 Attention :
-Cette fois-ci l’évènement a lieu à l’Unitobler  Berne (voir plan en ligne) qui se situe également à la Langstrasse, mais environ 500m plus loin de la gare que l’habituelle Uni S.
+Cette fois-ci l’évènement a lieu à l’Unitobler  Berne (voir plan en ligne) qui se situe également à la Länggasse, mais environ 500m plus loin de la gare que l’habituelle UniS.
