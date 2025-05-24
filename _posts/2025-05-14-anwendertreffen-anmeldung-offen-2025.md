@@ -18,7 +18,7 @@ Wir hoffen auf eine rege Teilnahme eurerseits und freuen uns euch vor Ort begrü
 Zögert nicht, die Infos an Interessierte auch ausserhalb des Vereins weiterzuleiten.
 
 Achtung: 
-Der Anlass findet diesmal in der Unitobler in Bern statt  (siehe Plan online) – diese liegt ebenfalls an der Langstrasse aber etwa 500m weiter vom Bahnhof entfernt als die Uni S.
+Der Anlass findet diesmal in der Unitobler in Bern statt  (siehe Plan online) – diese liegt ebenfalls an der Länggasse aber etwa 500m weiter vom Bahnhof entfernt als die UniS.
 
 
 
