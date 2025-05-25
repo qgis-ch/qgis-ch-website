@@ -3,7 +3,7 @@ run-name: ${{ github.repository }} is built and deployed
 on:
   push:
     branches:
-      - update_ssh_keys
+      - main
   schedule:
     - cron: "0 22 1,15 * *"
   workflow_dispatch:
