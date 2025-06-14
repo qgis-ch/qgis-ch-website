@@ -63,5 +63,5 @@ Die folgenden vier Mitglieder-Kategorien stehen zur Verfügung (Mitgliederbeitra
 * Grössere Kollektivmitglieder (Kanton / Provinz, Unternehmen mit > 10 Angestellten, Städte > 100.000 Einwohner): CHF 1000.-
 * Kleinere kollektive Mitglieder (Unternehmen mit <= 10 Mitarbeitern, Städte <= 100000 Einwohner, Universitäten): CHF 500.-
 * Individuelle (private Mitglieder): CHF 100.-
-* Studentische Mitglieder: CHF 50.-
+* Studierende und Rentner (private Mitglieder): CHF 50.-
 
