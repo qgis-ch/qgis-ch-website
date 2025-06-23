@@ -1,16 +1,16 @@
 "time","presentation_de","presentation_fr","url","presenter_de","presenter_fr"
 "08:30 – 09:00","Eintreffen und Anmeldung","Arrivée et réception",,,
 "09:00 – 09:05","Begrüssung","Mot de bienvenue",,"François Voisard, Kanton Neuenburg","François Voisard, Canton du Neuchâtel"
-"09:05 – 09:15","Neues vom QGIS-Projekt (Website, QGIS 4)","Nouvelles du projet QGIS (site web, QGIS 4)",,"Marco Bernasocchi, OPENGIS.ch",
+"09:05 – 09:15","Neues vom QGIS-Projekt (Website, QGIS 4)","Nouvelles du projet QGIS (site web, QGIS 4)",https://slides.opengis.ch/talk-qgis.org/qgisch2025,"Marco Bernasocchi, OPENGIS.ch",
 "09:15 – 09:35","Was gibt es Neues in QGIS?","Quoi de neuf dans QGIS ?",,"Andreas Neumann, IKG, ETH Zürich",
-"09:35 – 09:55","Recent developments of point cloud support in QGIS",,,"Saber Razmjooei, Lutra Consulting",
-"09:55 – 10:15","Neuigkeiten QWC2, neues 3D Modul","Nouveautés QWC2, nouveau module 3D",,"Sandro Mani, Sourcepole",
-"10:15 – 10:35","QField News",,,"Marco Bernasocchi, OPENGIS.ch",
+"09:35 – 09:55","Recent developments of point cloud support in QGIS",,https://docs.google.com/presentation/d/1K0rA3aEtDauVvoF6VmkDSuanBJ6keexy7QXf5WBLI2Y/edit?slide=id.p#slide=id.p,"Saber Razmjooei, Lutra Consulting",
+"09:55 – 10:15","Neuigkeiten QWC2, neues 3D Modul","Nouveautés QWC2, nouveau module 3D",https://github.com/qgis/qwc2,"Sandro Mani, Sourcepole",
+"10:15 – 10:35","QField News",,https://docs.google.com/presentation/d/1IMD93xeQy9aRbKWXdJDB8YvyKigZFLA8Llig37xLMro,"Marco Bernasocchi, OPENGIS.ch",
 "10:35 – 11:05","Kaffeepause","Pause café",,,
-"11:05 – 11:15","Aktueller Stand des Projekts AV-QGIS","État actuel du projet AV-QGIS",,"Christoph Lauber, GeoplanTeam",
+"11:05 – 11:15","Aktueller Stand des Projekts AV-QGIS","État actuel du projet AV-QGIS",assets/pdf/2025/05_20250617_QGIS-Anwendertagung_Bern_AV-QGIS.pdf,"Christoph Lauber, GeoplanTeam",
 "11:15 – 11:20","Multilanguage models in QGIS model baker",,,"Adrian Weber, GEOGRID AG"," "
-"11:20 – 11:30","QGIS Security Project",,,"Vincent Picavet, Oslandia",
-"11:30 – 11:45","Catalogue de géodonnées : allier STAC et les formats cloud-optimized","Catalogue de géodonnées : allier STAC et les formats cloud-optimized ",,"Corentin Junod, Kanton Neuenburg","Corentin Junod, Canton du Neuchâtel"
+"11:20 – 11:30","QGIS Security Project",,assets/pdf/2025/08_security_project_qgis.pdf,"Vincent Picavet, Oslandia",
+"11:30 – 11:45","Catalogue de géodonnées : allier STAC et les formats cloud-optimized","Catalogue de géodonnées : allier STAC et les formats cloud-optimized ",assets/pdf/2025/09_STAC_et_formats_cloudoptimized.pdf,"Corentin Junod, Kanton Neuenburg","Corentin Junod, Canton du Neuchâtel"
 "11:45 – 11:55","Tools und Prozesse für die Installation, Verwaltung und Aktualisierung von TEKSI-Modulen","Outils et processus pour l’installation, la gestion et la mise à jour des modules TEKSI",,"Timothée Produit, IG GROUP SA und Isabel Kiefer, OPENGIS.ch","Timothée Produit, IG GROUP SA et Isabel Kiefer, OPENGIS.ch"
 "11:55 – 12:15","Einsatz von QGIS und TEKSI in Zermatt","Application de QGIS et TEKSI à Zermatt",,"Kay Korrodi",
 "12:15 – 12:30","Machine Learning und KI mit QGIS","Machine Learning et IA avec QGIS",,"Mathias Kuhn, OPENGIS.ch",
