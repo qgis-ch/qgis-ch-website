@@ -27,6 +27,6 @@ Wir freuen uns, Ihnen an den Gemeinschaftsständen (N & O) verschiedene Einsatzm
 
 Besuchen Sie uns an den [Ständen N & O!](https://georomandie.com/espace-exposants){: .external-link :}
 
-Bitte Datum vormerken und hier [eintragen](https://georomandie.com/inscription){: .external-link :}, falls Sie informiert werden möchten, wenn die Anmeldung eröffnet ist!
+Jetzt anmelden [eintragen](https://georomandie.com/inscription){: .external-link :} und einen Platz sichern. Die Veranstaltung war in den letzten Jahren schon früh augebucht!
 
 

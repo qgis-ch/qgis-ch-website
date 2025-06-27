@@ -26,4 +26,4 @@ Nous sommes heureux de vous présenter différentes applications de QGIS sur les
 
 Venez nous rendre visite aux [stands N & O !](https://georomandie.com/espace-exposants){: .external-link :}
 
-Veuillez noter la date et [vous inscrire ici](https://georomandie.com/inscription){: .external-link :} si vous souhaitez être informé de l'ouverture des inscriptions !
+Veuillez [vous inscrire dès maintenant](https://georomandie.com/inscription){: .external-link :} pour réserver votre place. Ces dernières années, l'événement a été complet très rapidement !
