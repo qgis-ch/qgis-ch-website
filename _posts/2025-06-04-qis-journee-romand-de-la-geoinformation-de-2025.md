@@ -1,7 +1,7 @@
 ---
 lang: de
 excerpt: >-
-  Save the date: Journée Romand de la Geoinformation am 13. November 2025 in Lausanne statt.
+  Jetzt anmelden: Journée Romand de la Geoinformation am 13. November 2025 in Lausanne statt.
 title: Journée Romand de la Geoinformation am 13. November 2025 in Lausanne
 ---
 
