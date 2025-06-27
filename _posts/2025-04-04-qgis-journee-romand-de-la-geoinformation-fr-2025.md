@@ -14,6 +14,8 @@ QGIS et ses partenaires seront présents à la Journée Romande de la Géoinform
 
 Nous sommes heureux de vous présenter différentes applications de QGIS sur les stands communs (N & O)
 
+![QGIS powering TEKSI]({% link assets/img/04_qgis-powering-teksi_powering-green-gradient_sb.svg %}){: .img-fluid max-width="70%" }
+
 - QGIS comme base pour [TEKSI](https://www.teksi.ch){: .external-link :} (gestion des infrastructures pour les eaux usées, PGEE, eau et chauffage à distance)
 
 - [QGIS ModelBaker](https://www.qgis.ch/fr/sujets/){: .external-link :} - le plugin pour créer rapidement des projets QGIS à partir de modèles de données physiques.
