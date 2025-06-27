@@ -1,8 +1,7 @@
 ---
 lang: fr
 excerpt: >-
-  À noter dans l'agenda : Journée romande de la géoinformation le 13 novembre 2025 à Lausanne.
-  à Berne.
+  Inscrivez-vous maintenant : Journée romande de la géoinformation le 13 novembre 2025 à Lausanne.
 title: Journée romande de la géoinformation le 13 novembre 2025 à Lausanne.
 ---
 
