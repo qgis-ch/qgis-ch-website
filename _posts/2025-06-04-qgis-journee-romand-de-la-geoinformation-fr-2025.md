@@ -21,7 +21,7 @@ Nous sommes heureux de vous présenter différentes applications de QGIS sur les
 
 - [Qfield](https://www.qfield.org){: .external-link :} - l'application professionnelle leader pour le travail sur le terrain, utilisée par les entreprises pour la collecte et la gestion efficaces des données géographiques.
 
-- [Opengis](https://www.opengis.ch){: .external-link :} - les développeurs de logiciels suisses et les GeoNinjas open source avec beaucoup de vision et de passion 
+- [OPENGIS.ch](https://www.opengis.ch){: .external-link :} - les développeurs de logiciels suisses et les GeoNinjas open source avec beaucoup de vision et de passion 
 
 
 Venez nous rendre visite aux [stands N & O !](https://georomandie.com/espace-exposants){: .external-link :}

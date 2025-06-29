@@ -22,7 +22,7 @@ Wir freuen uns, Ihnen an den Gemeinschaftsständen (N & O) verschiedene Einsatzm
 
 - [Qfield](https://www.qfield.org){: .external-link :} - die führende professionelle App für die Feldarbeit, die Unternehmen für die effiziente Erfassung und Verwaltung von Geodaten eingesetzen.
 
-- [Opengis](https://www.opengis.ch){: .external-link :} - die Schweizer Software Entwickler und opensource GeoNinjas mit viel Vision und Herzblüt 
+- [OPENGIS.ch](https://www.opengis.ch){: .external-link :} - die Schweizer Software Entwickler und opensource GeoNinjas mit viel Vision und Herzblut 
 
 
 Besuchen Sie uns an den [Ständen N & O!](https://georomandie.com/espace-exposants){: .external-link :}
