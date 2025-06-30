@@ -20,13 +20,13 @@ Wir freuen uns, Ihnen an den Gemeinschaftsständen (N & O) verschiedene Einsatzm
 
 - [QGIS ModelBaker](https://www.qgis.ch/de/themen/){: .external-link :} - das Plugin zum schnellen Erstellen QGIS Projekten aus physischen Datenmodellen.
 
-- [Qfield](https://www.qfield.org){: .external-link :} - die führende professionelle App für die Feldarbeit, die Unternehmen für die effiziente Erfassung und Verwaltung von Geodaten eingesetzen.
+- [Qfield](https://qfield.org){: .external-link :} - die führende professionelle App für die Feldarbeit, die Unternehmen für die effiziente Erfassung und Verwaltung von Geodaten eingesetzen.
 
 - [OPENGIS.ch](https://www.opengis.ch){: .external-link :} - die Schweizer Software Entwickler und opensource GeoNinjas mit viel Vision und Herzblut 
 
 
 Besuchen Sie uns an den [Ständen N & O!](https://georomandie.com/espace-exposants){: .external-link :}
 
-Jetzt anmelden [eintragen](https://georomandie.com/inscription){: .external-link :} und einen Platz sichern. Die Veranstaltung war in den letzten Jahren schon früh augebucht!
+[Jetzt anmelden!](https://georomandie.com/inscription){: .external-link :}  Die Veranstaltung war in den letzten Jahren schon früh augebucht!
 
 
