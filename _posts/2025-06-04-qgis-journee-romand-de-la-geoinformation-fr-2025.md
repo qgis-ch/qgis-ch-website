@@ -19,7 +19,7 @@ Nous sommes heureux de vous présenter différentes applications de QGIS sur les
 
 - [QGIS ModelBaker](https://www.qgis.ch/fr/sujets/){: .external-link :} - le plugin pour créer rapidement des projets QGIS à partir de modèles de données physiques.
 
-- [Qfield](https://www.qfield.org){: .external-link :} - l'application professionnelle leader pour le travail sur le terrain, utilisée par les entreprises pour la collecte et la gestion efficaces des données géographiques.
+- [Qfield](https://qfield.org){: .external-link :} - l'application professionnelle leader pour le travail sur le terrain, utilisée par les entreprises pour la collecte et la gestion efficaces des données géographiques.
 
 - [OPENGIS.ch](https://www.opengis.ch){: .external-link :} - les développeurs de logiciels suisses et les GeoNinjas open source avec beaucoup de vision et de passion 
 
