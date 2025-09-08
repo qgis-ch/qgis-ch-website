@@ -56,21 +56,21 @@ Wichtig: Falls die Kurzbeschreibung ein Komma beinhaltet, muss diese in Anführu
 
 ## Lokal testen und erweitern
 
-Installation von Jekyll gemäss [Jekyll Dokumentation](https://jekyllrb.com/docs/installation/).
+### Mit lokaler Installation
 
-Kopieren des Quellcodes von GitHub:
+* Installation von Jekyll gemäss [Jekyll Dokumentation](https://jekyllrb.com/docs/installation/).
+* Kopieren des Quellcodes von GitHub: `git clone git@github.com:qgis-ch/qgis-ch-website.git`
+* Wechseln in Verzeichnis der Webseite: `cd qgis-ch-website`
+* Starten des Webservers: `bundle exec jekyll serve --livereload`
+* Anschliessend ist die Website unter [localhost:4000](http://localhost:4000/) erreichbar.
 
-`git clone git@github.com:qgis-ch/qgis-ch-website.git`
+### Mit Docker
 
-Wechseln in Verzeichnis der Webseite:
-
-`cd qgis-ch-website`
-
-Starten des Webservers:
-
-`bundle exec jekyll serve --livereload`
-
-Anschliessend ist die Website unter [localhost:4000](http://localhost:4000/) erreichbar.
+* Kopieren des Quellcodes von GitHub: `git clone git@github.com:qgis-ch/qgis-ch-website.git`
+* Wechseln in Verzeichnis der Webseite: `cd qgis-ch-website`
+* Baue das Docker Image mit `docker build -t qgis-ch-website:latest .`
+* Starte den Docker Container im Verzeichnis mit `docker compose up`
+* Öffne im Browser die Website unter [localhost:4000](http://localhost:4000/)
 
 ## Deployment
 

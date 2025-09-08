@@ -93,3 +93,5 @@ exclude:
   - vendor/ruby/
   - /scripts/
   - README.md
+  - docker-compose.yml
+  - Dockerfile
