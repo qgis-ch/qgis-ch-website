@@ -56,6 +56,8 @@ Wichtig: Falls die Kurzbeschreibung ein Komma beinhaltet, muss diese in Anführu
 
 ## Lokal testen und erweitern
 
+### Mit lokaler Installation
+
 Installation von Jekyll gemäss [Jekyll Dokumentation](https://jekyllrb.com/docs/installation/).
 
 Kopieren des Quellcodes von GitHub:
@@ -71,6 +73,12 @@ Starten des Webservers:
 `bundle exec jekyll serve --livereload`
 
 Anschliessend ist die Website unter [localhost:4000](http://localhost:4000/) erreichbar.
+
+### Mit Docker
+
+* Baue das Docker Image mit `docker build -t qgis-ch-website:latest .`
+* Starte den Docker Container im Verzeichnis mit `docker compose up`
+* Öffne im Browser die Website unter [localhost:4000](http://localhost:4000/)
 
 ## Deployment
 
