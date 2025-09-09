@@ -68,7 +68,7 @@ Wichtig: Falls die Kurzbeschreibung ein Komma beinhaltet, muss diese in Anführu
 
 * Kopieren des Quellcodes von GitHub: `git clone git@github.com:qgis-ch/qgis-ch-website.git`
 * Wechseln in Verzeichnis der Webseite: `cd qgis-ch-website`
-* Baue das Docker Image mit `docker build -t qgis-ch-website:latest .`
+* Baue das Docker Image mit `docker compose build`
 * Starte den Docker Container im Verzeichnis mit `docker compose up`
 * Öffne im Browser die Website unter [localhost:4000](http://localhost:4000/)
 
