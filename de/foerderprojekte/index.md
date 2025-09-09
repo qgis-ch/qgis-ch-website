@@ -8,10 +8,21 @@ title: Förderprojekte
 
 Die Weiterentwicklung von QGIS im Sinne der Anwender ist ein wichtiges Vereinsziel.
 Dazu hat der Verein ein jährliches Budget zur Finanzierung von ausgewählten Projekten.
+
 Vor der jährlichen Generalversammlung werden Projektideen gesammelt und den Mitgliedern
 vorgestellt. An der Generalversammlung werden dann diejenigen Projekte ausgewählt,
 welche in diesem Jahr finanziert werden sollen. Jedes Vereinsmitglied ist berechtigt,
 Projektideen der Generalversammlung vorzulegen und deren Finanzierung zu beantragen.
+Ideen für Förderprojekte werden in einem GitHub Repository [https://github.com/qgis-ch/sponsoringprojects-projetsdesoutien-foerderprojekte](https://github.com/qgis-ch/sponsoringprojects-projetsdesoutien-foerderprojekte){: .external-link :} gesammelt.
+
+Ein neues Förderprojekt oder eine Idee für ein Förderprojekt wird wie folgt initiiert:
+* im Reiter "Issues" "New issue" wählen
+* anschliessend die Vorlage "Titre du project de soutien / Titel Förderprojekt" auswählen
+* die Vorlage gibt eine gewisse Struktur vor, welche je nach Bedarf abgeändert oder erweitert
+werden kann, die Beschreibungen können mit Screenshots, Skizzen etc. ergänzt werden
+
+Ein Initiant oder eine Initiantin kann für die Umsetzung bereits eine Entwicklungsfirma
+vorschlagen. Ansonsten sucht der Vorstand eine geeignete Firma für die Implementation.
 
 ## Aktuelle Förderprojekte 2025
 

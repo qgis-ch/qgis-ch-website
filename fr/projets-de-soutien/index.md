@@ -8,11 +8,22 @@ title: Projets de Soutien
 
 Le développement de QGIS dans l'intérêt des utilisateurs est un objectif important
 de l'association. Pour cela, l'association dispose d'un budget annuel pour financer
-des projets sélectionnés. Avant l'assemblée générale annuelle, des idées de projets
+des projets sélectionnés.
+
+Avant l'assemblée générale annuelle, des idées de projets
 sont collectées et présentées aux membres. Lors de l'assemblée générale, les projets
 sont ensuite sélectionnés, qui doivent être financés cette année. Chaque membre
 de l'association est autorisé de présenter des idées de projets à l'assemblée générale
-et de demander leur financement.
+et de demander leur financement. Les idées de projets de soutien sont rassemblées dans
+un GitHub Repository [https://github.com/qgis-ch/sponsoringprojects-projetsdesoutien-foerderprojekte](https://github.com/qgis-ch/sponsoringprojects-projetsdesoutien-foerderprojekte){: .external-link :}.
+
+Un nouveau projet de soutien ou une idée de projet de soutien est lancé comme suit :
+* dans le tab "Issues", sélectionner "New issue"
+* sélectionner ensuite le modèle "Titre du projet de soutien / Titel Förderprojekt"
+* le modèle fournit une structure qui peut être modifiée ou complétée selon les besoins, les descriptions peuvent être complétées par des captures d'écran, des croquis, etc.
+
+Un initiateur ou une initiatrice peut déjà proposer une société de développement pour la
+réalisation. Sinon, le comité recherche une société appropriée pour l'implémentation.
 
 ## Projets de soutien actuels 2025
 
