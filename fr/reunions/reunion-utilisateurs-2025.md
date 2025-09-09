@@ -7,8 +7,8 @@ year: 2025
 
 # Réunion des utilisateurs et utilisatrices 2025 à Berne
 
-La réunion des utilisateurs et utilisatrices 2025 est la 17ème rencontre du groupe
-d'utilisateurs et d'utilisatrices QGIS Suisse et aura lieu le 17 Juin 2025 à Berne.
+La réunion des utilisateurs et utilisatrices 2025 était la 17ème rencontre du groupe
+d'utilisateurs et d'utilisatrices QGIS Suisse et a eu lieu le 17 Juin 2025 à Berne.
 {: .alert .alert-secondary :}
 
 [Sans détour vers le formulaire d'inscription](https://forms.gle/JH4Xy65yjRHuztPr6){: .external-link :}

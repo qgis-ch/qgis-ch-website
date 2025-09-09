@@ -7,8 +7,8 @@ year: 2025
 
 # Anwendertreffen 2025 Bern
 
-Das Anwendertreffen 2025 ist das 17. Treffen der QGIS Anwendergruppe Schweiz und
-findet am 17. Juni 2025 in Bern statt.
+Das Anwendertreffen 2025 war das 17. Treffen der QGIS Anwendergruppe Schweiz und
+fand am 17. Juni 2025 in Bern statt.
 {: .alert .alert-secondary :}
 
 [Ohne Umwege zum Anmeldeformular](https://forms.gle/JH4Xy65yjRHuztPr6){: .external-link :}
