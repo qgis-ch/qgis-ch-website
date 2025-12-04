@@ -32,6 +32,14 @@ Comité actuel
 * Andreas Neumann (EPF Zurich)
 * Benjamin Kuster (SoilCom GmbH)
 
+Les membres du comité sont accessibles à l'adresse e-mail suivante:
+
+_{première lettre du prénom}{nom de famille} at qgis.ch_{: .text-center }
+
+Le comité est accessible à l'adresse e-mail suivante:
+
+_board at qgis.ch_{: .text-center }
+
 ## Buts et activités
 
 Les buts du Groupe d'Utilisateurs QGIS Suisse sont les suivants:

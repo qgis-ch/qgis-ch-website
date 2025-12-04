@@ -32,6 +32,14 @@ Aktueller Vorstand
 * Andreas Neumann (ETH Zürich)
 * Benjamin Kuster (SoilCom GmbH)
 
+Die Vorstandsmitglieder sind erreichbar unter der E-Mail-Adresse:
+
+_{erster Buchstabe des Vornamens}{Familienname} at qgis.ch_{: .text-center }
+
+Der gesamte Vorstand ist erreichbar unter der E-Mail-Adresse:
+
+_vorstand at qgis.ch_{: .text-center }
+
 ## Ziele und Aktivitäten
 
 Die Ziele der QGIS Anwendergruppe Schweiz sind:
