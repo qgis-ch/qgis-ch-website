@@ -21,6 +21,13 @@ sowie die Jahresrechnung abgenommen, die Höhe der Mitgliederbeiträge bestimmt
 und das Budget fürs laufende Jahr genehmigt. Ausserdem wird an der
 Generalversammlung über die Förderprojekte fürs laufende Jahr abgestimmt.
 
+## Generalversammlung 2026
+
+Die 14. Generalversammlung findet am 27. Januar 2026 in Bern statt.
+{: .alert .alert-secondary :}
+
+Einladung zur QGIS-CH Generalversammlung 2026
+
 ## Generalversammlung 2025
 
 Die 13. Generalversammlung fand am 29. Januar 2025 in Bern statt.

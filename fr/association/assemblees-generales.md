@@ -21,6 +21,13 @@ que les comptes annuels, fixe le montant des cotisations des membres et approuve
 le budget pour l'année en cours. En outre, les projets de promotion pour l'année
 en cours sont votés lors de l'assemblée générale.
 
+## Assemblée générale 2026
+
+La 14e assemblée générale aura lieu le 27 janvier 2026 à Berne.
+{: .alert .alert-secondary :}
+
+Invitation à l'assemblée générale QGIS-CH 2026
+
 ## Assemblée générale 2025
 
 La 13e assemblée générale a eu lieu le 29 janvier 2025 à Berne.
