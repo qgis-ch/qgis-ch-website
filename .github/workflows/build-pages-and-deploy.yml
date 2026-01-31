@@ -25,6 +25,16 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
+      - name: Download recordings to build website
+        run: |
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2021-11-24_Recording_LIDARDatenVisualisieren.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2022-02-16_Recording_AnnotationLayer.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2022-03-16_Recording_QGISReportingTool.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2022-05-11_Recording_Konstruktionswerkzeuge.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2023-02-15_Recording_RelationsInQGIS.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2023-05-16_Recording_QGISandESRI.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2023-11-28_Recording_MultilinugalLayerLabelling.mp4
+
       - name: Build website with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --strict_front_matter
         env:
