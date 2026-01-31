@@ -1,0 +1,13 @@
+{%- include header-video.html -%}
+
+{% if page.lang == "fr" %}
+{%- include navigation-fr.html -%}
+{% else %}
+{%- include navigation-de.html -%}
+{% endif %}
+
+<div class="container-md text-start mt-4 mb-4">
+            {{ content }}
+</div>
+
+{%- include footer-video.html -%}
