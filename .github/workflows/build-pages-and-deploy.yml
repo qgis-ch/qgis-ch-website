@@ -42,7 +42,7 @@ jobs:
           JEKYLL_LOG_LEVEL: warn
 
       - name: Copy the files to the server using rsync
-        uses: burnett01/rsync-deployments@7.0.2
+        uses: burnett01/rsync-deployments@v8
         with:
           switches: -avx --delete --exclude=".htaccess" --exclude="/invoice" --exclude="/invoice-usermeeting" --exclude="/assets/video/*.mp4"
           path: _site/*
