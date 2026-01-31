@@ -12,3 +12,5 @@ Gemfile.lock
 *.swp
 # Benjis Notizen
 bk-notes.md
+# Don't add the Mini Workshop recordings to the repo
+assets/video/*.mp4

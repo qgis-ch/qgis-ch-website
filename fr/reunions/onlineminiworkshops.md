@@ -3,6 +3,7 @@
 title: "Mini-Workshops en ligne à partir de 2020"
 ### always on top
 year: 9999
+layout: video
 
 ---
 
@@ -23,7 +24,7 @@ expérience dans la conception de cartes multilingues. Lors de ce workshop, il
 transmettra de nombreux conseils et astuces sur l'utilisation des étiquettes de
 couches, notamment pour des cartes multilingues.
 
-{% include youtube.html id="jGtCJGYhARE" title="Multilingual Layer Labelling" %}
+{% include video-js.html id="2023-11-28_Recording_MultilinugalLayerLabelling" title="Multilingual Layer Labelling" %}
 
 ## Mai 2023: QGIS and ESRI - can they ever be compatible?
 {: .mt-4 :}
@@ -48,7 +49,7 @@ QGIS et inversement.
 Cet atelier sera particulièrement intéressant pour tous ceux qui veulent ou doivent
 utiliser dans leur travail aussi bien des produits QGIS que des produits ESRI.
 
-{% include youtube.html id="XMROhYOtZWo" title="QGIS and ESRI - can they ever be compatible?" %}
+{% include video-js.html id="2023-05-16_Recording_QGISandESRI" title="QGIS and ESRI - can they ever be compatible?" %}
 
 ## Mars 2023: QGIS and PostGIS: Tips and Tricks
 {: .mt-4 :}
@@ -82,7 +83,7 @@ remplacent le Relations-Editor-Widget afin de garantir une meilleure
 expérience utilisateur et de résoudre des cas d'utilisation
 spécifiques.
 
-{% include youtube.html id="n5j6RlsSstU" title="Relations in QGIS and Relation Editor" %}
+{% include video-js.html id="2023-02-15_Recording_RelationsInQGIS" title="Relations in QGIS and Relation Editor" %}
 
 ## Novembre 2022: Visualisation et animation de GPS tracks et photos géoréférencées
 {: .mt-4 :}
@@ -134,7 +135,7 @@ Un aperçu des améliorations de la version 3.26 concernant les outils de constr
 de formes réguliéres est également présenté (rectangles, cercles, polygones,
 arcs, etc; aka "shape tools").
 
-{% include youtube.html id="qxq88q0e5ZI" title="Outils de construction" %}
+{% include video-js.html id="2022-05-11_Recording_Konstruktionswerkzeuge" title="Outils de construction" %}
 
 ## Mars 2022: QGIS Reporting Tool
 {: .mt-4 :}
@@ -161,7 +162,7 @@ les graphiques, les tableaux, les images et les diagrammes. Outre le corps du
 rapport (body), les rapports peuvent également contenir des "feuilles d'en-tête"
 et de "pied de page" (header and footer) pour des sections individuelles.
 
-{% include youtube.html id="rYqGYfUMfiw" title="QGIS Reporting Tool" %}
+{% include video-js.html id="2022-03-16_Recording_QGISReportingTool" title="QGIS Reporting Tool" %}
 
 ## Février 2022: Annotation Layer
 {: .mt-4 :}
@@ -193,7 +194,7 @@ L'atelier couvrira les sujets suivants :
 * Outil de traitement pour copier les annotations d'une couche d'annotation à
 une autre
 
-{% include youtube.html id="8q1g4w7-Yss" title="Annotation Layer" %}
+{% include video-js.html id="2022-02-16_Recording_AnnotationLayer" title="Annotation Layer" %}
 
 ## Novembre 2021: Visualiser des données Lidar
 {: .mt-4 :}
@@ -228,7 +229,7 @@ améliorations à l'affichage des données de nuages de points (outil de profil,
 outils de filtrage, visualisation 2D amélioré avec effet de Eye-Dome-Lighting, meilleur
 support des formats, y compris COPC (cloud optimized point cloud)).
 
-{% include youtube.html id="c65a2ZUZkmA" title="LiDAR-Daten visualisieren" %}
+{% include video-js.html id="2021-11-24_Recording_LIDARDatenVisualisieren" title="LiDAR-Daten visualisieren" %}
 
 ## October 2021: Relations avec Interlis et QGIS
 {: .mt-4 :}
