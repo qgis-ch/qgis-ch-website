@@ -283,7 +283,7 @@ la base de données pour pouvoir créer de nouveaux objets)
 * Outil d'administration PostgreSQL (DBeaver ou pgAdmin)
 * Editeur de texte (par exemple Notepad++ ou similaire)
 
-{% include youtube.html id="xvLDv1Jn0rQ" title="Relations avec Interlis et QGIS" %}
+{% include video-js.html id="2021-10-19_Recording_RelationsAndInterlis" title="Relations avec Interlis et QGIS" %}
 
 ## Septembre 2021: Travaux sur le terrain avec QField
 {: .mt-4 :}

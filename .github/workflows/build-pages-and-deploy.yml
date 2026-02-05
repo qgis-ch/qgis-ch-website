@@ -28,6 +28,7 @@ jobs:
       - name: Download recordings to build website
         run: |
           wget -P assets/video/ https://www.qgis.ch/assets/video/2021-05-12_Recording_QGISLocator.mp4
+          wget -P assets/video/ https://www.qgis.ch/assets/video/2021-10-19_Recording_RelationsAndInterlis.mp4
           wget -P assets/video/ https://www.qgis.ch/assets/video/2021-11-24_Recording_LIDARDatenVisualisieren.mp4
           wget -P assets/video/ https://www.qgis.ch/assets/video/2022-02-16_Recording_AnnotationLayer.mp4
           wget -P assets/video/ https://www.qgis.ch/assets/video/2022-03-16_Recording_QGISReportingTool.mp4

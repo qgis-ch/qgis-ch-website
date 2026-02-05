@@ -283,7 +283,7 @@ Anlegen von neuen Objekten)
 * PostgreSQL Admin-Werkzeug (DBeaver oder pgAdmin)
 * Texteditor (z.b. Notepad++ oder ähnlich)
 
-{% include youtube.html id="xvLDv1Jn0rQ" title="Relationen mit Interlis und QGIS" %}
+{% include video-js.html id="2021-10-19_Recording_RelationsAndInterlis" title="Relationen mit Interlis und QGIS" %}
 
 ## September 2021: Feldarbeiten mit QField
 {: .mt-4 :}
