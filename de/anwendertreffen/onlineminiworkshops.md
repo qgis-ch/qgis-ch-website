@@ -65,7 +65,7 @@ aktiver QGIS Core-Entwickler. Er verfügt über viel Erfahrung und
 vertieftes Wissen im Einsatz von QGIS mit PostGIS und wird uns zu
 diesem Thema viele Tipps und Tricks weitergeben.
 
-{% include youtube.html id="vbrvPNrjyHo" title="QGIS and PostGIS: Tips and Tricks" %}
+{% include video-js.html id="2023-03-22_Recording_QGISandPostGIS" title="QGIS and PostGIS: Tips and Tricks" %}
 
 ## Februar 2023: Relations in QGIS and Relation Editor
 {: .mt-4 :}
@@ -368,4 +368,4 @@ das Laden von Daten/Layern kennenzulernen.
 * [Übungsdateien]({% link assets/pdf/2021/locator_exercise.gpkg %})
 (GeoPackage mit Swissboundaries und Swissnames, sowie QGIS-Projekt)
 
-{% include youtube.html id="9yHSZZel91M" title="QGIS Locator" %}
+{% include video-js.html id="2021-05-12_Recording_QGISLocator" title="QGIS Locator" %}
