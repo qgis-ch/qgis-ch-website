@@ -26,7 +26,7 @@ méta-informations pour la configuration du projet QGIS avec les légendes, les
 mises en page de formulaires, les relations et bien plus encore. Cette
 automatisation réduit massivement les efforts de configuration.
 
-* [QGIS Model Baker Dokumentation](https://opengisch.github.io/QgisModelBaker/de/){: .external-link :}
+* [QGIS Model Baker Dokumentation](https://opengisch.github.io/QgisModelBaker/fr/){: .external-link :}
 
 * [QGIS Model Baker Code Repository](https://github.com/opengisch/QgisModelBaker){: .external-link :}
 
