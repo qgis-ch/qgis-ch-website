@@ -28,7 +28,7 @@ La 14e assemblée générale aura lieu le 27 janvier 2026 à Berne.
 
 [Invitation à l'assemblée générale QGIS-CH 2026]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2026.pdf %}){: .pdf-link }
 
-[Procès-verbal de la 13e assemblée générale QGIS-CH 2026]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2026.pdf %}){: .pdf-link :}
+[Procès-verbal de la 14e assemblée générale QGIS-CH 2026]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2026.pdf %}){: .pdf-link :}
 
 ## Assemblée générale 2025
 

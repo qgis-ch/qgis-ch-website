@@ -28,6 +28,8 @@ Die 14. Generalversammlung findet am 27. Januar 2026 in Bern statt.
 
 [Einladung zur QGIS-CH Generalversammlung 2026]({% link /assets/pdf/Einladung_GV_Invitation_AG_QGIS-CH_2026.pdf %}){: .pdf-link }
 
+[Protokoll der 14. QGIS-CH Generalversammlung 2026]({% link /assets/pdf/Protokoll_GV_Protocole_AG_QGIS-CH_2026.pdf %}){: .pdf-link :}
+
 ## Generalversammlung 2025
 
 Die 13. Generalversammlung fand am 29. Januar 2025 in Bern statt.
