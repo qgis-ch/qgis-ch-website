@@ -14,13 +14,13 @@ Suisse. Le Groupe d'utilisateurs QGIS est une association selon les
 
 Le Groupe d'Utilisateurs QGIS Suisse est composé de:
 
-* Membre individuel privés
-* Membre collectif: Administrations, entreprises et universités
-* Membre d'honneur
+* Membres individuels privés
+* Membres collectifs : Administrations, entreprises et universités
+* Membres d'honneur
 
 Les composants formels du QGIS Groupe d'Utilisateur Suisse sont:
 
-* L'assemblé générale (assemblée générale ordinaire une fois par année)
+* L'assemblée générale (assemblée générale ordinaire une fois par année)
 * Le comité (président, secrétaire, caissier)
 * L'organe de révision (pour la comptabilité) 
 
@@ -32,11 +32,11 @@ Comité actuel
 * Andreas Neumann (EPF Zurich)
 * Benjamin Kuster (SoilCom GmbH)
 
-Les membres du comité sont accessibles à l'adresse e-mail suivante:
+Les membres du comité sont atteignables via l'adresse e-mail suivante:
 
 _{première lettre du prénom}{nom de famille} at qgis.ch_{: .text-center }
 
-Le comité est accessible à l'adresse e-mail suivante:
+Le comité est atteignables à l'adresse e-mail suivante:
 
 _board at qgis.ch_{: .text-center }
 
