@@ -26,7 +26,7 @@ year: 2026
 
 **Ort:** UniS, Universität Bern, Schanzeneckstrasse 1, 3012 Bern, S 003 (Vorträge am Morgen), A ??? (Workshops am Nachmittag)
 
-![Lageplan UniS]![](/assets/img/lageplan_unis_unibe_swisstopo_2024.png){: .img-fluid :}
+![](/assets/img/lageplan_unis_unibe_swisstopo_2024.png){: .img-fluid :}
 
 **Sprache:** gemischt (deutsch, französisch, englisch), je nach Herkunft des Referenten
 
