@@ -22,9 +22,9 @@ year: 2026
 
 **Kontakt:** board (at) qgis (dot) ch
 
-**Datum:** Dienstag, 23. Juni 2026, 8:30 bis 17:00
+**Datum:** Dienstag, 23. Juni 2026, 8:30 bis 16:45
 
-**Ort:** UniS, Universität Bern, Schanzeneckstrasse 1, 3012 Bern, S 003 (Vorträge am Morgen), A ??? (Workshops am Nachmittag)
+**Ort:** UniS, Universität Bern, Schanzeneckstrasse 1, 3012 Bern, S 003 (Vorträge am Morgen), A 017, A 019, A 027, S 101 (Workshops am Nachmittag)
 
 ![](/assets/img/lageplan_unis_unibe_swisstopo_2024.png){: .img-fluid :}
 
@@ -38,12 +38,11 @@ kostenfrei, für die Workshops wird eine kleine Workshopgebühr erhoben.
 Mitglieder der QGIS Anwendergruppe Schweiz: CHF 99.-, Nicht-Mitglieder:
 CHF 199.-, Studierende: gratis. Die Workshop-Preise beinhalten ein kleines
 Mittagessen.
-Das Model Baker-Treffen am Nachmittag ist ebenfalls kostenlos für dessen Teilnehmerinnen und Teilnehmer.
 
 **Verpflegung:** Kaffeepausen am Vormittag und am Nachmittag. Mittagessen (kleiner
 Lunch) für Workshopteilnehmerinnen inbegriffen.
 
-**Anmeldung:** folgt{: .external-link :}
+**Anmeldung:** [Link zum Anmeldeformular](https://forms.gle/UtteaXqiqpwfQLHd9){: .external-link :}
 
 ## Programm
 

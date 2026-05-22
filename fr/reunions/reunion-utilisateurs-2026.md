@@ -25,9 +25,9 @@ La 18ème réunion des utilisateurs et utilisatrices QGIS Suisse aura lieu le 23
 
 **Contact:** info (at) qgis (dot) ch
 
-**Date:** Mardi, 23 juin 2026, 8:30 à 17:00
+**Date:** Mardi, 23 juin 2026, 8:30 à 16:45
 
-**Lieu:** UniS, Université de Berne, Schanzeneckstrasse 1, 3012 Bern, S 003 (présentations la matinée), A ??? (ateliers l'après-midi)
+**Lieu:** UniS, Université de Berne, Schanzeneckstrasse 1, 3012 Bern, S 003 (présentations la matinée), A 017, A 019, A 027, S 101 (ateliers l'après-midi)
 
 ![](/assets/img/lageplan_unis_unibe_swisstopo_2024.png){: .img-fluid :}
 
@@ -41,11 +41,10 @@ pour vous y rendre.
 pour les ateliers, une petite contribution sera demandée. Les membres du Groupe
 d'utilisateurs et d'utilisatrices QGIS Suisse : CHF 99.-, non-membres : CHF 199.-, étudiantes :
 gratuit. Les prix des ateliers comprennent un petit repas de midi.
-Las réunion Model Baker de l'après-midi est également gratuite.
 
 **Pauses:** Pauses café pendant la matinée et l'après-midi. Petit repas de midi inclus pour les participants aux ateliers.
 
-**Inscription:** lien suivra {: .external-link :}
+**Inscription:** [Lien vers le formulaire d'inscription](https://forms.gle/UtteaXqiqpwfQLHd9){: .external-link :}
 
 ## Programme
 

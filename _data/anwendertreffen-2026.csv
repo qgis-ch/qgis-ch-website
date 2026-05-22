@@ -1,15 +1,23 @@
 "time","presentation_de","presentation_fr","url","presenter_de","presenter_fr"
 "08:30 – 09:00","Eintreffen und Anmeldung","Arrivée et réception",,,
 "09:00 – 09:05","Begrüssung","Mot de bienvenue",,"François Voisard, Kanton Neuenburg","François Voisard, Canton du Neuchâtel"
-"09:05 – 12:30","In Vorbereitung","en préparation",,,
-"?? – ??","Kaffeepause","Pause café",,,
+"09:05 – 09:30","Neues vom QGIS Projekt mit Fokus auf QGIS 4","Actualités du projet QGIS, avec un accent particulier sur QGIS 4",,"OPENGIS.ch","OPENGIS.ch"
+"09:30 – 10:35","In Vorbereitung","en préparation",,,
+"10:35 - 10:55","Einführung in Lizmap","Introduction à Lizmap",,"Hans-Jörg Stark, GEOTEST AG","Hans-Jörg Stark, GEOTEST AG"
+"10:55 – 11:25","Kaffeepause","Pause café",,,
+"11:25 - 11:40","Sequentieller Datenimport in TEKSI","Importation séquentielle de données dans TEKSI",,"Cyril Meder, Waldburger Ingenieure AG","Cyril Meder, Waldburger Ingenieure AG"
+"11:40 - 12:00","QGIS trifft auf Django-OAPIF","QGIS à la rencontre de Django-OAPIF",,"Isabel Kiefer, OPENGIS.ch","Isabel Kiefer, OPENGIS.ch"
+"12:00 - 12:15","QGIS als Videobearbeitungsprogramm nutzen? Ein Beispiel zwischen Kunst und Geografie","Transformer QGIS en logiciel de montage vidéo? Un exemple entre art et géographie",,"OPENGIS.ch","OPENGIS.ch"
+"12:15 – 12:30","In Vorbereitung","en préparation",,,
 "12:30 – 13:30","Mittagspause","Pause midi",,,
 "13:30 – 15:00","Workshops Teil 1","Ateliers partie 1",,,
-,"A: <b>Noch zu bestimmen</b><br/>Raum ??","A: <b>A définir</b><br/>Salle ??",,,
-,"B: <b>Noch zu bestimmen</b><br/>Raum ??","B: <b>A définir</b><br/>Salle ??",,,
-,"C: <b>Noch zu bestimmen</b><br/>Raum ??","C: <b>A définir</b><br/>Salle ??",,,
+,"A: <b>TEKSI für Einsteiger</b><br/>Raum A 017","A: <b>TEKSI pour débutants</b><br/>Salle A 017",,,
+,"B: <b>Model Baker</b><br/>Raum S 101","B: <b>Model Baker</b><br/>Salle S 101",,,
+,"C: <b>Graphical Modeler</b><br/>Raum A 027","C: <b>Graphical Modeler</b><br/>Salle A 027",,,
+,"D: <b>Advanced Print Composer</b><br/>Raum A 019","D: <b>Advanced Print Composer</b><br/>Salle A 019",,,
 "15:00 – 15:15","Kaffeepause","Pause café",,,
 "15:15 – 16:45","Workshops Teil 2","Ateliers partie 2",,,
 ,"A: siehe oben","A: voir ci-dessus",,,
 ,"B: siehe oben","B: voir ci-dessus",,,
 ,"C: siehe oben","C: voir ci-dessus",,,
+,"D: siehe oben","D: voir ci-dessus",,,
