@@ -4,19 +4,19 @@
 "09:05 – 09:30","Neues vom QGIS Projekt mit Fokus auf QGIS 4","Actualités du projet QGIS, avec un accent particulier sur QGIS 4",,"OPENGIS.ch","OPENGIS.ch"
 "09:30 - 10:00","QGIS 3D and lidar news and quick Mergin Maps update","QGIS 3D and lidar news and quick Mergin Maps update",,"Martin Dobias, Lutra Consulting","Martin Dobias, Lutra Consulting"
 "10:00 - 10:20","Einführung in Lizmap","Introduction à Lizmap",,"Hans-Jörg Stark, GEOTEST AG","Hans-Jörg Stark, GEOTEST AG"
-"10:20 – 10:35","In Vorbereitung","en préparation",,,
-"10:35 – 10:55","QGIS im Einsatz im kantonalen Krisenstab","QGIS utilisé par la cellule de crise cantonale",,"Sylvain Pabst, Kanton Neuenburg","Sylain Pabst, Canton du Neuchâtel"
-"10:55 – 11:25","Kaffeepause","Pause café",,,
+"10:20 – 10:40","QWC: Neues aus dem Projekt","QWC: Nouvelles du projet",,"Sandro Mani, Sourcepole","Sandro Mani, Sourcepole"
+"10:40 – 11:00","QGIS zur Überwachung von Ereignissen im kantonalen Krisenstab","Qgis comme outil de suivi des événements ORCCAN (Organe de gestion de crise cantonal)",,"Sylvain Pabst, Kanton Neuenburg","Sylvain Pabst, Canton du Neuchâtel"
+"11:00 – 11:25","Kaffeepause","Pause café",,,
 "11:25 - 11:40","Sequentieller Datenimport in TEKSI","Importation séquentielle de données dans TEKSI",,"Cyril Meder, Waldburger Ingenieure AG","Cyril Meder, Waldburger Ingenieure AG"
 "11:40 - 12:00","QGIS trifft auf Django-OAPIF","QGIS à la rencontre de Django-OAPIF",,"Linda Indra-Camathias, OPENGIS.ch","Linda Indra-Camathias, OPENGIS.ch"
 "12:00 - 12:15","QGIS als Videobearbeitungsprogramm nutzen? Ein Beispiel zwischen Kunst und Geografie","Transformer QGIS en logiciel de montage vidéo? Un exemple entre art et géographie",,"Valentin Buira, OPENGIS.ch","Valentin Buira, OPENGIS.ch"
 "12:15 – 12:30","Nurbs, SFCGAL, 3D Styles, Custom UI: Aktuelle Entwicklungen bei Oslandia","Nurbs, SFCGAL, 3D Styles, Custom UI: les dernières actualités d'Oslandia",,"Oslandia","Oslandia"
 "12:30 – 13:30","Mittagspause","Pause midi",,,
 "13:30 – 15:00","Workshops Teil 1","Ateliers partie 1",,,
-,"A: <b>TEKSI für Einsteiger</b><br/>Raum A 017","A: <b>TEKSI pour débutants</b><br/>Salle A 017",,,
-,"B: <b>Model Baker</b><br/>Raum S 101","B: <b>Model Baker</b><br/>Salle S 101",,,
-,"C: <b>Graphical Modeler</b><br/>Raum A 027","C: <b>Graphical Modeler</b><br/>Salle A 027",,,
-,"D: <b>Advanced Print Composer</b><br/>Laptop mit QGIS 3.40 oder 3.44<br/>Raum A 019","D: <b>Advanced Print Composer</b><br/>Laptop équipé de QGIS 3.40 ou 3.44<br/>Salle A 019",,,
+,"A: <b>TEKSI für Einsteiger</b><br/>Raum A 017","A: <b>TEKSI pour débutants</b><br/>Salle A 017",,"Cyril Meder, Waldburger Ingenieure AG","Cyril Meder, Waldburger Ingenieure SA"
+,"B: <b>Model Baker</b><br/>Raum S 101","B: <b>Model Baker</b><br/>Salle S 101",,"Dave Signer, OPENGIS.ch; Romedi Filli, Kanton SH","Dave Signer, OPENGIS.ch; Romedi Filli, Canton de SH"
+,"C: <b>Graphical Modeler</b><br/>Raum A 027","C: <b>Graphical Modeler</b><br/>Salle A 027",,"Valentin Buira, OPENGIS.ch","Valentin Buira, OPENGIS.ch"
+,"D: <b>Advanced Print Composer</b><br/>Laptop mit QGIS 3.40 oder 3.44<br/>Raum A 019","D: <b>Advanced Print Composer</b><br/>Laptop équipé de QGIS 3.40 ou 3.44<br/>Salle A 019",,"Andreas Neumann, ETHZ","Andreas Neumann, ETHZ"
 "15:00 – 15:15","Kaffeepause","Pause café",,,
 "15:15 – 16:45","Workshops Teil 2","Ateliers partie 2",,,
 ,"A: siehe oben","A: voir ci-dessus",,,
