@@ -24,13 +24,37 @@ werden kann, die Beschreibungen können mit Screenshots, Skizzen etc. ergänzt w
 Ein Initiant oder eine Initiantin kann für die Umsetzung bereits eine Entwicklungsfirma
 vorschlagen. Ansonsten sucht der Vorstand eine geeignete Firma für die Implementation.
 
-## Aktuelle Förderprojekte 2025
+## Aktuelle Förderprojekte 2026
+
+An der Generalversammlung 2026 sind folgende Förderprojekte angenommen worden:
+
+* Graphical Modeler 2: UX improvements
+
+* Processing: detect vector changes algorithm improvements
+
+* Enhancements and Improvements for QGIS DWG support
+
+* Enable or disable symbol layer in layer styling dialogue
+
+* Improvements to elevation profile: Ability to define scale in layout
+
+* Attribute form: QML Widget Editing Capabilities
+
+* Layout Scalebar Unit Placement
+
+* Temporal Resolution Support in QGIS Server
+
+## Umgesetzte Förderprojekte
+
+### Förderprojekte 2025
 
 An der Generalversammlung 2025 sind folgende Förderprojekte angenommen worden:
 
-* Improvements to attribute form designer
+* Improvements to attribute form designer<br/>
+  [umgesetzt in Version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-switch-between-field-names-and-field-aliases-in-forms){: .external-link :}
 
-* QGIS Processing Graphical Modeller improvements
+* QGIS Processing Graphical Modeller improvements<br/>
+  [umgesetzt in Version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-add-basic-drag-and-drop-support-in-the-model-designer){: .external-link :}
 
 * SwissGeoDownloader integration into SwissLocator
 
@@ -39,9 +63,6 @@ An der Generalversammlung 2025 sind folgende Förderprojekte angenommen worden:
 * Jahresgönnerschaft für QGIS Model Baker
 
 * Unterhalt SwissLocator
-
-
-## Umgesetzte Förderprojekte
 
 ### Förderprojekte 2024
 

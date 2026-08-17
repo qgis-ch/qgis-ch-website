@@ -25,13 +25,37 @@ Un nouveau projet de soutien ou une idée de projet de soutien est lancé comme 
 Un initiateur ou une initiatrice peut déjà proposer une société de développement pour la
 réalisation. Sinon, le comité recherche une société appropriée pour l'implémentation.
 
-## Projets de soutien actuels 2025
+## Projets de soutien actuels 2026
+
+Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2026:
+
+* Graphical Modeler 2: UX improvements
+
+* Processing: detect vector changes algorithm improvements
+
+* Enhancements and Improvements for QGIS DWG support
+
+* Enable or disable symbol layer in layer styling dialogue
+
+* Improvements to elevation profile: Ability to define scale in layout
+
+* Attribute form: QML Widget Editing Capabilities
+
+* Layout Scalebar Unit Placement
+
+* Temporal Resolution Support in QGIS Server
+
+## Projets de soutien réalisés
+
+### Projets de soutien 2025
 
 Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2025:
 
-* Improvements to attribute form designer
+* Improvements to attribute form designer<br/>
+  [réalisé en version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-switch-between-field-names-and-field-aliases-in-forms){: .external-link :}
 
-* QGIS Processing Graphical Modeller improvements
+* QGIS Processing Graphical Modeller improvements<br/>
+  [réalisé en version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-add-basic-drag-and-drop-support-in-the-model-designer){: .external-link :}
 
 * SwissGeoDownloader integration into SwissLocator
 
@@ -40,8 +64,6 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 * Donation annuelle pour QGIS Model Baker
 
 * Entretien SwissLocator
-
-## Projets de soutien réalisés
 
 ### Projets de soutien 2024
 
