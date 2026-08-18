@@ -48,8 +48,6 @@ An der Generalversammlung 2026 sind folgende Förderprojekte angenommen worden:
 
 ### Förderprojekte 2025
 
-An der Generalversammlung 2025 sind folgende Förderprojekte angenommen worden:
-
 * Improvements to attribute form designer<br/>
   [umgesetzt in Version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-switch-between-field-names-and-field-aliases-in-forms){: .external-link :}
 

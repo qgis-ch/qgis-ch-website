@@ -49,8 +49,6 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 
 ### Projets de soutien 2025
 
-Les projets de soutien suivants ont été acceptés lors de l'assemblée générale 2025:
-
 * Improvements to attribute form designer<br/>
   [réalisé en version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-switch-between-field-names-and-field-aliases-in-forms){: .external-link :}
 
