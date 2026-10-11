@@ -54,9 +54,11 @@ An der Generalversammlung 2026 sind folgende Förderprojekte angenommen worden:
 * QGIS Processing Graphical Modeller improvements<br/>
   [umgesetzt in Version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-add-basic-drag-and-drop-support-in-the-model-designer){: .external-link :}
 
-* SwissGeoDownloader integration into SwissLocator
+* SwissGeoDownloader integration into SwissLocator<br/>
+[umgesetzt in Swiss Locator Version 5.0.0](https://github.com/opengisch/qgis-swiss-locator/releases/tag/5.0.0){: .external-link :}
 
-* Improvements to Swiss Locator Plugin
+* Improvements to Swiss Locator Plugin<br/>
+[umgesetzt in Swiss Locator Version 5.0.0](https://github.com/opengisch/qgis-swiss-locator/releases/tag/5.0.0){: .external-link :}
 
 * Jahresgönnerschaft für QGIS Model Baker
 

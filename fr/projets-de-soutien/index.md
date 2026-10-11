@@ -55,9 +55,11 @@ Les projets de soutien suivants ont été acceptés lors de l'assemblée génér
 * QGIS Processing Graphical Modeller improvements<br/>
   [réalisé en version 3.44](https://qgis.org/project/visual-changelogs/visualchangelog344/#feature-add-basic-drag-and-drop-support-in-the-model-designer){: .external-link :}
 
-* SwissGeoDownloader integration into SwissLocator
+* SwissGeoDownloader integration into SwissLocator<br/>
+[réalisé en Swiss Locator version 5.0.0](https://github.com/opengisch/qgis-swiss-locator/releases/tag/5.0.0){: .external-link :}
 
-* Improvements to Swiss Locator Plugin
+* Improvements to Swiss Locator Plugin<br/>
+[réalisé en Swiss Locator version 5.0.0](https://github.com/opengisch/qgis-swiss-locator/releases/tag/5.0.0){: .external-link :}
 
 * Donation annuelle pour QGIS Model Baker
 
