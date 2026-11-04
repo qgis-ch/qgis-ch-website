@@ -2,10 +2,10 @@
 "08:30 – 09:00","Eintreffen und Anmeldung","Arrivée et réception",,,
 "09:00 – 09:05","Begrüssung","Mot de bienvenue",,"François Voisard, Kanton Neuenburg","François Voisard, Canton du Neuchâtel"
 "09:05 – 09:30","Neues vom QGIS Projekt mit Fokus auf QGIS 4","Actualités du projet QGIS, avec un accent particulier sur QGIS 4",,"OPENGIS.ch","OPENGIS.ch"
-"09:30 - 10:00","QGIS 3D and lidar news and quick Mergin Maps update","QGIS 3D and lidar news and quick Mergin Maps update",,"Martin Dobias, Lutra Consulting","Martin Dobias, Lutra Consulting"
+"09:30 - 10:00","QGIS 3D and lidar news and quick Mergin Maps update","QGIS 3D and lidar news and quick Mergin Maps update","https://docs.google.com/presentation/d/1E85zG-SbOXWa3RhsNMRUjmSUzWnbPpSZNmDPc5RL9UU/edit?usp=sharing","Martin Dobias, Lutra Consulting","Martin Dobias, Lutra Consulting"
 "10:00 - 10:20","Einführung in Lizmap","Introduction à Lizmap",,"Hans-Jörg Stark, GEOTEST AG","Hans-Jörg Stark, GEOTEST AG"
-"10:20 – 10:40","QWC: Neues aus dem Projekt","QWC: Nouvelles du projet",,"Sandro Mani, Sourcepole","Sandro Mani, Sourcepole"
-"10:40 – 11:00","QGIS zur Überwachung von Ereignissen im kantonalen Krisenstab","Qgis comme outil de suivi des événements ORCCAN (Organe de gestion de crise cantonal)",,"Sylvain Pabst, Kanton Neuenburg","Sylvain Pabst, Canton du Neuchâtel"
+"10:20 – 10:40","QWC: Neues aus dem Projekt","QWC: Nouvelles du projet",assets/pdf/2026/qwc2-bern26.pdf,"Sandro Mani, Sourcepole","Sandro Mani, Sourcepole"
+"10:40 – 11:00","QGIS zur Überwachung von Ereignissen im kantonalen Krisenstab","Qgis comme outil de suivi des événements ORCCAN (Organe de gestion de crise cantonal)",assets/pdf/2026/UserQgisCH26.pdf,"Sylvain Pabst, Kanton Neuenburg","Sylvain Pabst, Canton du Neuchâtel"
 "11:00 – 11:25","Kaffeepause","Pause café",,,
 "11:25 - 11:40","Sequentieller Datenimport in TEKSI","Importation séquentielle de données dans TEKSI",assets/pdf/2026/20260623_TEKSI_Praesentation_Seq_Datenimport.pdf,"Cyril Meder, Waldburger Ingenieure AG","Cyril Meder, Waldburger Ingenieure AG"
 "11:40 - 12:00","QGIS trifft auf Django-OAPIF","QGIS à la rencontre de Django-OAPIF",,"Linda Indra-Camathias, OPENGIS.ch","Linda Indra-Camathias, OPENGIS.ch"
