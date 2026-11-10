@@ -30,7 +30,7 @@ Comité actuel
 * Secrétaire: Adrian Weber (GEOGRID AG)
 * Caissier: Daniel Hollenweger (Ville de Zurich)
 * Andreas Neumann (EPF Zurich)
-* Benjamin Kuster (SoilCom GmbH)
+* Sarah Werlen (Rudaz+Partner SA)
 
 Les membres du comité sont atteignables via l'adresse e-mail suivante:
 

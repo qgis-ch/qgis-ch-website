@@ -30,7 +30,7 @@ Aktueller Vorstand
 * Sekretär: Adrian Weber (GEOGRID AG)
 * Kassier: Daniel Hollenweger (Stadt Zürich)
 * Andreas Neumann (ETH Zürich)
-* Benjamin Kuster (SoilCom GmbH)
+* Sarah Werlen (Rudaz+Partner AG)
 
 Die Vorstandsmitglieder sind erreichbar unter der E-Mail-Adresse:
 
